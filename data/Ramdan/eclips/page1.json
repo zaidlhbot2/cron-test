@@ -1,10 +1,997 @@
 {
   "page": 1,
   "total_pages": 2,
-  "total_episodes": 501,
+  "total_episodes": 516,
   "episodes_in_page": 500,
-  "last_update": "2026-02-23T07:10:05.544Z",
+  "last_update": "2026-02-23T13:12:16.067Z",
   "episodes": [
+    {
+      "id": "3640e3a13",
+      "series_id": "0ed21e78f",
+      "number": 7,
+      "title": "مسلسل عايلة مايلة الحلقة 7 السابعة",
+      "image": "https://laroza.cyou/uploads/thumbs/d1c4e8a1c-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=3640e3a13",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-ufdx0wixtgwk.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247379"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-8kqs61n3royr.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-3ap4v45tm184.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/yw48p9tv0fja.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-ytpntf4lqfgz.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-6ttwb1ato9eg.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-oldzpk6rp43r.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/JhB6I8SYT"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-knhr6bbup2l0.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/5f9cyxtj80ad"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/x59jr58yefdf"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/medgo0rvn7jt"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:12:12.866Z"
+    },
+    {
+      "id": "1f198291e",
+      "series_id": "4272ec7e2",
+      "number": 9,
+      "title": "مسلسل الضربة الحلقة 9 التاسعة",
+      "image": "https://laroza.cyou/uploads/thumbs/ae570d8ad-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=1f198291e",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-w2nir4fahorv.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247404"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-xvso9be8opja.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-dmt0275szakh.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/u2472roeaaj5.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-s7v5l0jmtcjp.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-fkkf20mpzrs2.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-biakxc7g7nvj.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/ARTIrA_zs"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-r5w27pqupdnf.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/azes5uxuxaue"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/vbxyrpnurdp5"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/q1dcod0pasnt"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:11:56.647Z"
+    },
+    {
+      "id": "5b918049c",
+      "series_id": "7564760ba",
+      "number": 9,
+      "title": "مسلسل لحظات مسروقة الحلقة 9 التاسعة",
+      "image": "https://laroza.cyou/uploads/thumbs/7230a4f14-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=5b918049c",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-cc59z3su0nge.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247409"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-r5ir9ujfpt95.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-uxzs6r9vkrn0.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/mk40uw3r006v.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-57eex3sk6krp.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-hqgxpy2x6lhw.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-7jfi4s5rsgdo.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/oakIYIMmD"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-ip4m78m1c3q9.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/d56bbw38r60u"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/3yulc435zqku"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/v35zru6r97ah"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:11:40.290Z"
+    },
+    {
+      "id": "c0f7698b3",
+      "series_id": "d4b0669ce",
+      "number": 7,
+      "title": "مسلسل بنت النعمان الحلقة 7 السابعة",
+      "image": "https://laroza.cyou/uploads/thumbs/9424dd412-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=c0f7698b3",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-6hk0oafxyps3.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247402"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-91tg38my3id7.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-zdyl3g8sddfv.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/1usxeyra1sge.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-g0hqjevlcf1f.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-shzqygzcvjf0.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-pthm0ionjoi6.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/0MbgTm-VML"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-ic5omr2qlczk.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/y2ziuup2lxl0"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/c0zqcmlui9xn"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/jmakzsziwq5o"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:11:33.315Z"
+    },
+    {
+      "id": "c571ca73d",
+      "series_id": "a7532ecf1",
+      "number": 7,
+      "title": "مسلسل البخت الحلقة 7 السابعة",
+      "image": "https://laroza.cyou/uploads/thumbs/55aaaa8b8-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=c571ca73d",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-dezv09awm0rr.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247405"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-u0zxcu6w9uv9.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-5qut4n12l4ng.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/ar5dyotzu7ly.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-iicraky2wt6j.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-m61zcuqcekvv.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-9bvk5w11tzwm.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/PYoiFJDvW"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-tbmcbigusdqz.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/vfktvioyg4c0"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/s2dscwnbq1ht"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/k91bfrfrsjn7"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:11:22.744Z"
+    },
+    {
+      "id": "3cdb8e808",
+      "series_id": "e6926d8ca",
+      "number": 8,
+      "title": "مسلسل حي الجرادية الحلقة 8 الثامنة",
+      "image": "https://laroza.cyou/uploads/thumbs/aeddcc6b7-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=3cdb8e808",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-951nizyor6z5.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247400"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-ep1pu4fg41i4.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-sjfrma6u4cc7.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/ydyx3auo94tu.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-n7bpziecnqim.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-iak4xxo9sara.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-n862gak8n8bq.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/0g4pKbBVX"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-5uk1renzmpfl.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/93ef2mq3lm7d"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/gpx6oe1x83ye"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/s1rfmmfxdfxv"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:11:12.135Z"
+    },
+    {
+      "id": "3a3787cee",
+      "series_id": "c26287637",
+      "number": 8,
+      "title": "مسلسل كسرة الحلقة 8 الثامنة",
+      "image": "https://laroza.cyou/uploads/thumbs/1d64ec750-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=3a3787cee",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-gvvja8xvkypj.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247394"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-j2qrxk7crrnz.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-cp6ueui2wzro.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/cznexapogjpl.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-ezwdbafakfqe.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-36mk6qfftx7z.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-ru6g88vywf6d.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/qltwFxkPz"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-ujnk6n1dh0za.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/klycxl7td3ng"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/t3zc72z9ihz1"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/xom6yxt4cclg"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:11:03.406Z"
+    },
+    {
+      "id": "791696d15",
+      "series_id": "24198170e",
+      "number": 7,
+      "title": "مسلسل درب الذهب الحلقة 7 السابعة",
+      "image": "https://laroza.cyou/uploads/thumbs/ed3685732-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=791696d15",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-drhogb32r4k1.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247403"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-5gdfnt9gdgie.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-r221ao7wzl4d.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/oaieyx0g9i0d.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-mg1rmitvm81u.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-m84haz3ydf2j.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-y5ro6oen3ynu.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/XQGJf2kly"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-ly6brn273hdg.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/jmuawck0cr53"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/jo9b08auw3l4"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/clhum5u8viyb"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:10:54.297Z"
+    },
+    {
+      "id": "bdcc2ad53",
+      "series_id": "19cfcf973",
+      "number": 8,
+      "title": "مسلسل غلط بنات الحلقة 8 الثامنة",
+      "image": "https://laroza.cyou/uploads/thumbs/f779d7936-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=bdcc2ad53",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://sh.ramadan-series.site/watch.php?id=Hhh4P9VZ2"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://qq.okprime.site/embed-bjmoo8fzbapy.html"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247417"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://rty1.film77.xyz/embed-2d0c2xinlmtr.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://vidoba.org/embed-iej6b1pum7gl.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://larhu.website/75fddwv6icg7.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://mp4plus.org/embed-8yelmyxtl76n.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://anafast.org/embed-6o5rfvu02ald.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://vidspeed.org/embed-tsnjmx3i7666.html"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://short.icu/UMOVdNtWl"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://vidmoly.net/embed-q6qf6tr84xc6.html"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://abstream.to/e/oehgo4tf8e1c"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://dsvplay.com/e/3fse2ns069gj"
+        },
+        {
+          "name": "سيرفر 14",
+          "url": "https://voe.sx/e/bxmhdheu5now"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:10:16.770Z"
+    },
+    {
+      "id": "57ba6b038",
+      "series_id": "a4225b39e",
+      "number": 7,
+      "title": "مسلسل بخمس ارواح الحلقة 7 السابعة",
+      "image": "https://laroza.cyou/uploads/thumbs/514ed510c-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=57ba6b038",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://sh.ramadan-series.site/watch.php?id=u9ecvknYn"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://qq.okprime.site/embed-grh62wxcwypu.html"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247415"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://rty1.film77.xyz/embed-30layuwa5hdu.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://vidoba.org/embed-vf0qhk33roaw.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://larhu.website/qb5z3onkj2vd.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://mp4plus.org/embed-lhq4uwgwikga.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://anafast.org/embed-n2p2c4rdb28f.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://vidspeed.org/embed-c92inigoukx1.html"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://short.icu/HtMUtmn7W"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://vidmoly.net/embed-e666108ref9i.html"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://abstream.to/e/lqyx2rdkmjwj"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://dsvplay.com/e/zdcryyfr7svd"
+        },
+        {
+          "name": "سيرفر 14",
+          "url": "https://voe.sx/e/jgexgzam7ydv"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:10:13.421Z"
+    },
+    {
+      "id": "8352be089",
+      "series_id": "fad1e07bc",
+      "number": 8,
+      "title": "مسلسل مولانا الحلقة 8 الثامنة",
+      "image": "https://imagedelivery.net/LG7jKZjljKgBVkThGV2arQ/f9fc227b-c744-429e-7fd9-d640f25aa500/public",
+      "link": "https://laroza.lol/video.php?vid=8352be089",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://sh.ramadan-series.site/watch.php?id=Lr6zvdsWU"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://qq.okprime.site/embed-2m0hm14dcoe3.html"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247387"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://rty1.film77.xyz/embed-0sv76zt3nr6h.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://vidoba.org/embed-5lt5640os1ux.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://larhu.website/d5noglllmdei.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://mp4plus.org/embed-9n418gdh7lxo.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://anafast.org/embed-rpcggdgtnr17.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://vidspeed.org/embed-1gybsb9hnysg.html"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://short.icu/eie3a59pn"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://vidmoly.net/embed-jus1xj9exp59.html"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://abstream.to/e/zbftlkkd7w63"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://dsvplay.com/e/h04jl2m31pjg"
+        },
+        {
+          "name": "سيرفر 14",
+          "url": "https://voe.sx/e/9vlzr7zzp6lh"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:10:10.250Z"
+    },
+    {
+      "id": "d6f9e4a55",
+      "series_id": "7bfb7e4b0",
+      "number": 7,
+      "title": "مسلسل السوق الحرة الحلقة 7 السابعة",
+      "image": "https://laroza.cyou/uploads/thumbs/172e17385-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=d6f9e4a55",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-mwe62kinxky3.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247411"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-fxpo7vh7weyf.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-wl9mj37hpsr5.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/k2l96jblvsw5.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-6snd015dyns2.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-ifhsx0l4lhj5.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-umsl01oges10.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/tl3VRFQfi"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-cql23irygr9v.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/98ewegfwqzzj"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/011a7mxytlxq"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/i4y44pqaolpg"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:10:04.630Z"
+    },
+    {
+      "id": "4c691b417",
+      "series_id": "65a164752",
+      "number": 7,
+      "title": "مسلسل روج اسود الحلقة 7 السابعة",
+      "image": "https://laroza.cyou/uploads/thumbs/8dca13489-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=4c691b417",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-mrgmmssqhnsl.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247406"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-caqcfrx5jrfp.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-z61tfb0fn8jd.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/mvfype62ei65.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-a5bdtvsf3rti.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-hrpcqgwmh3wy.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-q90ogn5p8io4.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/aSOjxABFK6"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-xa0bxns1tx78.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/fk1b0d9lx0pk"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/whiol3flzn67"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/zrqw5rnesblz"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:10:01.726Z"
+    },
+    {
+      "id": "be9357305",
+      "series_id": "7a2065a1c",
+      "number": 7,
+      "title": "مسلسل اثبات نسب الحلقة 7 السابعة",
+      "image": "https://laroza.cyou/uploads/thumbs/cb03bf74f-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=be9357305",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-zef80ohnnz6g.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247410"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-bcjnrjvqegvr.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-bvstrtab6u78.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/5n0ysdso2kyy.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-0x4crrcccd32.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-krwoctobq1h9.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-7dal7h1yfpol.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/u0ag97LZo"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-8elm4ypo0sqi.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/za1xvuonnpvb"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/mobq1v7e7agx"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/td3srx5j0j0j"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:09:51.235Z"
+    },
+    {
+      "id": "bc7b139bb",
+      "series_id": "b99cc5c64",
+      "number": 7,
+      "title": "مسلسل المصيدة الحلقة 7 السابعة",
+      "image": "https://laroza.cyou/uploads/thumbs/a6b75c4d5-1.jpg",
+      "link": "https://laroza.lol/video.php?vid=bc7b139bb",
+      "season": 1,
+      "duration": "00:00",
+      "servers": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://qq.okprime.site/embed-6kyshy927vpm.html"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://vk.com/video_ext.php?oid=889347337&id=456247401"
+        },
+        {
+          "name": "سيرفر 3",
+          "url": "https://rty1.film77.xyz/embed-cibektvh62yr.html"
+        },
+        {
+          "name": "سيرفر 4",
+          "url": "https://vidoba.org/embed-u824pmaiw63u.html"
+        },
+        {
+          "name": "سيرفر 5",
+          "url": "https://larhu.website/021b8sgg9066.html"
+        },
+        {
+          "name": "سيرفر 6",
+          "url": "https://mp4plus.org/embed-3pacf9qfh5qy.html"
+        },
+        {
+          "name": "سيرفر 7",
+          "url": "https://anafast.org/embed-jglpyzozpf83.html"
+        },
+        {
+          "name": "سيرفر 8",
+          "url": "https://vidspeed.org/embed-flwcgh8ce14f.html"
+        },
+        {
+          "name": "سيرفر 9",
+          "url": "https://short.icu/njcLFp0xO"
+        },
+        {
+          "name": "سيرفر 10",
+          "url": "https://vidmoly.net/embed-nn25xxpggttp.html"
+        },
+        {
+          "name": "سيرفر 11",
+          "url": "https://abstream.to/e/uf4ukoh5i0w0"
+        },
+        {
+          "name": "سيرفر 12",
+          "url": "https://dsvplay.com/e/bhe72pe569ym"
+        },
+        {
+          "name": "سيرفر 13",
+          "url": "https://voe.sx/e/vdxuki7o5gzk"
+        }
+      ],
+      "extracted_at": "2026-02-23T13:09:35.824Z"
+    },
     {
       "id": "4d8480930",
       "series_id": "249d68f38",
@@ -30187,895 +31174,6 @@
         }
       ],
       "extracted_at": "2026-02-20T15:56:29.898Z"
-    },
-    {
-      "id": "891babd93",
-      "series_id": "516dbb3e7",
-      "number": 3,
-      "title": "مسلسل وننسى اللي كان الحلقة 3 الثالثة",
-      "image": "https://laroza.shop/uploads/thumbs/715c38ccc-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=891babd93",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://sh.ramadan-series.site/watch.php?id=MvGs3fsDm"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-snqztean6vcz.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241897"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-lmdd7l7iee6z.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://vidoba.org/embed-czaqboxc7mu3.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://larhu.website/76fk8cp96sy0.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://mp4plus.org/embed-47hgz0j2ul9q.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://anafast.org/embed-8xehrgl5an9n.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://vidspeed.org/embed-e0efm0o4p526.html"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://short.icu/lgG--FzqD"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://vidmoly.net/embed-tgggym0z4n12.html"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://abstream.to/e/zql0zw97pyp0"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://dsvplay.com/e/c441qtbubjdk"
-        },
-        {
-          "name": "سيرفر 14",
-          "url": "https://voe.sx/e/2xql3te0xeet"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:56:29.898Z"
-    },
-    {
-      "id": "b50eff77e",
-      "series_id": "97faca994",
-      "number": 1,
-      "title": "مسلسل فخر الدلتا الحلقة 1 الاولي",
-      "image": "https://laroza.shop/uploads/thumbs/Y5QgE4IPD-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=b50eff77e",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://watch-rmdan.shop/watch.php?id=cLqrbFjNJ"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-bqdvda79k5mb.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=888426734&id=456241041"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-6s6tgm002n6s.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://vidoba.org/embed-vfpk6o5xioev.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://larhu.website/gz8d3jgfuxo8.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://mp4plus.org/embed-tq70cgyep8q7.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://anafast.org/embed-8epbtzrfp5pp.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://vidspeed.org/embed-97umf3zq7698.html"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://short.icu/FxB-SLdWF"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://vidmoly.net/embed-ms25mth61kbj.html"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://abstream.to/e/q850wo2iexcb"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://mxdrop.to/e/7kpdjlrxhd47okz"
-        },
-        {
-          "name": "سيرفر 14",
-          "url": "https://dsvplay.com/e/eiabwf14mxna"
-        },
-        {
-          "name": "سيرفر 15",
-          "url": "https://voe.sx/e/rsjslcxwfofs"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:56:23.220Z"
-    },
-    {
-      "id": "3adea7df3",
-      "series_id": "97faca994",
-      "number": 2,
-      "title": "مسلسل فخر الدلتا الحلقة 2 الثانية",
-      "image": "https://laroza.shop/uploads/thumbs/Y5QgE4IPD-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=3adea7df3",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://watch-rmdan.shop/watch.php?id=WA5UgBbqY"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-gtwcwg5n5wgj.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241863"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-t9qt30ltwd98.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://vidoba.org/embed-l7li8rs6f96w.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://larhu.website/mrheqwe2yj0b.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://mp4plus.org/embed-66x9tdhhept2.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://anafast.org/embed-n2ruj7sody63.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://vidspeed.org/embed-02vv0r210mk1.html"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://short.icu/9o-MuLJum"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://vidmoly.net/embed-xjtqgdj59lx4.html"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://abstream.to/e/c7nsv06j1b64"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://dsvplay.com/e/xasi47mgtjka"
-        },
-        {
-          "name": "سيرفر 14",
-          "url": "https://voe.sx/e/onpa6wmrk4cg"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:56:23.220Z"
-    },
-    {
-      "id": "e45c57c6a",
-      "series_id": "97faca994",
-      "number": 3,
-      "title": "مسلسل فخر الدلتا الحلقة 3 الثالثة",
-      "image": "https://laroza.shop/uploads/thumbs/Y5QgE4IPD-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=e45c57c6a",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://watch-rmdan.shop/watch.php?id=WA5UgBbqY"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-gtwcwg5n5wgj.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241863"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-t9qt30ltwd98.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://vidoba.org/embed-l7li8rs6f96w.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://larhu.website/mrheqwe2yj0b.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://mp4plus.org/embed-66x9tdhhept2.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://anafast.org/embed-n2ruj7sody63.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://vidspeed.org/embed-02vv0r210mk1.html"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://short.icu/9o-MuLJum"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://vidmoly.net/embed-xjtqgdj59lx4.html"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://abstream.to/e/c7nsv06j1b64"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://dsvplay.com/e/xasi47mgtjka"
-        },
-        {
-          "name": "سيرفر 14",
-          "url": "https://voe.sx/e/onpa6wmrk4cg"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:56:23.220Z"
-    },
-    {
-      "id": "f19bf99cd",
-      "series_id": "95564673d",
-      "number": 1,
-      "title": "مسلسل المتر سمير الحلقة 1 الاولي",
-      "image": "https://laroza.shop/uploads/thumbs/f19bf99cd-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=f19bf99cd",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://qq.okprime.site/embed-74yvhha6mnie.html"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://vk.com/video_ext.php?oid=888426734&id=456240921"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://rty1.film77.xyz/embed-nzd7ex3mnar4.html"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://vidoba.org/embed-1ug4dqr3j3pk.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://vidspeed.org/embed-e9wzimqw1gpr.html"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:56:19.604Z"
-    },
-    {
-      "id": "5bf409c06",
-      "series_id": "fd55e6ca6",
-      "number": 2,
-      "title": "برنامج رامز ليفل الوحش الحلقة 2 الثانية حلقة هنا الزاهد",
-      "image": "https://laroza.shop/uploads/thumbs/5a8ef2596-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=5bf409c06",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [],
-      "extracted_at": "2026-02-20T15:56:07.457Z"
-    },
-    {
-      "id": "376c6a6cb",
-      "series_id": "fd55e6ca6",
-      "number": 3,
-      "title": "برنامج رامز ليفل الوحش الحلقة 3 الثالثة",
-      "image": "https://laroza.shop/uploads/thumbs/5a8ef2596-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=376c6a6cb",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [],
-      "extracted_at": "2026-02-20T15:56:07.457Z"
-    },
-    {
-      "id": "cfee36307",
-      "series_id": "ae583760b",
-      "number": 1,
-      "title": "مسلسل الست موناليزا الحلقة 1 الاولي",
-      "image": "https://laroza.shop/uploads/thumbs/cfee36307-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=cfee36307",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://sh.ramadan-series.site/watch.php?id=2BU6kXrfN"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-tskbx93d72ox.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241811"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-o2cadabidpo7.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://vidoba.org/embed-gztcgan25cww.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://larhu.website/9gtc4vl88jcf.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://mp4plus.org/embed-wpb74f1kch5m.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://anafast.org/embed-gavpg3ozk9tk.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://vidspeed.org/embed-f2ihfspw6qqo.html"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://short.icu/x6OPnYjxc"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://vidmoly.net/embed-f0yj6zuxr3hf.html"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://abstream.to/e/3kav3bxipbwz"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://mxdrop.to/e/nlx9nlp8ilqkdpv"
-        },
-        {
-          "name": "سيرفر 14",
-          "url": "https://dsvplay.com/e/l6j2se1yj3he"
-        },
-        {
-          "name": "سيرفر 15",
-          "url": "https://voe.sx/e/fp5len4rp4sf"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:55:57.778Z"
-    },
-    {
-      "id": "561759e3c",
-      "series_id": "ae583760b",
-      "number": 2,
-      "title": "مسلسل الست موناليزا الحلقة 2 الثانية",
-      "image": "https://laroza.shop/uploads/thumbs/cfee36307-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=561759e3c",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://sh.ramadan-series.site/watch.php?id=ESdns3Ejr"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-p4ssd52345ko.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241812"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-dvghh4lj3w7p.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://vidoba.org/embed-5puvq41ih5j9.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://larhu.website/f104yenz919j.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://mp4plus.org/embed-h760312op84a.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://anafast.org/embed-m6x1jmvfm9lu.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://vidspeed.org/embed-95wqf596gmrg.html"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://short.icu/oiy_PM6j1"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://vidmoly.net/embed-2v3ff11b4es4.html"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://abstream.to/e/n887ymzu8b0n"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://mxdrop.to/e/7kpdjk69t9191m"
-        },
-        {
-          "name": "سيرفر 14",
-          "url": "https://dsvplay.com/e/6mone4nd60yv"
-        },
-        {
-          "name": "سيرفر 15",
-          "url": "https://voe.sx/e/mu4knvprlnfr"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:55:57.778Z"
-    },
-    {
-      "id": "1cb69fb24",
-      "series_id": "ae583760b",
-      "number": 3,
-      "title": "مسلسل الست موناليزا الحلقة 3 الثالثة",
-      "image": "https://laroza.shop/uploads/thumbs/cfee36307-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=1cb69fb24",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://sh.ramadan-series.site/watch.php?id=7aYqmzspd"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-sshcmta72htt.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241860"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-02asjs2eyhtu.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://vidoba.org/embed-h7pjdtyvov9b.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://larhu.website/kyft17qrldmj.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://mp4plus.org/embed-0ussgb0qwwgk.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://anafast.org/embed-k4i4bph3rcre.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://vidspeed.org/embed-40eha6g0ji24.html"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://short.icu/1oLYl_sGc"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://vidmoly.net/embed-6r9ugwwd0ppe.html"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://abstream.to/e/7omi302f07hh"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://dsvplay.com/e/22c883r0ksr2"
-        },
-        {
-          "name": "سيرفر 14",
-          "url": "https://voe.sx/e/92txfsy6cid2"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:55:57.778Z"
-    },
-    {
-      "id": "4524ac384",
-      "series_id": "ae583760b",
-      "number": 5,
-      "title": "مسلسل الست موناليزا الحلقة 5 الخامسة",
-      "image": "https://laroza.shop/uploads/thumbs/cfee36307-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=4524ac384",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://sh.ramadan-series.site/watch.php?id=dfPTXTyrk"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-gjgpkf42w389.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241937"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-hiyfdla06nnb.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://vidoba.org/embed-cabrtg7efy8d.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://larhu.website/9g3lzuii471p.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://mp4plus.org/embed-n25xt59py3em.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://anafast.org/embed-19wv4qafme8a.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://vidspeed.org/embed-fglf0yztglsh.html"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://short.icu/Zs4g8gMez"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://vidmoly.net/embed-bn4hzg4xo7ph.html"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://abstream.to/e/7t0skps77u3c"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://dsvplay.com/e/rsgr6gzqv1fh"
-        },
-        {
-          "name": "سيرفر 14",
-          "url": "https://voe.sx/e/fxu8wgvmlx0n"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:55:57.778Z"
-    },
-    {
-      "id": "d767d322e",
-      "series_id": "1cf22b484",
-      "number": 2,
-      "title": "مسلسل افراج الحلقة 2 الثانية",
-      "image": "https://laroza.shop/uploads/thumbs/372599929-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=d767d322e",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://sh.ramadan-series.site/watch.php?id=XWMNxy647"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-zddmrq71k6zs.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241870"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-5gvly6krei4v.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://larhu.website/sil52c029l22.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://mp4plus.org/embed-ru0ko1yxa5lb.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://anafast.org/embed-xbt5wivxpg3d.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://vidspeed.org/embed-0pcxy0yot9x5.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://short.icu/LDchxSuZHa"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://vidmoly.net/embed-ldhyn77fcw1r.html"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://abstream.to/e/1nsmq2niuq5h"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://dsvplay.com/e/ujtihj9tux4o"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://voe.sx/e/420lwyeblorg"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:55:50.245Z"
-    },
-    {
-      "id": "aeb4a81b1",
-      "series_id": "1cf22b484",
-      "number": 3,
-      "title": "مسلسل افراج الحلقة 3 الثالثة",
-      "image": "https://laroza.shop/uploads/thumbs/372599929-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=aeb4a81b1",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://sh.ramadan-series.site/watch.php?id=XWMNxy647"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://qq.okprime.site/embed-zddmrq71k6zs.html"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241870"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://rty1.film77.xyz/embed-5gvly6krei4v.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://larhu.website/sil52c029l22.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://mp4plus.org/embed-ru0ko1yxa5lb.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://anafast.org/embed-xbt5wivxpg3d.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://vidspeed.org/embed-0pcxy0yot9x5.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://short.icu/LDchxSuZHa"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://vidmoly.net/embed-ldhyn77fcw1r.html"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://abstream.to/e/1nsmq2niuq5h"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://dsvplay.com/e/ujtihj9tux4o"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://voe.sx/e/420lwyeblorg"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:55:50.244Z"
-    },
-    {
-      "id": "8490ae2a3",
-      "series_id": "81ce0a5d7",
-      "number": 4,
-      "title": "مسلسل علي كلاي الحلقة 4 الرابعة",
-      "image": "https://laroza.shop/uploads/thumbs/0ec1512a8-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=8490ae2a3",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://qq.okprime.site/embed-9efw35v3uerq.html"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241936"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://rty1.film77.xyz/embed-xidfh8i8zzpu.html"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://vidoba.org/embed-dqh5afd8ol2p.html"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://larhu.website/svlv21bu2bpi.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://mp4plus.org/embed-msqw7i7rreeu.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://anafast.org/embed-e99vjvazbs4f.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://vidspeed.org/embed-3kfijfup3mqg.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://short.icu/9hiEI_gkI"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://vidmoly.net/embed-g8a6wdjxii8m.html"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://abstream.to/e/4gvwcx4ga2nh"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://dsvplay.com/e/qmzswre2scl5"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://voe.sx/e/tlxbwbmaom9e"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:55:45.850Z"
-    },
-    {
-      "id": "83230ad1d",
-      "series_id": "d8cb9c11b",
-      "number": 2,
-      "title": "مسلسل الكينج الحلقة 2 الثانية",
-      "image": "https://laroza.shop/uploads/thumbs/92ae9f039-1.jpg",
-      "link": "https://laroza.lol/video.php?vid=83230ad1d",
-      "season": 1,
-      "duration": "00:00",
-      "servers": [
-        {
-          "name": "سيرفر 1",
-          "url": "https://play.aboyounes.net/albaplayer/king2/"
-        },
-        {
-          "name": "سيرفر 2",
-          "url": "https://sh.ramadan-series.site/watch.php?id=9KKJhZN6x"
-        },
-        {
-          "name": "سيرفر 3",
-          "url": "https://qq.okprime.site/embed-8lftldm901x5.html"
-        },
-        {
-          "name": "سيرفر 4",
-          "url": "https://vk.com/video_ext.php?oid=897962571&id=456241828"
-        },
-        {
-          "name": "سيرفر 5",
-          "url": "https://rty1.film77.xyz/embed-48dh5fozvhdx.html"
-        },
-        {
-          "name": "سيرفر 6",
-          "url": "https://larhu.website/c88uspw26rga.html"
-        },
-        {
-          "name": "سيرفر 7",
-          "url": "https://mp4plus.org/embed-te22ap2ybkyb.html"
-        },
-        {
-          "name": "سيرفر 8",
-          "url": "https://anafast.org/embed-b9aqc7kul9v6.html"
-        },
-        {
-          "name": "سيرفر 9",
-          "url": "https://vidspeed.org/embed-3i24exvs2bsr.html"
-        },
-        {
-          "name": "سيرفر 10",
-          "url": "https://short.icu/GucVeEHlJ"
-        },
-        {
-          "name": "سيرفر 11",
-          "url": "https://vidmoly.net/embed-pjyt0canyy2u.html"
-        },
-        {
-          "name": "سيرفر 12",
-          "url": "https://abstream.to/e/8w8ptuupy99a"
-        },
-        {
-          "name": "سيرفر 13",
-          "url": "https://mxdrop.to/e/nlx9xmpxhlqqxjv"
-        },
-        {
-          "name": "سيرفر 14",
-          "url": "https://dsvplay.com/e/jy32a4t6fb0w"
-        },
-        {
-          "name": "سيرفر 15",
-          "url": "https://voe.sx/e/jt9yrn7tv7ty"
-        }
-      ],
-      "extracted_at": "2026-02-20T15:55:39.042Z"
     }
   ]
 }
