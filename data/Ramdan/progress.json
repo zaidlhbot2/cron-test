@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-02-22T18:42:18.985Z",
+  "last_scan": "2026-02-23T02:28:40.117Z",
   "series": {
     "193369381": {
       "last_episode": "c5c18decf",
@@ -230,7 +230,7 @@
       }
     },
     "516dbb3e7": {
-      "last_episode": "4e0a0488c",
+      "last_episode": "5a33755c0",
       "last_season": 1,
       "episodes": {
         "715c38ccc": {
@@ -262,6 +262,12 @@
           "title": "مسلسل وننسى اللي كان الحلقة 5 الخامسة",
           "number": 5,
           "season": 1
+        },
+        "5a33755c0": {
+          "extracted_at": "2026-02-23T02:25:20.399Z",
+          "title": "مسلسل وننسى اللي كان الحلقة 6 السادسة",
+          "number": 6,
+          "season": 1
         }
       }
     },
@@ -278,7 +284,7 @@
       }
     },
     "1c76263d2": {
-      "last_episode": "31ca76a65",
+      "last_episode": "e36ad88ba",
       "last_season": 1,
       "episodes": {
         "aff59c3c9": {
@@ -309,6 +315,12 @@
           "extracted_at": "2026-02-22T02:24:12.505Z",
           "title": "مسلسل راس الافعى الحلقة 5 الخامسة",
           "number": 5,
+          "season": 1
+        },
+        "e36ad88ba": {
+          "extracted_at": "2026-02-23T02:25:29.434Z",
+          "title": "مسلسل راس الافعى الحلقة 6 السادسة",
+          "number": 6,
           "season": 1
         }
       }
@@ -434,7 +446,7 @@
       }
     },
     "2a78b780a": {
-      "last_episode": "7a7883b73",
+      "last_episode": "c8be47aa5",
       "last_season": 1,
       "episodes": {
         "3839b1133": {
@@ -459,6 +471,12 @@
           "extracted_at": "2026-02-22T02:24:01.830Z",
           "title": "مسلسل سوا سوا الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "c8be47aa5": {
+          "extracted_at": "2026-02-23T02:25:17.026Z",
+          "title": "مسلسل سوا سوا الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -620,7 +638,7 @@
       }
     },
     "cd537c4e8": {
-      "last_episode": "ae44132ea",
+      "last_episode": "35349559e",
       "last_season": 1,
       "episodes": {
         "4d7921e06": {
@@ -651,6 +669,12 @@
           "extracted_at": "2026-02-22T02:25:36.062Z",
           "title": "مسلسل بالحرام الحلقة 6 السادسة",
           "number": 6,
+          "season": 1
+        },
+        "35349559e": {
+          "extracted_at": "2026-02-23T02:26:28.640Z",
+          "title": "مسلسل بالحرام الحلقة 7 السابعة",
+          "number": 7,
           "season": 1
         }
       }
@@ -962,7 +986,7 @@
       }
     },
     "85aa7b7ee": {
-      "last_episode": "e4fe5e55e",
+      "last_episode": "4d4f37f3a",
       "last_season": 1,
       "episodes": {
         "6b94c076f": {
@@ -987,6 +1011,12 @@
           "extracted_at": "2026-02-22T02:25:46.284Z",
           "title": "مسلسل الهيبة راس الجبل الحلقة 4 الرابعة",
           "number": 4,
+          "season": 1
+        },
+        "4d4f37f3a": {
+          "extracted_at": "2026-02-23T02:26:38.256Z",
+          "title": "مسلسل الهيبة راس الجبل الحلقة 5 الخامسة",
+          "number": 5,
           "season": 1
         }
       }
@@ -1040,7 +1070,7 @@
       }
     },
     "3d171dc50": {
-      "last_episode": "579436c8f",
+      "last_episode": "4f7bdf10f",
       "last_season": 1,
       "episodes": {
         "1d0241458": {
@@ -1072,11 +1102,17 @@
           "title": "مسلسل حمدية الحلقة 5 الخامسة",
           "number": 5,
           "season": 1
+        },
+        "4f7bdf10f": {
+          "extracted_at": "2026-02-23T02:27:23.589Z",
+          "title": "مسلسل حمدية الحلقة 6 السادسة",
+          "number": 6,
+          "season": 1
         }
       }
     },
     "C43F8E231": {
-      "last_episode": "301a2e1f2",
+      "last_episode": "bdaad59bd",
       "last_season": 2,
       "episodes": {
         "a8cb67177": {
@@ -1114,11 +1150,17 @@
           "title": "مسلسل شارع الاعشي 2 الحلقة 6 السادسة",
           "number": 6,
           "season": 2
+        },
+        "bdaad59bd": {
+          "extracted_at": "2026-02-23T02:26:49.279Z",
+          "title": "مسلسل شارع الاعشي 2 الحلقة 7 السابعة",
+          "number": 7,
+          "season": 2
         }
       }
     },
     "E325739F8": {
-      "last_episode": "bf830f90d",
+      "last_episode": "881cdf92f",
       "last_season": 2,
       "episodes": {
         "fb50e99fd": {
@@ -1144,11 +1186,17 @@
           "title": "مسلسل بنات العم 2 - انتقام الموتى الحلقة 4 الرابعة",
           "number": 4,
           "season": 2
+        },
+        "881cdf92f": {
+          "extracted_at": "2026-02-23T02:26:52.651Z",
+          "title": "مسلسل بنات العم 2 - انتقام الموتى الحلقة 5 الخامسة",
+          "number": 5,
+          "season": 2
         }
       }
     },
     "A05659DA8": {
-      "last_episode": "8f60a0c49",
+      "last_episode": "39d3225fe",
       "last_season": 2,
       "episodes": {
         "41c1c3138": {
@@ -1173,6 +1221,12 @@
           "extracted_at": "2026-02-22T02:26:06.157Z",
           "title": "مسلسل رحمة 2 الحلقة 4 الرابعة",
           "number": 4,
+          "season": 2
+        },
+        "39d3225fe": {
+          "extracted_at": "2026-02-23T02:26:56.183Z",
+          "title": "مسلسل رحمة 2 الحلقة 5 الخامسة",
+          "number": 5,
           "season": 2
         }
       }
@@ -1220,7 +1274,7 @@
       }
     },
     "6e9a2838c": {
-      "last_episode": "22d00950c",
+      "last_episode": "9ff69ce83",
       "last_season": 1,
       "episodes": {
         "dbd8428e5": {
@@ -1251,6 +1305,12 @@
           "extracted_at": "2026-02-22T02:25:50.896Z",
           "title": "مسلسل انا وهي وهيا الحلقة 5 الخامسة",
           "number": 5,
+          "season": 1
+        },
+        "9ff69ce83": {
+          "extracted_at": "2026-02-23T02:26:41.746Z",
+          "title": "مسلسل انا وهي وهيا الحلقة 6 السادسة",
+          "number": 6,
           "season": 1
         }
       }
@@ -1304,7 +1364,7 @@
       }
     },
     "4b0288b20": {
-      "last_episode": "b406a33ba",
+      "last_episode": "e3c31b949",
       "last_season": 1,
       "episodes": {
         "e5a15404f": {
@@ -1341,6 +1401,12 @@
           "extracted_at": "2026-02-22T02:26:32.514Z",
           "title": "مسلسل كحيلان الحلقة 6 السادسة",
           "number": 6,
+          "season": 1
+        },
+        "e3c31b949": {
+          "extracted_at": "2026-02-23T02:27:20.031Z",
+          "title": "مسلسل كحيلان الحلقة 7 السابعة",
+          "number": 7,
           "season": 1
         }
       }
@@ -1586,7 +1652,7 @@
       }
     },
     "df84ca7f0": {
-      "last_episode": "85323204a",
+      "last_episode": "8ae7fa4e9",
       "last_season": 1,
       "episodes": {
         "6c3a8bdfe": {
@@ -1617,6 +1683,12 @@
           "extracted_at": "2026-02-22T02:26:21.503Z",
           "title": "مسلسل متاهة الحلقة 5 الخامسة",
           "number": 5,
+          "season": 1
+        },
+        "8ae7fa4e9": {
+          "extracted_at": "2026-02-23T02:27:10.660Z",
+          "title": "مسلسل متاهة الحلقة 6 السادسة",
+          "number": 6,
           "season": 1
         }
       }
@@ -1712,7 +1784,7 @@
       }
     },
     "4c571827e": {
-      "last_episode": "91e37060c",
+      "last_episode": "df0eaa61d",
       "last_season": 1,
       "episodes": {
         "b2949c2a7": {
@@ -1749,6 +1821,12 @@
           "extracted_at": "2026-02-22T02:27:48.016Z",
           "title": "مسلسل امور عائلية الحلقة 6 السادسة",
           "number": 6,
+          "season": 1
+        },
+        "df0eaa61d": {
+          "extracted_at": "2026-02-23T02:28:17.299Z",
+          "title": "مسلسل امور عائلية الحلقة 7 السابعة",
+          "number": 7,
           "season": 1
         }
       }
@@ -2540,7 +2618,7 @@
       }
     },
     "fd8b9e5e9": {
-      "last_episode": "fd49cad96",
+      "last_episode": "f3ba91b25",
       "last_season": 1,
       "episodes": {
         "f1f951efc": {
@@ -2571,6 +2649,12 @@
           "extracted_at": "2026-02-22T02:24:46.730Z",
           "title": "مسلسل اسال روحك الحلقة 5 الخامسة",
           "number": 5,
+          "season": 1
+        },
+        "f3ba91b25": {
+          "extracted_at": "2026-02-23T02:26:11.342Z",
+          "title": "مسلسل اسال روحك الحلقة 6 السادسة",
+          "number": 6,
           "season": 1
         }
       }
@@ -2702,7 +2786,7 @@
       }
     },
     "b382bebdb": {
-      "last_episode": "cf1172905",
+      "last_episode": "083472739",
       "last_season": 1,
       "episodes": {
         "acd60073a": {
@@ -2721,6 +2805,12 @@
           "extracted_at": "2026-02-22T02:23:53.532Z",
           "title": "مسلسل هي كيميا الحلقة 6 السادسة",
           "number": 6,
+          "season": 1
+        },
+        "083472739": {
+          "extracted_at": "2026-02-23T02:25:07.296Z",
+          "title": "مسلسل هي كيميا الحلقة 7 السابعة",
+          "number": 7,
           "season": 1
         }
       }
@@ -2768,7 +2858,7 @@
       }
     },
     "a0bee9f69": {
-      "last_episode": "ef1a88902",
+      "last_episode": "040901302",
       "last_season": 1,
       "episodes": {
         "edfa691a8": {
@@ -2818,11 +2908,17 @@
           "title": "برنامج الف ليلة مع فيفي عبده الحلقة 8 الثامنة",
           "number": 8,
           "season": 1
+        },
+        "040901302": {
+          "extracted_at": "2026-02-23T02:26:18.934Z",
+          "title": "برنامج الف ليلة مع فيفي عبده الحلقة 9 التاسعة",
+          "number": 9,
+          "season": 1
         }
       }
     },
     "2c5882c9e": {
-      "last_episode": "8f7f9af02",
+      "last_episode": "aefe6796e",
       "last_season": 1,
       "episodes": {
         "a88b03cac": {
@@ -2853,6 +2949,12 @@
           "extracted_at": "2026-02-22T02:26:11.801Z",
           "title": "مسلسل ابطال الرمال الحلقة 5 الخامسة",
           "number": 5,
+          "season": 1
+        },
+        "aefe6796e": {
+          "extracted_at": "2026-02-23T02:27:01.448Z",
+          "title": "مسلسل ابطال الرمال الحلقة 6 السادسة",
+          "number": 6,
           "season": 1
         }
       }
@@ -3062,7 +3164,7 @@
       }
     },
     "e92322c5b": {
-      "last_episode": "898e483b5",
+      "last_episode": "0fdcaa3af",
       "last_season": 1,
       "episodes": {
         "b3eee322f": {
@@ -3094,11 +3196,17 @@
           "title": "مسلسل اسمي حسن الحلقة 5 الخامسة",
           "number": 5,
           "season": 1
+        },
+        "0fdcaa3af": {
+          "extracted_at": "2026-02-23T02:27:36.403Z",
+          "title": "مسلسل اسمي حسن الحلقة 6 السادسة",
+          "number": 6,
+          "season": 1
         }
       }
     },
     "a5fd4a91c": {
-      "last_episode": "df13de56a",
+      "last_episode": "e27cbc6cf",
       "last_season": 1,
       "episodes": {
         "d38cee407": {
@@ -3129,6 +3237,12 @@
           "extracted_at": "2026-02-22T02:27:04.442Z",
           "title": "مسلسل بيت ام ليلة الحلقة 5 الخامسة",
           "number": 5,
+          "season": 1
+        },
+        "e27cbc6cf": {
+          "extracted_at": "2026-02-23T02:27:42.349Z",
+          "title": "مسلسل بيت ام ليلة الحلقة 6 السادسة",
+          "number": 6,
           "season": 1
         }
       }
@@ -3218,7 +3332,7 @@
       }
     },
     "a63f460a8": {
-      "last_episode": "175d074a0",
+      "last_episode": "8d7927fa9",
       "last_season": 1,
       "episodes": {
         "b9fe44bf2": {
@@ -3249,6 +3363,12 @@
           "extracted_at": "2026-02-22T02:27:20.140Z",
           "title": "مسلسل ليل البنفسج الحلقة 5 الخامسة",
           "number": 5,
+          "season": 1
+        },
+        "8d7927fa9": {
+          "extracted_at": "2026-02-23T02:27:55.768Z",
+          "title": "مسلسل ليل البنفسج الحلقة 6 السادسة",
+          "number": 6,
           "season": 1
         }
       }
@@ -3350,7 +3470,7 @@
       }
     },
     "79130bbdd": {
-      "last_episode": "86e0da6f7",
+      "last_episode": "33958d7ba",
       "last_season": 1,
       "episodes": {
         "d7f1cff68": {
@@ -3382,11 +3502,17 @@
           "title": "مسلسل العمة الحلقة 5 الخامسة",
           "number": 5,
           "season": 1
+        },
+        "33958d7ba": {
+          "extracted_at": "2026-02-23T02:28:30.531Z",
+          "title": "مسلسل العمة الحلقة 6 السادسة",
+          "number": 6,
+          "season": 1
         }
       }
     },
     "94d42abbd": {
-      "last_episode": "5a7cbb8b4",
+      "last_episode": "95e67a23c",
       "last_season": 1,
       "episodes": {
         "7a29b3c8b": {
@@ -3412,11 +3538,17 @@
           "title": "مسلسل الخطيفة الحلقة 4 الرابعة",
           "number": 4,
           "season": 1
+        },
+        "95e67a23c": {
+          "extracted_at": "2026-02-23T02:28:34.608Z",
+          "title": "مسلسل الخطيفة الحلقة 5 الخامسة",
+          "number": 5,
+          "season": 1
         }
       }
     },
     "249d68f38": {
-      "last_episode": "96c7907c4",
+      "last_episode": "4d8480930",
       "last_season": 1,
       "episodes": {
         "408ac47a6": {
@@ -3441,6 +3573,12 @@
           "extracted_at": "2026-02-22T02:28:07.585Z",
           "title": "مسلسل عمارة السعادة الحلقة 4 الرابعة",
           "number": 4,
+          "season": 1
+        },
+        "4d8480930": {
+          "extracted_at": "2026-02-23T02:28:40.117Z",
+          "title": "مسلسل عمارة السعادة الحلقة 5 الخامسة",
+          "number": 5,
           "season": 1
         }
       }
@@ -6864,147 +7002,308 @@
       "title": "مسلسل شاكر عودة البطل الحلقة 5 الخامسة",
       "number": 5,
       "season": 1
+    },
+    "083472739": {
+      "series_id": "b382bebdb",
+      "extracted_at": "2026-02-23T02:25:07.296Z",
+      "title": "مسلسل هي كيميا الحلقة 7 السابعة",
+      "number": 7,
+      "season": 1
+    },
+    "c8be47aa5": {
+      "series_id": "2a78b780a",
+      "extracted_at": "2026-02-23T02:25:17.026Z",
+      "title": "مسلسل سوا سوا الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "5a33755c0": {
+      "series_id": "516dbb3e7",
+      "extracted_at": "2026-02-23T02:25:20.399Z",
+      "title": "مسلسل وننسى اللي كان الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "e36ad88ba": {
+      "series_id": "1c76263d2",
+      "extracted_at": "2026-02-23T02:25:29.434Z",
+      "title": "مسلسل راس الافعى الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "f3ba91b25": {
+      "series_id": "fd8b9e5e9",
+      "extracted_at": "2026-02-23T02:26:11.341Z",
+      "title": "مسلسل اسال روحك الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "040901302": {
+      "series_id": "a0bee9f69",
+      "extracted_at": "2026-02-23T02:26:18.934Z",
+      "title": "برنامج الف ليلة مع فيفي عبده الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "35349559e": {
+      "series_id": "cd537c4e8",
+      "extracted_at": "2026-02-23T02:26:28.640Z",
+      "title": "مسلسل بالحرام الحلقة 7 السابعة",
+      "number": 7,
+      "season": 1
+    },
+    "4d4f37f3a": {
+      "series_id": "85aa7b7ee",
+      "extracted_at": "2026-02-23T02:26:38.256Z",
+      "title": "مسلسل الهيبة راس الجبل الحلقة 5 الخامسة",
+      "number": 5,
+      "season": 1
+    },
+    "9ff69ce83": {
+      "series_id": "6e9a2838c",
+      "extracted_at": "2026-02-23T02:26:41.746Z",
+      "title": "مسلسل انا وهي وهيا الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "bdaad59bd": {
+      "series_id": "C43F8E231",
+      "extracted_at": "2026-02-23T02:26:49.279Z",
+      "title": "مسلسل شارع الاعشي 2 الحلقة 7 السابعة",
+      "number": 7,
+      "season": 2
+    },
+    "881cdf92f": {
+      "series_id": "E325739F8",
+      "extracted_at": "2026-02-23T02:26:52.651Z",
+      "title": "مسلسل بنات العم 2 - انتقام الموتى الحلقة 5 الخامسة",
+      "number": 5,
+      "season": 2
+    },
+    "39d3225fe": {
+      "series_id": "A05659DA8",
+      "extracted_at": "2026-02-23T02:26:56.183Z",
+      "title": "مسلسل رحمة 2 الحلقة 5 الخامسة",
+      "number": 5,
+      "season": 2
+    },
+    "aefe6796e": {
+      "series_id": "2c5882c9e",
+      "extracted_at": "2026-02-23T02:27:01.448Z",
+      "title": "مسلسل ابطال الرمال الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "8ae7fa4e9": {
+      "series_id": "df84ca7f0",
+      "extracted_at": "2026-02-23T02:27:10.659Z",
+      "title": "مسلسل متاهة الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "e3c31b949": {
+      "series_id": "4b0288b20",
+      "extracted_at": "2026-02-23T02:27:20.030Z",
+      "title": "مسلسل كحيلان الحلقة 7 السابعة",
+      "number": 7,
+      "season": 1
+    },
+    "4f7bdf10f": {
+      "series_id": "3d171dc50",
+      "extracted_at": "2026-02-23T02:27:23.589Z",
+      "title": "مسلسل حمدية الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "0fdcaa3af": {
+      "series_id": "e92322c5b",
+      "extracted_at": "2026-02-23T02:27:36.403Z",
+      "title": "مسلسل اسمي حسن الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "e27cbc6cf": {
+      "series_id": "a5fd4a91c",
+      "extracted_at": "2026-02-23T02:27:42.349Z",
+      "title": "مسلسل بيت ام ليلة الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "8d7927fa9": {
+      "series_id": "a63f460a8",
+      "extracted_at": "2026-02-23T02:27:55.768Z",
+      "title": "مسلسل ليل البنفسج الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "df0eaa61d": {
+      "series_id": "4c571827e",
+      "extracted_at": "2026-02-23T02:28:17.299Z",
+      "title": "مسلسل امور عائلية الحلقة 7 السابعة",
+      "number": 7,
+      "season": 1
+    },
+    "33958d7ba": {
+      "series_id": "79130bbdd",
+      "extracted_at": "2026-02-23T02:28:30.531Z",
+      "title": "مسلسل العمة الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "95e67a23c": {
+      "series_id": "94d42abbd",
+      "extracted_at": "2026-02-23T02:28:34.608Z",
+      "title": "مسلسل الخطيفة الحلقة 5 الخامسة",
+      "number": 5,
+      "season": 1
+    },
+    "4d8480930": {
+      "series_id": "249d68f38",
+      "extracted_at": "2026-02-23T02:28:40.117Z",
+      "title": "مسلسل عمارة السعادة الحلقة 5 الخامسة",
+      "number": 5,
+      "season": 1
     }
   },
   "statistics": {
-    "total_series": 99,
-    "total_episodes": 478,
-    "new_episodes_today": 39,
-    "last_scan": "2026-02-22T18:42:27.794Z",
+    "total_series": 98,
+    "total_episodes": 501,
+    "new_episodes_today": 23,
+    "last_scan": "2026-02-23T02:28:48.575Z",
     "first_scan": false
   },
   "latest_episodes": [
     {
-      "id": "afe9a013b",
-      "series_id": "f84dc0645",
-      "series_title": "مسلسل شاكر عودة البطل",
-      "title": "مسلسل شاكر عودة البطل الحلقة 5 الخامسة",
-      "image": "https://laroza.quest/uploads/thumbs/dcaf30729-1.jpg",
+      "id": "4d8480930",
+      "series_id": "249d68f38",
+      "series_title": "مسلسل عمارة السعادة",
+      "title": "مسلسل عمارة السعادة الحلقة 5 الخامسة",
+      "image": "https://laroza.store/uploads/thumbs/408ac47a6-1.jpg",
       "number": 5,
       "season": 1,
-      "added_at": "2026-02-22T18:42:18.355Z"
+      "added_at": "2026-02-23T02:28:39.243Z"
     },
     {
-      "id": "741025de2",
-      "series_id": "157b245c0",
-      "series_title": "مسلسل عرش الشيطان",
-      "title": "مسلسل عرش الشيطان الحلقة 6 السادسة",
-      "image": "https://laroza.quest/uploads/thumbs/4542cf943-1.jpg",
+      "id": "95e67a23c",
+      "series_id": "94d42abbd",
+      "series_title": "مسلسل الخطيفة",
+      "title": "مسلسل الخطيفة الحلقة 5 الخامسة",
+      "image": "https://laroza.store/uploads/thumbs/7a29b3c8b-1.jpg",
+      "number": 5,
+      "season": 1,
+      "added_at": "2026-02-23T02:28:33.750Z"
+    },
+    {
+      "id": "33958d7ba",
+      "series_id": "79130bbdd",
+      "series_title": "مسلسل العمة",
+      "title": "مسلسل العمة الحلقة 6 السادسة",
+      "image": "https://laroza.store/uploads/thumbs/d7f1cff68-1.jpg",
       "number": 6,
       "season": 1,
-      "added_at": "2026-02-22T18:42:13.822Z"
+      "added_at": "2026-02-23T02:28:29.578Z"
     },
     {
-      "id": "8546a4ca5",
-      "series_id": "3f613e778",
-      "series_title": "مسلسل دكان سليمان",
-      "title": "مسلسل دكان سليمان الحلقة 7 السابعة",
-      "image": "https://laroza.quest/uploads/thumbs/ee62ede1e-1.jpg",
+      "id": "df0eaa61d",
+      "series_id": "4c571827e",
+      "series_title": "مسلسل أمور عائلية",
+      "title": "مسلسل امور عائلية الحلقة 7 السابعة",
+      "image": "https://laroza.store/uploads/thumbs/c8db11c88-1.jpg",
       "number": 7,
       "season": 1,
-      "added_at": "2026-02-22T18:42:05.875Z"
+      "added_at": "2026-02-23T02:28:15.199Z"
     },
     {
-      "id": "f5e85309f",
-      "series_id": "4272ec7e2",
-      "series_title": "مسلسل الضربة",
-      "title": "مسلسل الضربة الحلقة 8 الثامنة",
-      "image": "https://laroza.quest/uploads/thumbs/ae570d8ad-1.jpg",
-      "number": 8,
-      "season": 1,
-      "added_at": "2026-02-22T18:42:03.040Z"
-    },
-    {
-      "id": "4ddf203c1",
-      "series_id": "f6ba66438",
-      "series_title": "مسلسل سموم القيظ",
-      "title": "مسلسل سموم القيظ الحلقة 6 السادسة",
-      "image": "https://laroza.quest/uploads/thumbs/8a5e68a1d-1.jpg",
+      "id": "8d7927fa9",
+      "series_id": "a63f460a8",
+      "series_title": "مسلسل ليل البنفسج",
+      "title": "مسلسل ليل البنفسج الحلقة 6 السادسة",
+      "image": "https://laroza.store/uploads/thumbs/b9fe44bf2-1.jpg",
       "number": 6,
       "season": 1,
-      "added_at": "2026-02-22T18:41:59.912Z"
+      "added_at": "2026-02-23T02:27:54.871Z"
     },
     {
-      "id": "db0ec49b9",
-      "series_id": "70efa0e07",
-      "series_title": "مسلسل المحافظة 15",
-      "title": "مسلسل المحافظة 15 الحلقة 6 السادسة",
-      "image": "https://laroza.quest/uploads/thumbs/52fca8afd-1.jpg",
+      "id": "e27cbc6cf",
+      "series_id": "a5fd4a91c",
+      "series_title": "مسلسل بيت أم ليلة",
+      "title": "مسلسل بيت ام ليلة الحلقة 6 السادسة",
+      "image": "https://laroza.store/uploads/thumbs/d38cee407-1.jpg",
       "number": 6,
       "season": 1,
-      "added_at": "2026-02-22T18:41:57.052Z"
+      "added_at": "2026-02-23T02:27:41.317Z"
     },
     {
-      "id": "df1289cca",
-      "series_id": "7417b359a",
-      "series_title": "مسلسل نوبة وتوبة",
-      "title": "مسلسل نوبة وتوبة الحلقة 4 الرابعة",
-      "image": "https://laroza.quest/uploads/thumbs/fa28ee052-1.jpg",
-      "number": 4,
+      "id": "0fdcaa3af",
+      "series_id": "e92322c5b",
+      "series_title": "مسلسل اسمي حسن",
+      "title": "مسلسل اسمي حسن الحلقة 6 السادسة",
+      "image": "https://laroza.store/uploads/thumbs/b3eee322f-1.jpg",
+      "number": 6,
       "season": 1,
-      "added_at": "2026-02-22T18:41:49.220Z"
+      "added_at": "2026-02-23T02:27:35.579Z"
     },
     {
-      "id": "b9f438931",
-      "series_id": "4BA59C052",
-      "series_title": "مسلسل وديمة وحليمة",
-      "title": "مسلسل وديمة وحليمة 5 الحلقة 7 السابعة",
-      "image": "https://laroza.quest/uploads/thumbs/bca9002a4-1.jpg",
+      "id": "4f7bdf10f",
+      "series_id": "3d171dc50",
+      "series_title": "مسلسل حمدية",
+      "title": "مسلسل حمدية الحلقة 6 السادسة",
+      "image": "https://laroza.store/uploads/thumbs/1d0241458-1.jpg",
+      "number": 6,
+      "season": 1,
+      "added_at": "2026-02-23T02:27:22.717Z"
+    },
+    {
+      "id": "e3c31b949",
+      "series_id": "4b0288b20",
+      "series_title": "مسلسل كحيلان",
+      "title": "مسلسل كحيلان الحلقة 7 السابعة",
+      "image": "https://laroza.store/uploads/thumbs/e5a15404f-1.jpg",
       "number": 7,
-      "season": 5,
-      "added_at": "2026-02-22T18:41:46.363Z"
+      "season": 1,
+      "added_at": "2026-02-23T02:27:19.014Z"
     },
     {
-      "id": "2171ec54e",
-      "series_id": "0cab7b5ce",
-      "series_title": "مسلسل النويلاتي",
-      "title": "مسلسل النويلاتي الحلقة 6 السادسة",
-      "image": "https://laroza.quest/uploads/thumbs/4efa48074-1.jpg",
+      "id": "8ae7fa4e9",
+      "series_id": "df84ca7f0",
+      "series_title": "مسلسل متاهة",
+      "title": "مسلسل متاهة الحلقة 6 السادسة",
+      "image": "https://laroza.store/uploads/thumbs/6c3a8bdfe-1.jpg",
       "number": 6,
       "season": 1,
-      "added_at": "2026-02-22T18:41:30.474Z"
-    },
-    {
-      "id": "e64db03bd",
-      "series_id": "0988d811f",
-      "series_title": "مسلسل غناوي شوق",
-      "title": "مسلسل غناوي شوق الحلقة 6 السادسة",
-      "image": "https://laroza.quest/uploads/thumbs/a3ae53868-1.jpg",
-      "number": 6,
-      "season": 1,
-      "added_at": "2026-02-22T18:41:25.842Z"
+      "added_at": "2026-02-23T02:27:09.775Z"
     }
   ],
   "latest_series": [
     {
-      "id": "ed65be9eb",
-      "title": "مسلسل السرايا الصفرا",
-      "image": "https://laroza.quest/uploads/thumbs/6410d85b1-1.jpg",
-      "added_at": "2026-02-22T18:38:15.376Z"
+      "id": "4BA59C052",
+      "title": "مسلسل وديمة وحليمة",
+      "image": "https://laroza.store/uploads/thumbs/bca9002a4-1.jpg",
+      "added_at": "2026-02-23T02:24:35.260Z"
     },
     {
-      "id": "fd8b9e5e9",
-      "title": "مسلسل اسأل روحك",
-      "image": "https://laroza.quest/uploads/thumbs/f1f951efc-1.jpg",
-      "added_at": "2026-02-22T18:38:15.376Z"
+      "id": "7417b359a",
+      "title": "مسلسل نوبة وتوبة",
+      "image": "https://laroza.store/uploads/thumbs/fa28ee052-1.jpg",
+      "added_at": "2026-02-23T02:24:35.260Z"
     },
     {
-      "id": "65a164752",
-      "title": "مسلسل روج أسود",
-      "image": "https://laroza.quest/uploads/thumbs/8dca13489-1.jpg",
-      "added_at": "2026-02-22T18:38:15.376Z"
+      "id": "c8023b120",
+      "title": "مسلسل صبر أم أيوب",
+      "image": "https://laroza.store/uploads/thumbs/81e550563-1.jpg",
+      "added_at": "2026-02-23T02:24:35.260Z"
     },
     {
-      "id": "7bfb7e4b0",
-      "title": "مسلسل السوق الحرة",
-      "image": "https://laroza.quest/uploads/thumbs/172e17385-1.jpg",
-      "added_at": "2026-02-22T18:38:15.376Z"
+      "id": "5307002ab",
+      "title": "مسلسل شاي خانة",
+      "image": "https://laroza.store/uploads/thumbs/b9f790fd0-1.jpg",
+      "added_at": "2026-02-23T02:24:35.260Z"
     },
     {
-      "id": "a0bee9f69",
-      "title": "مسلسل ألف ليله مع فيفي عبده",
-      "image": "https://laroza.quest/uploads/thumbs/edfa691a8-1.jpg",
-      "added_at": "2026-02-22T18:38:15.376Z"
+      "id": "4c571827e",
+      "title": "مسلسل أمور عائلية",
+      "image": "https://laroza.store/uploads/thumbs/c8db11c88-1.jpg",
+      "added_at": "2026-02-23T02:24:35.260Z"
     }
   ]
 }
