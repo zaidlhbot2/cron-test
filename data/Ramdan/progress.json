@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-02-23T13:12:13.801Z",
+  "last_scan": "2026-02-23T15:52:14.239Z",
   "series": {
     "193369381": {
       "last_episode": "c5c18decf",
@@ -104,7 +104,7 @@
       }
     },
     "ae583760b": {
-      "last_episode": "468304b67",
+      "last_episode": "80ce66cc6",
       "last_season": 1,
       "episodes": {
         "cfee36307": {
@@ -142,11 +142,17 @@
           "title": "مسلسل الست موناليزا الحلقة 7 السابعة",
           "number": 7,
           "season": 1
+        },
+        "80ce66cc6": {
+          "extracted_at": "2026-02-23T15:50:10.186Z",
+          "title": "مسلسل الست موناليزا الحلقة 8 الثامنة",
+          "number": 8,
+          "season": 1
         }
       }
     },
     "fd55e6ca6": {
-      "last_episode": "9eb7dc57d",
+      "last_episode": "8a5403724",
       "last_season": 1,
       "episodes": {
         "5bf409c06": {
@@ -171,6 +177,12 @@
           "extracted_at": "2026-02-22T18:38:45.752Z",
           "title": "برنامج رامز ليفل الوحش الحلقة 5 الخامسة",
           "number": 5,
+          "season": 1
+        },
+        "8a5403724": {
+          "extracted_at": "2026-02-23T15:50:30.694Z",
+          "title": "برنامج رامز ليفل الوحش الحلقة 6 السادسة",
+          "number": 6,
           "season": 1
         }
       }
@@ -1352,7 +1364,7 @@
       }
     },
     "812858e07": {
-      "last_episode": "61bda0ab9",
+      "last_episode": "85eb23a14",
       "last_season": 1,
       "episodes": {
         "2b93888d9": {
@@ -1395,6 +1407,12 @@
           "extracted_at": "2026-02-22T18:40:24.206Z",
           "title": "مسلسل مطبخ المدينة الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "85eb23a14": {
+          "extracted_at": "2026-02-23T15:51:55.541Z",
+          "title": "مسلسل مطبخ المدينة الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -1886,7 +1904,7 @@
       }
     },
     "f84c14da4": {
-      "last_episode": "d43688c57",
+      "last_episode": "038b0c786",
       "last_season": 1,
       "episodes": {
         "bf287f6da": {
@@ -1929,6 +1947,24 @@
           "extracted_at": "2026-02-21T02:08:17.267Z",
           "title": "مسلسل اليتيم الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "54fcecaa6": {
+          "extracted_at": "2026-02-23T15:52:11.823Z",
+          "title": "مسلسل اليتيم الحلقة 8 الثامنة",
+          "number": 8,
+          "season": 1
+        },
+        "661da4b19": {
+          "extracted_at": "2026-02-23T15:52:13.121Z",
+          "title": "مسلسل اليتيم الحلقة 9 التاسعة",
+          "number": 9,
+          "season": 1
+        },
+        "038b0c786": {
+          "extracted_at": "2026-02-23T15:52:14.239Z",
+          "title": "مسلسل اليتيم الحلقة 10 العاشرة",
+          "number": 10,
           "season": 1
         }
       }
@@ -2924,7 +2960,7 @@
       }
     },
     "a0bee9f69": {
-      "last_episode": "040901302",
+      "last_episode": "6deaa1426",
       "last_season": 1,
       "episodes": {
         "edfa691a8": {
@@ -2979,6 +3015,12 @@
           "extracted_at": "2026-02-23T02:26:18.934Z",
           "title": "برنامج الف ليلة مع فيفي عبده الحلقة 9 التاسعة",
           "number": 9,
+          "season": 1
+        },
+        "6deaa1426": {
+          "extracted_at": "2026-02-23T15:51:36.072Z",
+          "title": "برنامج الف ليلة مع فيفي عبده الحلقة 10 العاشرة",
+          "number": 10,
           "season": 1
         }
       }
@@ -7358,16 +7400,135 @@
       "title": "مسلسل عايلة مايلة الحلقة 7 السابعة",
       "number": 7,
       "season": 1
+    },
+    "80ce66cc6": {
+      "series_id": "ae583760b",
+      "extracted_at": "2026-02-23T15:50:10.186Z",
+      "title": "مسلسل الست موناليزا الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "8a5403724": {
+      "series_id": "fd55e6ca6",
+      "extracted_at": "2026-02-23T15:50:30.694Z",
+      "title": "برنامج رامز ليفل الوحش الحلقة 6 السادسة",
+      "number": 6,
+      "season": 1
+    },
+    "6deaa1426": {
+      "series_id": "a0bee9f69",
+      "extracted_at": "2026-02-23T15:51:36.072Z",
+      "title": "برنامج الف ليلة مع فيفي عبده الحلقة 10 العاشرة",
+      "number": 10,
+      "season": 1
+    },
+    "85eb23a14": {
+      "series_id": "812858e07",
+      "extracted_at": "2026-02-23T15:51:55.541Z",
+      "title": "مسلسل مطبخ المدينة الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "54fcecaa6": {
+      "series_id": "f84c14da4",
+      "extracted_at": "2026-02-23T15:52:11.823Z",
+      "title": "مسلسل اليتيم الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "661da4b19": {
+      "series_id": "f84c14da4",
+      "extracted_at": "2026-02-23T15:52:13.121Z",
+      "title": "مسلسل اليتيم الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "038b0c786": {
+      "series_id": "f84c14da4",
+      "extracted_at": "2026-02-23T15:52:14.239Z",
+      "title": "مسلسل اليتيم الحلقة 10 العاشرة",
+      "number": 10,
+      "season": 1
     }
   },
   "statistics": {
-    "total_series": 98,
-    "total_episodes": 516,
-    "new_episodes_today": 15,
-    "last_scan": "2026-02-23T13:12:16.086Z",
+    "total_series": 99,
+    "total_episodes": 523,
+    "new_episodes_today": 7,
+    "last_scan": "2026-02-23T15:53:56.138Z",
     "first_scan": false
   },
   "latest_episodes": [
+    {
+      "id": "54fcecaa6",
+      "series_id": "f84c14da4",
+      "series_title": "مسلسل اليتيم",
+      "title": "مسلسل اليتيم الحلقة 8 الثامنة",
+      "image": "https://laroza.cyou/uploads/thumbs/bf287f6da-1.jpg",
+      "number": 8,
+      "season": 1,
+      "added_at": "2026-02-23T15:52:11.176Z"
+    },
+    {
+      "id": "661da4b19",
+      "series_id": "f84c14da4",
+      "series_title": "مسلسل اليتيم",
+      "title": "مسلسل اليتيم الحلقة 9 التاسعة",
+      "image": "https://laroza.cyou/uploads/thumbs/bf287f6da-1.jpg",
+      "number": 9,
+      "season": 1,
+      "added_at": "2026-02-23T15:52:11.176Z"
+    },
+    {
+      "id": "038b0c786",
+      "series_id": "f84c14da4",
+      "series_title": "مسلسل اليتيم",
+      "title": "مسلسل اليتيم الحلقة 10 العاشرة",
+      "image": "https://laroza.cyou/uploads/thumbs/bf287f6da-1.jpg",
+      "number": 10,
+      "season": 1,
+      "added_at": "2026-02-23T15:52:11.176Z"
+    },
+    {
+      "id": "85eb23a14",
+      "series_id": "812858e07",
+      "series_title": "مسلسل مطبخ المدينة",
+      "title": "مسلسل مطبخ المدينة الحلقة 8 الثامنة",
+      "image": "https://laroza.cyou/uploads/thumbs/2b93888d9-1.jpg",
+      "number": 8,
+      "season": 1,
+      "added_at": "2026-02-23T15:51:54.878Z"
+    },
+    {
+      "id": "6deaa1426",
+      "series_id": "a0bee9f69",
+      "series_title": "مسلسل ألف ليله مع فيفي عبده",
+      "title": "برنامج الف ليلة مع فيفي عبده الحلقة 10 العاشرة",
+      "image": "https://laroza.cyou/uploads/thumbs/edfa691a8-1.jpg",
+      "number": 10,
+      "season": 1,
+      "added_at": "2026-02-23T15:51:35.445Z"
+    },
+    {
+      "id": "8a5403724",
+      "series_id": "fd55e6ca6",
+      "series_title": "مسلسل رامز ليفل الوحش",
+      "title": "برنامج رامز ليفل الوحش الحلقة 6 السادسة",
+      "image": "https://laroza.cyou/uploads/thumbs/5a8ef2596-1.jpg",
+      "number": 6,
+      "season": 1,
+      "added_at": "2026-02-23T15:50:28.430Z"
+    },
+    {
+      "id": "80ce66cc6",
+      "series_id": "ae583760b",
+      "series_title": "مسلسل الست موناليزا",
+      "title": "مسلسل الست موناليزا الحلقة 8 الثامنة",
+      "image": "https://laroza.cyou/uploads/thumbs/cfee36307-1.jpg",
+      "number": 8,
+      "season": 1,
+      "added_at": "2026-02-23T15:50:06.666Z"
+    },
     {
       "id": "3640e3a13",
       "series_id": "0ed21e78f",
@@ -7397,108 +7558,38 @@
       "number": 9,
       "season": 1,
       "added_at": "2026-02-23T13:11:40.290Z"
-    },
-    {
-      "id": "c0f7698b3",
-      "series_id": "d4b0669ce",
-      "series_title": "مسلسل بنت النعمان",
-      "title": "مسلسل بنت النعمان الحلقة 7 السابعة",
-      "image": "https://laroza.cyou/uploads/thumbs/9424dd412-1.jpg",
-      "number": 7,
-      "season": 1,
-      "added_at": "2026-02-23T13:11:33.315Z"
-    },
-    {
-      "id": "c571ca73d",
-      "series_id": "a7532ecf1",
-      "series_title": "مسلسل البخت",
-      "title": "مسلسل البخت الحلقة 7 السابعة",
-      "image": "https://laroza.cyou/uploads/thumbs/55aaaa8b8-1.jpg",
-      "number": 7,
-      "season": 1,
-      "added_at": "2026-02-23T13:11:22.744Z"
-    },
-    {
-      "id": "3cdb8e808",
-      "series_id": "e6926d8ca",
-      "series_title": "مسلسل حي الجرادية",
-      "title": "مسلسل حي الجرادية الحلقة 8 الثامنة",
-      "image": "https://laroza.cyou/uploads/thumbs/aeddcc6b7-1.jpg",
-      "number": 8,
-      "season": 1,
-      "added_at": "2026-02-23T13:11:12.135Z"
-    },
-    {
-      "id": "3a3787cee",
-      "series_id": "c26287637",
-      "series_title": "مسلسل كسرة",
-      "title": "مسلسل كسرة الحلقة 8 الثامنة",
-      "image": "https://laroza.cyou/uploads/thumbs/1d64ec750-1.jpg",
-      "number": 8,
-      "season": 1,
-      "added_at": "2026-02-23T13:11:03.406Z"
-    },
-    {
-      "id": "791696d15",
-      "series_id": "24198170e",
-      "series_title": "مسلسل درب الذهب",
-      "title": "مسلسل درب الذهب الحلقة 7 السابعة",
-      "image": "https://laroza.cyou/uploads/thumbs/ed3685732-1.jpg",
-      "number": 7,
-      "season": 1,
-      "added_at": "2026-02-23T13:10:54.297Z"
-    },
-    {
-      "id": "bdcc2ad53",
-      "series_id": "19cfcf973",
-      "series_title": "مسلسل غلط بنات",
-      "title": "مسلسل غلط بنات الحلقة 8 الثامنة",
-      "image": "https://laroza.cyou/uploads/thumbs/f779d7936-1.jpg",
-      "number": 8,
-      "season": 1,
-      "added_at": "2026-02-23T13:10:16.770Z"
-    },
-    {
-      "id": "57ba6b038",
-      "series_id": "a4225b39e",
-      "series_title": "مسلسل بخمس أرواح",
-      "title": "مسلسل بخمس ارواح الحلقة 7 السابعة",
-      "image": "https://laroza.cyou/uploads/thumbs/514ed510c-1.jpg",
-      "number": 7,
-      "season": 1,
-      "added_at": "2026-02-23T13:10:13.421Z"
     }
   ],
   "latest_series": [
     {
-      "id": "e9866cdb0",
-      "title": "مسلسل أب ولكن",
-      "image": "https://laroza.cyou/uploads/thumbs/2441da687-1.jpg",
-      "added_at": "2026-02-23T13:08:54.777Z"
+      "id": "a5fd4a91c",
+      "title": "مسلسل بيت أم ليلة",
+      "image": "https://laroza.cyou/uploads/thumbs/d38cee407-1.jpg",
+      "added_at": "2026-02-23T15:49:36.999Z"
     },
     {
-      "id": "d3edb5382",
-      "title": "مسلسل اللون الأزرق",
-      "image": "https://laroza.cyou/uploads/thumbs/2bb9ee8de-1.jpg",
-      "added_at": "2026-02-23T13:08:54.777Z"
+      "id": "1bcbf8b34",
+      "title": "مسلسل عيلة الملك",
+      "image": "https://laroza.cyou/uploads/thumbs/ed1acc21a-1.jpg",
+      "added_at": "2026-02-23T15:49:36.999Z"
     },
     {
-      "id": "564f35a35",
-      "title": "مسلسل بيبو",
-      "image": "https://laroza.cyou/uploads/thumbs/66fbeb993-1.jpg",
-      "added_at": "2026-02-23T13:08:54.777Z"
+      "id": "a7532ecf1",
+      "title": "مسلسل البخت",
+      "image": "https://laroza.cyou/uploads/thumbs/55aaaa8b8-1.jpg",
+      "added_at": "2026-02-23T15:49:36.999Z"
     },
     {
-      "id": "3",
-      "title": "كان يا مكان",
-      "image": "",
-      "added_at": "2026-02-23T13:08:54.777Z"
+      "id": "0988d811f",
+      "title": "مسلسل غناوي شوق",
+      "image": "https://laroza.cyou/uploads/thumbs/a3ae53868-1.jpg",
+      "added_at": "2026-02-23T15:49:36.999Z"
     },
     {
-      "id": "0a38bbdf6",
-      "title": "مسلسل ن النسوة",
-      "image": "https://laroza.cyou/uploads/thumbs/715a3abbf-1.jpg",
-      "added_at": "2026-02-23T13:08:54.777Z"
+      "id": "193369381",
+      "title": "مسلسل سكنهم مساكنهم",
+      "image": "https://laroza.cyou/uploads/thumbs/c5c18decf-1.jpg",
+      "added_at": "2026-02-23T15:49:36.999Z"
     }
   ]
 }

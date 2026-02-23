@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-02-23T13:12:16.064Z",
-  "total_series": 98,
+  "last_update": "2026-02-23T15:53:56.113Z",
+  "total_series": 99,
   "series": [
     {
       "id": "c9",
@@ -35,6 +35,14 @@
       "episodes_count": 0
     },
     {
+      "id": "b6",
+      "title": "خطوات صغيرة",
+      "image": "",
+      "seasons": 1,
+      "last_season": 1,
+      "episodes_count": 0
+    },
+    {
       "id": "8",
       "title": "فن الحرب",
       "image": "",
@@ -53,6 +61,14 @@
     {
       "id": "16",
       "title": "كلهم بيحبوا مودي",
+      "image": "",
+      "seasons": 1,
+      "last_season": 1,
+      "episodes_count": 0
+    },
+    {
+      "id": "4",
+      "title": "كوميدي تانا",
       "image": "",
       "seasons": 1,
       "last_season": 1,
@@ -742,14 +758,6 @@
       "id": "b382bebdb",
       "title": "مسلسل هي كيميا",
       "image": "https://laroza.cyou/uploads/thumbs/78d4216bf-1.jpg",
-      "seasons": 2,
-      "last_season": 1,
-      "episodes_count": 0
-    },
-    {
-      "id": "cbad5a800",
-      "title": "مسلسل وجب القضاء",
-      "image": "https://laroza.cyou/uploads/thumbs/f885a76d7-1.jpg",
       "seasons": 2,
       "last_season": 1,
       "episodes_count": 0
