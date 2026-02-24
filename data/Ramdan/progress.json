@@ -8091,8 +8091,8 @@
   "statistics": {
     "total_series": 98,
     "total_episodes": 572,
-    "new_episodes_today": 19,
-    "last_scan": "2026-02-24T02:17:44.684Z",
+    "new_episodes_today": 0,
+    "last_scan": "2026-02-24T07:06:14.378Z",
     "first_scan": false
   },
   "latest_episodes": [
@@ -8199,34 +8199,34 @@
   ],
   "latest_series": [
     {
-      "id": "81ce0a5d7",
-      "title": "مسلسل علي كلاي",
-      "image": "https://laroza.cyou/uploads/thumbs/0ec1512a8-1.jpg",
-      "added_at": "2026-02-24T02:14:01.507Z"
-    },
-    {
-      "id": "d8cb9c11b",
-      "title": "مسلسل الكينج",
-      "image": "https://laroza.cyou/uploads/thumbs/92ae9f039-1.jpg",
-      "added_at": "2026-02-24T02:14:01.507Z"
-    },
-    {
-      "id": "9",
-      "title": "مسلسل المداح 6",
-      "image": "",
-      "added_at": "2026-02-24T02:14:01.507Z"
-    },
-    {
       "id": "1cf22b484",
       "title": "مسلسل افراج",
       "image": "https://laroza.cyou/uploads/thumbs/372599929-1.jpg",
-      "added_at": "2026-02-24T02:14:01.507Z"
+      "added_at": "2026-02-24T07:02:41.443Z"
     },
     {
       "id": "8",
       "title": "مسلسل فن الحرب",
       "image": "",
-      "added_at": "2026-02-24T02:14:01.507Z"
+      "added_at": "2026-02-24T07:02:41.443Z"
+    },
+    {
+      "id": "97faca994",
+      "title": "مسلسل فخر الدلتا",
+      "image": "https://laroza.cyou/uploads/thumbs/Y5QgE4IPD-1.jpg",
+      "added_at": "2026-02-24T07:02:41.443Z"
+    },
+    {
+      "id": "56",
+      "title": "مسلسل مناعة",
+      "image": "",
+      "added_at": "2026-02-24T07:02:41.443Z"
+    },
+    {
+      "id": "b382bebdb",
+      "title": "مسلسل هي كيميا",
+      "image": "https://laroza.cyou/uploads/thumbs/78d4216bf-1.jpg",
+      "added_at": "2026-02-24T07:02:41.443Z"
     }
   ]
 }
