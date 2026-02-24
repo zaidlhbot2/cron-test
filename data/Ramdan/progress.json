@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-02-24T15:53:22.106Z",
+  "last_scan": "2026-02-24T19:09:23.161Z",
   "series": {
     "193369381": {
       "last_episode": "c5c18decf",
@@ -14,7 +14,7 @@
       }
     },
     "d8cb9c11b": {
-      "last_episode": "7856797a6",
+      "last_episode": "b69f50b6d",
       "last_season": 1,
       "episodes": {
         "83230ad1d": {
@@ -52,6 +52,12 @@
           "title": "مسلسل الكينج الحلقة 8 الثامنة",
           "number": 8,
           "season": 1
+        },
+        "b69f50b6d": {
+          "extracted_at": "2026-02-24T19:04:51.130Z",
+          "title": "مسلسل الكينج الحلقة 9 التاسعة",
+          "number": 9,
+          "season": 1
         }
       }
     },
@@ -86,7 +92,7 @@
       }
     },
     "1cf22b484": {
-      "last_episode": "88c9a2313",
+      "last_episode": "d2ec63376",
       "last_season": 1,
       "episodes": {
         "d767d322e": {
@@ -123,6 +129,12 @@
           "extracted_at": "2026-02-23T19:05:33.262Z",
           "title": "مسلسل افراج الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "d2ec63376": {
+          "extracted_at": "2026-02-24T19:05:01.162Z",
+          "title": "مسلسل افراج الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -236,7 +248,7 @@
       }
     },
     "97faca994": {
-      "last_episode": "9af47824c",
+      "last_episode": "fbe333b84",
       "last_season": 1,
       "episodes": {
         "b50eff77e": {
@@ -279,6 +291,12 @@
           "extracted_at": "2026-02-23T19:05:43.579Z",
           "title": "مسلسل فخر الدلتا الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "fbe333b84": {
+          "extracted_at": "2026-02-24T19:05:13.526Z",
+          "title": "مسلسل فخر الدلتا الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -344,7 +362,7 @@
       }
     },
     "1c76263d2": {
-      "last_episode": "150d2e311",
+      "last_episode": "bf427808c",
       "last_season": 1,
       "episodes": {
         "aff59c3c9": {
@@ -388,6 +406,12 @@
           "title": "مسلسل راس الافعى الحلقة 7 السابعة",
           "number": 7,
           "season": 1
+        },
+        "bf427808c": {
+          "extracted_at": "2026-02-24T19:05:35.756Z",
+          "title": "مسلسل راس الافعى الحلقة 8 الثامنة",
+          "number": 8,
+          "season": 1
         }
       }
     },
@@ -404,7 +428,7 @@
       }
     },
     "ba41f3206": {
-      "last_episode": "218df64dd",
+      "last_episode": "ddb1f98b7",
       "last_season": 1,
       "episodes": {
         "6d4d06d7e": {
@@ -447,6 +471,12 @@
           "extracted_at": "2026-02-24T02:14:45.938Z",
           "title": "مسلسل صحاب الارض الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "ddb1f98b7": {
+          "extracted_at": "2026-02-24T19:05:51.878Z",
+          "title": "مسلسل صحاب الارض الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -584,7 +614,7 @@
       }
     },
     "e3e372273": {
-      "last_episode": "d85d30311",
+      "last_episode": "a2c745971",
       "last_season": 1,
       "episodes": {
         "554846450": {
@@ -627,6 +657,12 @@
           "extracted_at": "2026-02-23T19:06:56.869Z",
           "title": "مسلسل توابع الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "a2c745971": {
+          "extracted_at": "2026-02-24T19:06:10.282Z",
+          "title": "مسلسل توابع الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -692,7 +728,7 @@
       }
     },
     "f4ca918d3": {
-      "last_episode": "a86f12e77",
+      "last_episode": "123318d60",
       "last_season": 1,
       "episodes": {
         "a37c6cf65": {
@@ -735,6 +771,12 @@
           "extracted_at": "2026-02-23T19:06:27.807Z",
           "title": "مسلسل اتنين غيرنا الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "123318d60": {
+          "extracted_at": "2026-02-24T19:05:44.911Z",
+          "title": "مسلسل اتنين غيرنا الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -1022,7 +1064,7 @@
       }
     },
     "b98fa9dd5": {
-      "last_episode": "e76b4a8ca",
+      "last_episode": "883169bd6",
       "last_season": 1,
       "episodes": {
         "6bee3bc1f": {
@@ -1060,11 +1102,17 @@
           "title": "مسلسل شرارة الحلقة 7 السابعة",
           "number": 7,
           "season": 1
+        },
+        "883169bd6": {
+          "extracted_at": "2026-02-24T19:06:53.579Z",
+          "title": "مسلسل شرارة الحلقة 8 الثامنة",
+          "number": 8,
+          "season": 1
         }
       }
     },
     "d6514ff49": {
-      "last_episode": "93cf813d0",
+      "last_episode": "1b0afd98c",
       "last_season": 1,
       "episodes": {
         "afa2a0bfc": {
@@ -1107,6 +1155,12 @@
           "extracted_at": "2026-02-23T19:07:30.129Z",
           "title": "مسلسل يوميات رجل متزوج الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "1b0afd98c": {
+          "extracted_at": "2026-02-24T19:06:56.939Z",
+          "title": "مسلسل يوميات رجل متزوج الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -1304,7 +1358,7 @@
       }
     },
     "C43F8E231": {
-      "last_episode": "d31210f4d",
+      "last_episode": "ea55d93f2",
       "last_season": 2,
       "episodes": {
         "a8cb67177": {
@@ -1354,11 +1408,17 @@
           "title": "مسلسل شارع الاعشي 2 الحلقة 8 الثامنة",
           "number": 8,
           "season": 2
+        },
+        "ea55d93f2": {
+          "extracted_at": "2026-02-24T19:07:11.221Z",
+          "title": "مسلسل شارع الاعشي 2 الحلقة 9 التاسعة",
+          "number": 9,
+          "season": 2
         }
       }
     },
     "E325739F8": {
-      "last_episode": "1194bc287",
+      "last_episode": "5d0dee877",
       "last_season": 2,
       "episodes": {
         "fb50e99fd": {
@@ -1395,6 +1455,12 @@
           "extracted_at": "2026-02-23T19:07:56.249Z",
           "title": "مسلسل بنات العم 2 - انتقام الموتى الحلقة 6 السادسة",
           "number": 6,
+          "season": 2
+        },
+        "5d0dee877": {
+          "extracted_at": "2026-02-24T19:07:14.689Z",
+          "title": "مسلسل بنات العم 2 - انتقام الموتى الحلقة 7 السابعة",
+          "number": 7,
           "season": 2
         }
       }
@@ -1442,7 +1508,7 @@
       }
     },
     "8664232f9": {
-      "last_episode": "147289806",
+      "last_episode": "95f01cc8b",
       "last_season": 7,
       "episodes": {
         "147289806": {
@@ -1485,6 +1551,12 @@
           "extracted_at": "2026-02-22T18:40:35.141Z",
           "title": "مسلسل حامض حلو 7 الحلقة 6 السادسة",
           "number": 6,
+          "season": 7
+        },
+        "95f01cc8b": {
+          "extracted_at": "2026-02-24T19:07:20.253Z",
+          "title": "مسلسل حامض حلو 7 الحلقة 8 الثامنة",
+          "number": 8,
           "season": 7
         }
       }
@@ -1652,7 +1724,7 @@
       }
     },
     "12e28cd0b": {
-      "last_episode": "085e70a8c",
+      "last_episode": "b07fbff4f",
       "last_season": 1,
       "episodes": {
         "06fa08a7b": {
@@ -1701,6 +1773,12 @@
           "extracted_at": "2026-02-23T19:08:35.306Z",
           "title": "مسلسل اخر الشهر الحلقة 8 الثامنة",
           "number": 8,
+          "season": 1
+        },
+        "b07fbff4f": {
+          "extracted_at": "2026-02-24T19:07:40.410Z",
+          "title": "مسلسل اخر الشهر الحلقة 9 التاسعة",
+          "number": 9,
           "season": 1
         }
       }
@@ -1772,7 +1850,7 @@
       }
     },
     "f6ba66438": {
-      "last_episode": "6b41c65a7",
+      "last_episode": "0ea9b6e0f",
       "last_season": 1,
       "episodes": {
         "8a5e68a1d": {
@@ -1816,11 +1894,17 @@
           "title": "مسلسل سموم القيظ الحلقة 7 السابعة",
           "number": 7,
           "season": 1
+        },
+        "0ea9b6e0f": {
+          "extracted_at": "2026-02-24T19:08:49.083Z",
+          "title": "مسلسل سموم القيظ الحلقة 8 الثامنة",
+          "number": 8,
+          "season": 1
         }
       }
     },
     "64387fca3": {
-      "last_episode": "f95d8f404",
+      "last_episode": "ba4deb8ec",
       "last_season": 1,
       "episodes": {
         "2344c2855": {
@@ -1870,11 +1954,17 @@
           "title": "مسلسل بنات عبدالغني الحلقة 8 الثامنة",
           "number": 8,
           "season": 1
+        },
+        "ba4deb8ec": {
+          "extracted_at": "2026-02-24T19:07:35.476Z",
+          "title": "مسلسل بنات عبدالغني الحلقة 9 التاسعة",
+          "number": 9,
+          "season": 1
         }
       }
     },
     "9f5220386": {
-      "last_episode": "836fa506e",
+      "last_episode": "89c8fefe0",
       "last_season": 1,
       "episodes": {
         "abd442d4a": {
@@ -1924,6 +2014,12 @@
           "title": "مسلسل الغميضة الحلقة 8 الثامنة",
           "number": 8,
           "season": 1
+        },
+        "89c8fefe0": {
+          "extracted_at": "2026-02-24T19:07:07.967Z",
+          "title": "مسلسل الغميضة الحلقة 9 التاسعة",
+          "number": 9,
+          "season": 1
         }
       }
     },
@@ -1970,7 +2066,7 @@
       }
     },
     "a6e8205e8": {
-      "last_episode": "8deead6cd",
+      "last_episode": "5dba2b4e2",
       "last_season": 1,
       "episodes": {
         "b0833bd3f": {
@@ -2020,11 +2116,17 @@
           "title": "مسلسل لوبي الغرام الحلقة 8 الثامنة",
           "number": 8,
           "season": 1
+        },
+        "5dba2b4e2": {
+          "extracted_at": "2026-02-24T19:07:28.483Z",
+          "title": "مسلسل لوبي الغرام الحلقة 9 التاسعة",
+          "number": 9,
+          "season": 1
         }
       }
     },
     "70efa0e07": {
-      "last_episode": "573c30846",
+      "last_episode": "f181a9e75",
       "last_season": 1,
       "episodes": {
         "52fca8afd": {
@@ -2067,6 +2169,12 @@
           "extracted_at": "2026-02-24T02:17:11.474Z",
           "title": "مسلسل المحافظة 15 الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "f181a9e75": {
+          "extracted_at": "2026-02-24T19:08:45.612Z",
+          "title": "مسلسل المحافظة 15 الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -2288,7 +2396,7 @@
       }
     },
     "4BA59C052": {
-      "last_episode": "091e802e4",
+      "last_episode": "ab37594c1",
       "last_season": 5,
       "episodes": {
         "bca9002a4": {
@@ -2338,6 +2446,12 @@
           "title": "مسلسل وديمة وحليمة 5 الحلقة 8 الثامنة",
           "number": 8,
           "season": 5
+        },
+        "ab37594c1": {
+          "extracted_at": "2026-02-24T19:08:34.772Z",
+          "title": "مسلسل وديمة وحليمة 5 الحلقة 9 التاسعة",
+          "number": 9,
+          "season": 5
         }
       }
     },
@@ -2354,7 +2468,7 @@
       }
     },
     "3f613e778": {
-      "last_episode": "d9605cd2b",
+      "last_episode": "9dda34b6f",
       "last_season": 1,
       "episodes": {
         "ee62ede1e": {
@@ -2403,6 +2517,12 @@
           "extracted_at": "2026-02-23T19:10:24.450Z",
           "title": "مسلسل دكان سليمان الحلقة 8 الثامنة",
           "number": 8,
+          "season": 1
+        },
+        "9dda34b6f": {
+          "extracted_at": "2026-02-24T19:08:54.281Z",
+          "title": "مسلسل دكان سليمان الحلقة 9 التاسعة",
+          "number": 9,
           "season": 1
         }
       }
@@ -2654,7 +2774,7 @@
       }
     },
     "157b245c0": {
-      "last_episode": "af14ee440",
+      "last_episode": "147b9ea95",
       "last_season": 1,
       "episodes": {
         "4542cf943": {
@@ -2697,6 +2817,12 @@
           "extracted_at": "2026-02-24T02:17:34.578Z",
           "title": "مسلسل عرش الشيطان الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "147b9ea95": {
+          "extracted_at": "2026-02-24T19:09:01.561Z",
+          "title": "مسلسل عرش الشيطان الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -2912,7 +3038,7 @@
       }
     },
     "84adc7f83": {
-      "last_episode": "1b148fd43",
+      "last_episode": "249eaffd6",
       "last_season": 1,
       "episodes": {
         "ae14da6b1": {
@@ -2955,6 +3081,12 @@
           "extracted_at": "2026-02-23T19:08:55.201Z",
           "title": "مسلسل سعادة المجنون الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "249eaffd6": {
+          "extracted_at": "2026-02-24T19:07:52.552Z",
+          "title": "مسلسل سعادة المجنون الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -3098,7 +3230,7 @@
       }
     },
     "1bcbf8b34": {
-      "last_episode": "0f0c52f16",
+      "last_episode": "b42ea4dcb",
       "last_season": 1,
       "episodes": {
         "ed1acc21a": {
@@ -3142,11 +3274,17 @@
           "title": "مسلسل عيلة الملك الحلقة 7 السابعة",
           "number": 7,
           "season": 1
+        },
+        "b42ea4dcb": {
+          "extracted_at": "2026-02-24T19:08:07.341Z",
+          "title": "مسلسل عيلة الملك الحلقة 8 الثامنة",
+          "number": 8,
+          "season": 1
         }
       }
     },
     "7bfb7e4b0": {
-      "last_episode": "d6f9e4a55",
+      "last_episode": "31c143ee8",
       "last_season": 1,
       "episodes": {
         "172e17385": {
@@ -3190,11 +3328,17 @@
           "title": "مسلسل السوق الحرة الحلقة 7 السابعة",
           "number": 7,
           "season": 1
+        },
+        "31c143ee8": {
+          "extracted_at": "2026-02-24T19:06:29.939Z",
+          "title": "مسلسل السوق الحرة الحلقة 8 الثامنة",
+          "number": 8,
+          "season": 1
         }
       }
     },
     "b382bebdb": {
-      "last_episode": "0f74a8800",
+      "last_episode": "39e301bfb",
       "last_season": 1,
       "episodes": {
         "acd60073a": {
@@ -3226,11 +3370,17 @@
           "title": "مسلسل هي كيميا الحلقة 8 الثامنة",
           "number": 8,
           "season": 1
+        },
+        "39e301bfb": {
+          "extracted_at": "2026-02-24T19:05:18.640Z",
+          "title": "مسلسل هي كيميا الحلقة 9 التاسعة",
+          "number": 9,
+          "season": 1
         }
       }
     },
     "6967625d1": {
-      "last_episode": "8c72a2f34",
+      "last_episode": "9a91932ec",
       "last_season": 1,
       "episodes": {
         "61a978e37": {
@@ -3261,6 +3411,12 @@
           "extracted_at": "2026-02-23T19:06:59.846Z",
           "title": "برنامج الكاميرا الخفية الحلقة 6 السادسة",
           "number": 6,
+          "season": 1
+        },
+        "9a91932ec": {
+          "extracted_at": "2026-02-24T19:06:13.614Z",
+          "title": "برنامج الكاميرا الخفية الحلقة 7 السابعة",
+          "number": 7,
           "season": 1
         }
       }
@@ -3356,7 +3512,7 @@
       }
     },
     "2c5882c9e": {
-      "last_episode": "b5f270459",
+      "last_episode": "414ad0ee6",
       "last_season": 1,
       "episodes": {
         "a88b03cac": {
@@ -3399,6 +3555,12 @@
           "extracted_at": "2026-02-23T19:08:15.858Z",
           "title": "مسلسل ابطال الرمال الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "414ad0ee6": {
+          "extracted_at": "2026-02-24T19:07:23.750Z",
+          "title": "مسلسل ابطال الرمال الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -3518,7 +3680,7 @@
       }
     },
     "11e59e09d": {
-      "last_episode": "a5dde56d6",
+      "last_episode": "15e1b1b68",
       "last_season": 1,
       "episodes": {
         "95998f98f": {
@@ -3561,6 +3723,12 @@
           "extracted_at": "2026-02-23T19:08:52.689Z",
           "title": "مسلسل اخر كلام الحلقة 7 السابعة",
           "number": 7,
+          "season": 1
+        },
+        "15e1b1b68": {
+          "extracted_at": "2026-02-24T19:07:49.330Z",
+          "title": "مسلسل اخر كلام الحلقة 8 الثامنة",
+          "number": 8,
           "season": 1
         }
       }
@@ -3788,7 +3956,7 @@
       }
     },
     "0cab7b5ce": {
-      "last_episode": "64eac5161",
+      "last_episode": "ccf89409e",
       "last_season": 1,
       "episodes": {
         "7cadd4066": {
@@ -3837,6 +4005,12 @@
           "extracted_at": "2026-02-24T13:12:17.127Z",
           "title": "مسلسل النويلاتي الحلقة 8 الثامنة",
           "number": 8,
+          "season": 1
+        },
+        "ccf89409e": {
+          "extracted_at": "2026-02-24T19:08:16.441Z",
+          "title": "مسلسل النويلاتي الحلقة 9 التاسعة",
+          "number": 9,
           "season": 1
         }
       }
@@ -4088,7 +4262,7 @@
       }
     },
     "249d68f38": {
-      "last_episode": "3be1fe552",
+      "last_episode": "952df5112",
       "last_season": 1,
       "episodes": {
         "408ac47a6": {
@@ -4132,11 +4306,17 @@
           "title": "مسلسل عمارة السعادة الحلقة 7 السابعة",
           "number": 7,
           "season": 1
+        },
+        "952df5112": {
+          "extracted_at": "2026-02-24T19:09:19.604Z",
+          "title": "مسلسل عمارة السعادة الحلقة 8 الثامنة",
+          "number": 8,
+          "season": 1
         }
       }
     },
     "f84dc0645": {
-      "last_episode": "8fbf17253",
+      "last_episode": "0f88fb367",
       "last_season": 1,
       "episodes": {
         "dcaf30729": {
@@ -4173,6 +4353,12 @@
           "extracted_at": "2026-02-23T19:10:45.422Z",
           "title": "مسلسل شاكر عودة البطل الحلقة 6 السادسة",
           "number": 6,
+          "season": 1
+        },
+        "0f88fb367": {
+          "extracted_at": "2026-02-24T19:09:23.161Z",
+          "title": "مسلسل شاكر عودة البطل الحلقة 7 السابعة",
+          "number": 7,
           "season": 1
         }
       }
@@ -8372,115 +8558,332 @@
       "title": "مسلسل نوبة وتوبة الحلقة 5 الخامسة",
       "number": 5,
       "season": 1
+    },
+    "b69f50b6d": {
+      "series_id": "d8cb9c11b",
+      "extracted_at": "2026-02-24T19:04:51.130Z",
+      "title": "مسلسل الكينج الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "d2ec63376": {
+      "series_id": "1cf22b484",
+      "extracted_at": "2026-02-24T19:05:01.162Z",
+      "title": "مسلسل افراج الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "fbe333b84": {
+      "series_id": "97faca994",
+      "extracted_at": "2026-02-24T19:05:13.526Z",
+      "title": "مسلسل فخر الدلتا الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "39e301bfb": {
+      "series_id": "b382bebdb",
+      "extracted_at": "2026-02-24T19:05:18.640Z",
+      "title": "مسلسل هي كيميا الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "bf427808c": {
+      "series_id": "1c76263d2",
+      "extracted_at": "2026-02-24T19:05:35.756Z",
+      "title": "مسلسل راس الافعى الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "123318d60": {
+      "series_id": "f4ca918d3",
+      "extracted_at": "2026-02-24T19:05:44.911Z",
+      "title": "مسلسل اتنين غيرنا الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "ddb1f98b7": {
+      "series_id": "ba41f3206",
+      "extracted_at": "2026-02-24T19:05:51.878Z",
+      "title": "مسلسل صحاب الارض الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "a2c745971": {
+      "series_id": "e3e372273",
+      "extracted_at": "2026-02-24T19:06:10.282Z",
+      "title": "مسلسل توابع الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "9a91932ec": {
+      "series_id": "6967625d1",
+      "extracted_at": "2026-02-24T19:06:13.614Z",
+      "title": "برنامج الكاميرا الخفية الحلقة 7 السابعة",
+      "number": 7,
+      "season": 1
+    },
+    "31c143ee8": {
+      "series_id": "7bfb7e4b0",
+      "extracted_at": "2026-02-24T19:06:29.939Z",
+      "title": "مسلسل السوق الحرة الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "883169bd6": {
+      "series_id": "b98fa9dd5",
+      "extracted_at": "2026-02-24T19:06:53.579Z",
+      "title": "مسلسل شرارة الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "1b0afd98c": {
+      "series_id": "d6514ff49",
+      "extracted_at": "2026-02-24T19:06:56.939Z",
+      "title": "مسلسل يوميات رجل متزوج الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "89c8fefe0": {
+      "series_id": "9f5220386",
+      "extracted_at": "2026-02-24T19:07:07.967Z",
+      "title": "مسلسل الغميضة الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "ea55d93f2": {
+      "series_id": "C43F8E231",
+      "extracted_at": "2026-02-24T19:07:11.221Z",
+      "title": "مسلسل شارع الاعشي 2 الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 2
+    },
+    "5d0dee877": {
+      "series_id": "E325739F8",
+      "extracted_at": "2026-02-24T19:07:14.689Z",
+      "title": "مسلسل بنات العم 2 - انتقام الموتى الحلقة 7 السابعة",
+      "number": 7,
+      "season": 2
+    },
+    "95f01cc8b": {
+      "series_id": "8664232f9",
+      "extracted_at": "2026-02-24T19:07:20.253Z",
+      "title": "مسلسل حامض حلو 7 الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 7
+    },
+    "414ad0ee6": {
+      "series_id": "2c5882c9e",
+      "extracted_at": "2026-02-24T19:07:23.750Z",
+      "title": "مسلسل ابطال الرمال الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "5dba2b4e2": {
+      "series_id": "a6e8205e8",
+      "extracted_at": "2026-02-24T19:07:28.483Z",
+      "title": "مسلسل لوبي الغرام الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "ba4deb8ec": {
+      "series_id": "64387fca3",
+      "extracted_at": "2026-02-24T19:07:35.476Z",
+      "title": "مسلسل بنات عبدالغني الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "b07fbff4f": {
+      "series_id": "12e28cd0b",
+      "extracted_at": "2026-02-24T19:07:40.410Z",
+      "title": "مسلسل اخر الشهر الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "15e1b1b68": {
+      "series_id": "11e59e09d",
+      "extracted_at": "2026-02-24T19:07:49.330Z",
+      "title": "مسلسل اخر كلام الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "249eaffd6": {
+      "series_id": "84adc7f83",
+      "extracted_at": "2026-02-24T19:07:52.552Z",
+      "title": "مسلسل سعادة المجنون الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "b42ea4dcb": {
+      "series_id": "1bcbf8b34",
+      "extracted_at": "2026-02-24T19:08:07.341Z",
+      "title": "مسلسل عيلة الملك الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "ccf89409e": {
+      "series_id": "0cab7b5ce",
+      "extracted_at": "2026-02-24T19:08:16.441Z",
+      "title": "مسلسل النويلاتي الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "ab37594c1": {
+      "series_id": "4BA59C052",
+      "extracted_at": "2026-02-24T19:08:34.772Z",
+      "title": "مسلسل وديمة وحليمة 5 الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 5
+    },
+    "f181a9e75": {
+      "series_id": "70efa0e07",
+      "extracted_at": "2026-02-24T19:08:45.612Z",
+      "title": "مسلسل المحافظة 15 الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "0ea9b6e0f": {
+      "series_id": "f6ba66438",
+      "extracted_at": "2026-02-24T19:08:49.083Z",
+      "title": "مسلسل سموم القيظ الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "9dda34b6f": {
+      "series_id": "3f613e778",
+      "extracted_at": "2026-02-24T19:08:54.281Z",
+      "title": "مسلسل دكان سليمان الحلقة 9 التاسعة",
+      "number": 9,
+      "season": 1
+    },
+    "147b9ea95": {
+      "series_id": "157b245c0",
+      "extracted_at": "2026-02-24T19:09:01.561Z",
+      "title": "مسلسل عرش الشيطان الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "952df5112": {
+      "series_id": "249d68f38",
+      "extracted_at": "2026-02-24T19:09:19.604Z",
+      "title": "مسلسل عمارة السعادة الحلقة 8 الثامنة",
+      "number": 8,
+      "season": 1
+    },
+    "0f88fb367": {
+      "series_id": "f84dc0645",
+      "extracted_at": "2026-02-24T19:09:23.161Z",
+      "title": "مسلسل شاكر عودة البطل الحلقة 7 السابعة",
+      "number": 7,
+      "season": 1
     }
   },
   "statistics": {
     "total_series": 98,
-    "total_episodes": 594,
-    "new_episodes_today": 7,
-    "last_scan": "2026-02-24T15:53:46.406Z",
+    "total_episodes": 625,
+    "new_episodes_today": 31,
+    "last_scan": "2026-02-24T19:09:27.647Z",
     "first_scan": false
   },
   "latest_episodes": [
     {
-      "id": "e7a772ef0",
-      "series_id": "7417b359a",
-      "series_title": "مسلسل نوبة وتوبة",
-      "title": "مسلسل نوبة وتوبة الحلقة 5 الخامسة",
-      "image": "https://laroza.hair/uploads/thumbs/fa28ee052-1.jpg",
-      "number": 5,
-      "season": 1,
-      "added_at": "2026-02-24T15:53:21.322Z"
-    },
-    {
-      "id": "01225e5de",
-      "series_id": "0988d811f",
-      "series_title": "مسلسل غناوي شوق",
-      "title": "مسلسل غناوي شوق الحلقة 8 الثامنة",
-      "image": "https://laroza.hair/uploads/thumbs/a3ae53868-1.jpg",
-      "number": 8,
-      "season": 1,
-      "added_at": "2026-02-24T15:53:04.424Z"
-    },
-    {
-      "id": "641536ef5",
-      "series_id": "812858e07",
-      "series_title": "مسلسل مطبخ المدينة",
-      "title": "مسلسل مطبخ المدينة الحلقة 9 التاسعة",
-      "image": "https://laroza.hair/uploads/thumbs/2b93888d9-1.jpg",
-      "number": 9,
-      "season": 1,
-      "added_at": "2026-02-24T15:52:09.919Z"
-    },
-    {
-      "id": "f7f9894af",
-      "series_id": "a0bee9f69",
-      "series_title": "مسلسل ألف ليله مع فيفي عبده",
-      "title": "برنامج الف ليلة مع فيفي عبده الحلقة 12 الثانية عشر",
-      "image": "https://laroza.hair/uploads/thumbs/edfa691a8-1.jpg",
-      "number": 12,
-      "season": 1,
-      "added_at": "2026-02-24T15:51:41.510Z"
-    },
-    {
-      "id": "a25ca918e",
-      "series_id": "fd55e6ca6",
-      "series_title": "مسلسل رامز ليفل الوحش",
-      "title": "برنامج رامز ليفل الوحش الحلقة 7 السابعة",
-      "image": "https://laroza.hair/uploads/thumbs/5a8ef2596-1.jpg",
+      "id": "0f88fb367",
+      "series_id": "f84dc0645",
+      "series_title": "مسلسل شاكر عودة البطل",
+      "title": "مسلسل شاكر عودة البطل الحلقة 7 السابعة",
+      "image": "https://laroza.hair/uploads/thumbs/dcaf30729-1.jpg",
       "number": 7,
       "season": 1,
-      "added_at": "2026-02-24T15:50:47.754Z"
+      "added_at": "2026-02-24T19:09:22.131Z"
     },
     {
-      "id": "7eac535af",
-      "series_id": "ae583760b",
-      "series_title": "مسلسل الست موناليزا",
-      "title": "مسلسل الست موناليزا الحلقة 9 التاسعة",
-      "image": "https://laroza.hair/uploads/thumbs/cfee36307-1.jpg",
+      "id": "952df5112",
+      "series_id": "249d68f38",
+      "series_title": "مسلسل عمارة السعادة",
+      "title": "مسلسل عمارة السعادة الحلقة 8 الثامنة",
+      "image": "https://laroza.hair/uploads/thumbs/408ac47a6-1.jpg",
+      "number": 8,
+      "season": 1,
+      "added_at": "2026-02-24T19:09:03.990Z"
+    },
+    {
+      "id": "147b9ea95",
+      "series_id": "157b245c0",
+      "series_title": "مسلسل عرش الشيطان",
+      "title": "مسلسل عرش الشيطان الحلقة 8 الثامنة",
+      "image": "https://laroza.hair/uploads/thumbs/4542cf943-1.jpg",
+      "number": 8,
+      "season": 1,
+      "added_at": "2026-02-24T19:09:00.599Z"
+    },
+    {
+      "id": "9dda34b6f",
+      "series_id": "3f613e778",
+      "series_title": "مسلسل دكان سليمان",
+      "title": "مسلسل دكان سليمان الحلقة 9 التاسعة",
+      "image": "https://laroza.hair/uploads/thumbs/ee62ede1e-1.jpg",
       "number": 9,
       "season": 1,
-      "added_at": "2026-02-24T15:50:27.473Z"
+      "added_at": "2026-02-24T19:08:53.376Z"
     },
     {
-      "id": "eaaa8534d",
-      "series_id": "81ce0a5d7",
-      "series_title": "مسلسل علي كلاي",
-      "title": "مسلسل علي كلاي الحلقة 8 الثامنة",
-      "image": "https://laroza.hair/uploads/thumbs/0ec1512a8-1.jpg",
+      "id": "0ea9b6e0f",
+      "series_id": "f6ba66438",
+      "series_title": "مسلسل سموم القيظ",
+      "title": "مسلسل سموم القيظ الحلقة 8 الثامنة",
+      "image": "https://laroza.hair/uploads/thumbs/8a5e68a1d-1.jpg",
       "number": 8,
       "season": 1,
-      "added_at": "2026-02-24T15:50:17.270Z"
+      "added_at": "2026-02-24T19:08:47.967Z"
     },
     {
-      "id": "9d4451215",
-      "series_id": "4272ec7e2",
-      "series_title": "مسلسل الضربة",
-      "title": "مسلسل الضربة الحلقة 10 العاشرة",
-      "image": "https://laroza.hair/uploads/thumbs/ae570d8ad-1.jpg",
-      "number": 10,
-      "season": 1,
-      "added_at": "2026-02-24T13:12:41.730Z"
-    },
-    {
-      "id": "4d95c2e7f",
-      "series_id": "7564760ba",
-      "series_title": "مسلسل لحظات مسروقة",
-      "title": "مسلسل لحظات مسروقة الحلقة 10 العاشرة",
-      "image": "https://laroza.hair/uploads/thumbs/7230a4f14-1.jpg",
-      "number": 10,
-      "season": 1,
-      "added_at": "2026-02-24T13:12:27.810Z"
-    },
-    {
-      "id": "8c9b53486",
-      "series_id": "d4b0669ce",
-      "series_title": "مسلسل بنت النعمان",
-      "title": "مسلسل بنت النعمان الحلقة 8 الثامنة",
-      "image": "https://laroza.hair/uploads/thumbs/9424dd412-1.jpg",
+      "id": "f181a9e75",
+      "series_id": "70efa0e07",
+      "series_title": "مسلسل المحافظة 15",
+      "title": "مسلسل المحافظة 15 الحلقة 8 الثامنة",
+      "image": "https://laroza.hair/uploads/thumbs/52fca8afd-1.jpg",
       "number": 8,
       "season": 1,
-      "added_at": "2026-02-24T13:12:22.155Z"
+      "added_at": "2026-02-24T19:08:44.670Z"
+    },
+    {
+      "id": "ab37594c1",
+      "series_id": "4BA59C052",
+      "series_title": "مسلسل وديمة وحليمة",
+      "title": "مسلسل وديمة وحليمة 5 الحلقة 9 التاسعة",
+      "image": "https://laroza.hair/uploads/thumbs/bca9002a4-1.jpg",
+      "number": 9,
+      "season": 5,
+      "added_at": "2026-02-24T19:08:33.700Z"
+    },
+    {
+      "id": "ccf89409e",
+      "series_id": "0cab7b5ce",
+      "series_title": "مسلسل النويلاتي",
+      "title": "مسلسل النويلاتي الحلقة 9 التاسعة",
+      "image": "https://laroza.hair/uploads/thumbs/4efa48074-1.jpg",
+      "number": 9,
+      "season": 1,
+      "added_at": "2026-02-24T19:08:15.589Z"
+    },
+    {
+      "id": "b42ea4dcb",
+      "series_id": "1bcbf8b34",
+      "series_title": "مسلسل عيلة الملك",
+      "title": "مسلسل عيلة الملك الحلقة 8 الثامنة",
+      "image": "https://laroza.hair/uploads/thumbs/ed1acc21a-1.jpg",
+      "number": 8,
+      "season": 1,
+      "added_at": "2026-02-24T19:08:06.850Z"
+    },
+    {
+      "id": "249eaffd6",
+      "series_id": "84adc7f83",
+      "series_title": "مسلسل سعادة المجنون",
+      "title": "مسلسل سعادة المجنون الحلقة 8 الثامنة",
+      "image": "https://laroza.hair/uploads/thumbs/f99d3caaf-1.jpg",
+      "number": 8,
+      "season": 1,
+      "added_at": "2026-02-24T19:07:51.635Z"
     }
   ],
   "latest_series": [
@@ -8488,31 +8891,31 @@
       "id": "81ce0a5d7",
       "title": "مسلسل علي كلاي",
       "image": "https://laroza.hair/uploads/thumbs/0ec1512a8-1.jpg",
-      "added_at": "2026-02-24T15:50:16.317Z"
+      "added_at": "2026-02-24T19:04:47.323Z"
     },
     {
       "id": "d8cb9c11b",
       "title": "مسلسل الكينج",
       "image": "https://laroza.hair/uploads/thumbs/92ae9f039-1.jpg",
-      "added_at": "2026-02-24T15:50:16.317Z"
+      "added_at": "2026-02-24T19:04:47.323Z"
     },
     {
       "id": "9",
       "title": "مسلسل المداح 6",
       "image": "",
-      "added_at": "2026-02-24T15:50:16.317Z"
+      "added_at": "2026-02-24T19:04:47.323Z"
     },
     {
       "id": "1cf22b484",
       "title": "مسلسل افراج",
       "image": "https://laroza.hair/uploads/thumbs/372599929-1.jpg",
-      "added_at": "2026-02-24T15:50:16.317Z"
+      "added_at": "2026-02-24T19:04:47.323Z"
     },
     {
       "id": "8",
       "title": "مسلسل فن الحرب",
       "image": "",
-      "added_at": "2026-02-24T15:50:16.317Z"
+      "added_at": "2026-02-24T19:04:47.323Z"
     }
   ]
 }
