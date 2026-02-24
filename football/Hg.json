@@ -1,10 +1,60 @@
 {
-  "scrapedAt": "2026-02-24T23:18:08.646Z",
+  "scrapedAt": "2026-02-24T23:50:06.320Z",
   "source": "https://koraplus.blog/",
-  "totalMatches": 8,
+  "totalMatches": 14,
   "matches": [
     {
-      "id": "match_1771975076804_0",
+      "id": "match_1771976986393_0",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%85-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a-%d8%a8%d8%a7%d9%84%d9%85%d8%aa%d9%84%d9%88%d9%8a/",
+      "title": "النجم الرياضي بالمتلوي vs الترجي",
+      "team1": {
+        "name": "النجم الرياضي بالمتلوي",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/14068.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "الترجي",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/8235-1.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "2 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [],
+      "tournament": "الرابطة التونسية المحترفة الأولى",
+      "page": 1,
+      "position": 1,
+      "scrapedAt": "2026-02-24T23:49:46.393Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1771976986394_1",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a3%d8%aa%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%a7-%d9%88-%d8%a8%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d8%aa/",
+      "title": "أتالانتا vs بوروسيا دورتموند",
+      "team1": {
+        "name": "أتالانتا",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/232-1.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "بوروسيا دورتموند",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/341-1.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "7:45 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "beIN SPORTS HD 4"
+      ],
+      "tournament": "دوري أبطال اوروبا - بلاي اوف",
+      "page": 1,
+      "position": 2,
+      "scrapedAt": "2026-02-24T23:49:46.394Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1771976986395_2",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a3%d8%aa%d9%84%d8%aa%d9%8a%d9%83%d9%88-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%88-%d9%83%d9%84%d9%88%d8%a8-%d8%a8%d8%b1%d9%88/",
       "title": "أتلتيكو مدريد vs كلوب بروج",
       "team1": {
@@ -25,8 +75,8 @@
       ],
       "tournament": "دوري أبطال اوروبا - بلاي اوف",
       "page": 1,
-      "position": 1,
-      "scrapedAt": "2026-02-24T23:17:56.804Z",
+      "position": 3,
+      "scrapedAt": "2026-02-24T23:49:46.395Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -38,7 +88,33 @@
       ]
     },
     {
-      "id": "match_1771975076805_1",
+      "id": "match_1771976986396_3",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%85%d8%a9-%d9%88-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%83/",
+      "title": "النجمة vs النصر",
+      "team1": {
+        "name": "النجمة",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/24240.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "النصر",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/7549-4.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "9 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "تطبيق ثمانية"
+      ],
+      "tournament": "الدوري السعودي",
+      "page": 1,
+      "position": 4,
+      "scrapedAt": "2026-02-24T23:49:46.396Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1771976986397_4",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d9%88-%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4/",
       "title": "التعاون vs الهلال",
       "team1": {
@@ -59,8 +135,8 @@
       ],
       "tournament": "الدوري السعودي",
       "page": 1,
-      "position": 2,
-      "scrapedAt": "2026-02-24T23:17:56.805Z",
+      "position": 5,
+      "scrapedAt": "2026-02-24T23:49:46.397Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -72,7 +148,7 @@
       ]
     },
     {
-      "id": "match_1771975076806_2",
+      "id": "match_1771976986398_5",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d8%b2%d9%85-%d9%88-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
       "title": "الحزم vs الاتحاد",
       "team1": {
@@ -93,8 +169,8 @@
       ],
       "tournament": "الدوري السعودي",
       "page": 1,
-      "position": 3,
-      "scrapedAt": "2026-02-24T23:17:56.806Z",
+      "position": 6,
+      "scrapedAt": "2026-02-24T23:49:46.398Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -106,7 +182,7 @@
       ]
     },
     {
-      "id": "match_1771975076807_3",
+      "id": "match_1771976986399_6",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ba%d8%b2%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a9-%d9%88-%d8%a8%d9%8a%d8%b1%d8%a7%d9%85%d9%8a%d8%af%d8%b2-%d8%a8%d8%ab/",
       "title": "غزل المحلة vs بيراميدز",
       "team1": {
@@ -127,12 +203,12 @@
       ],
       "tournament": "الدوري المصري",
       "page": 1,
-      "position": 4,
-      "scrapedAt": "2026-02-24T23:17:56.807Z",
+      "position": 7,
+      "scrapedAt": "2026-02-24T23:49:46.399Z",
       "watchServers": null
     },
     {
-      "id": "match_1771975076808_4",
+      "id": "match_1771976986400_7",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b2%d8%af-%d9%88-%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%83%d9%88%d8%b1/",
       "title": "زد vs الزمالك",
       "team1": {
@@ -153,8 +229,8 @@
       ],
       "tournament": "الدوري المصري",
       "page": 1,
-      "position": 5,
-      "scrapedAt": "2026-02-24T23:17:56.808Z",
+      "position": 8,
+      "scrapedAt": "2026-02-24T23:49:46.400Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -166,7 +242,85 @@
       ]
     },
     {
-      "id": "match_1771975076809_5",
+      "id": "match_1771976986400_8",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3-%d9%88-%d8%ba%d9%84%d8%b7%d8%a9-%d8%b3%d8%b1%d8%a7%d9%8a-%d8%a8%d8%ab-%d9%85%d8%a8/",
+      "title": "يوفنتوس vs غلطة سراي",
+      "team1": {
+        "name": "يوفنتوس",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/226-1.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "غلطة سراي",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/945-1.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "10 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "beIN Sports 3 HD"
+      ],
+      "tournament": "دوري أبطال اوروبا - بلاي اوف",
+      "page": 1,
+      "position": 9,
+      "scrapedAt": "2026-02-24T23:49:46.400Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1771976986401_9",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d8%b3%d8%a7%d9%86-%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86-%d9%88-%d9%85%d9%88%d9%86%d8%a7%d9%83/",
+      "title": "باريس سان جيرمان vs موناكو",
+      "team1": {
+        "name": "باريس سان جيرمان",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/480-1.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "موناكو",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/471-1.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "10 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "Bein Sports HD2"
+      ],
+      "tournament": "دوري أبطال اوروبا - بلاي اوف",
+      "page": 1,
+      "position": 10,
+      "scrapedAt": "2026-02-24T23:49:46.401Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1771976986402_10",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%88-%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7-%d8%a8%d8%ab-%d9%85%d8%a8/",
+      "title": "ريال مدريد vs بنفيكا",
+      "team1": {
+        "name": "ريال مدريد",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/131-1.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "بنفيكا",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/888-1.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "10 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "beIN SPORTS HD 1"
+      ],
+      "tournament": "دوري أبطال اوروبا - بلاي اوف",
+      "page": 1,
+      "position": 11,
+      "scrapedAt": "2026-02-24T23:49:46.402Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1771976986403_11",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d9%88-%d9%83%d8%a7%d8%b1%d8%a8%d8%a7/",
       "title": "نيوكاسل يونايتد vs كارباغ اغدام",
       "team1": {
@@ -187,8 +341,8 @@
       ],
       "tournament": "دوري أبطال اوروبا - بلاي اوف",
       "page": 1,
-      "position": 6,
-      "scrapedAt": "2026-02-24T23:17:56.809Z",
+      "position": 12,
+      "scrapedAt": "2026-02-24T23:49:46.403Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -200,7 +354,7 @@
       ]
     },
     {
-      "id": "match_1771975076811_6",
+      "id": "match_1771976986404_12",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a5%d9%86%d8%aa%d8%b1-%d9%85%d9%8a%d9%84%d8%a7%d9%86-%d9%88-%d8%a8%d9%88%d8%af%d9%88-%d8%ac%d9%84%d9%8a%d9%85%d8%aa-%d8%a8/",
       "title": "إنتر ميلان vs بودو جليمت",
       "team1": {
@@ -221,8 +375,8 @@
       ],
       "tournament": "دوري أبطال اوروبا - بلاي اوف",
       "page": 1,
-      "position": 7,
-      "scrapedAt": "2026-02-24T23:17:56.811Z",
+      "position": 13,
+      "scrapedAt": "2026-02-24T23:49:46.404Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -234,7 +388,7 @@
       ]
     },
     {
-      "id": "match_1771975076812_7",
+      "id": "match_1771976986405_13",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d8%a7%d9%8a%d8%b1-%d9%84%d9%8a%d9%81%d8%b1%d9%83%d9%88%d8%b2%d9%86-%d9%88-%d8%a3%d9%88%d9%84%d9%85%d8%a8%d9%8a%d8%a7/",
       "title": "باير ليفركوزن vs أولمبياكوس",
       "team1": {
@@ -255,8 +409,8 @@
       ],
       "tournament": "دوري أبطال اوروبا - بلاي اوف",
       "page": 1,
-      "position": 8,
-      "scrapedAt": "2026-02-24T23:17:56.812Z",
+      "position": 14,
+      "scrapedAt": "2026-02-24T23:49:46.405Z",
       "watchServers": [
         {
           "type": "iframe",
