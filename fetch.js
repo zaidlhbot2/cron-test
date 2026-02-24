@@ -20,7 +20,7 @@ if (!fs.existsSync(MOVIES_DIR)) {
 // ==================== إعدادات جديدة ====================
 const MOVIES_PER_FILE = 250;        // 250 فيلم في كل ملف
 const PAGES_PER_RUN = 5;           // 5 صفحات في كل تشغيل
-const BASE_URL = "https://topcinema.red"; // ✅ تحديث الرابط الأساسي
+const BASE_URL = "https://topcinema.fan"; // ✅ تحديث الرابط الأساسي
 
 // ==================== نظام الفهرس ====================
 class MovieIndex {
