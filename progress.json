@@ -1,7 +1,7 @@
 {
   "currentPage": 1,
   "currentFileNumber": 13,
-  "moviesInCurrentFile": 238,
+  "moviesInCurrentFile": 240,
   "currentFileName": "Top13.json",
   "lastMovieId": "275",
   "pagesProcessedThisRun": 0,
@@ -9,5 +9,5 @@
   "shouldStop": false,
   "allPagesScraped": true,
   "homeScraped": false,
-  "lastUpdate": "2026-02-24T15:47:34.942Z"
+  "lastUpdate": "2026-02-24T15:51:04.130Z"
 }

@@ -3,15 +3,15 @@
   "fileNumber": 2,
   "totalMovies": 500,
   "created": "2026-02-09T11:04:59.433Z",
-  "lastUpdated": "2026-02-21T11:54:03.182Z",
+  "lastUpdated": "2026-02-24T15:52:52.750Z",
   "moviesPerFileLimit": 250,
   "movies": [
     {
       "id": "184808",
       "title": "فيلم Predator: Badlands 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-predator-badlands-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=184808",
-      "image": "https://topcinema.red/wp-content/uploads/2025/11/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-predator-badlands-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=184808",
+      "image": "https://topcinema.fan/wp-content/uploads/2025/11/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
       "imdbRating": "7.5",
       "story": "تدور الأحداث في المستقبل على كوكب بعيد، حيث يجد كائن فضائي شاب منبوذ من عشيرته نفسه في تحالف غير متوقع مع امرأة تدعى (ثيا)، وينطلق برحلة دموية في سبيل العثور على خصمه النهائي.",
       "details": {
@@ -42,13 +42,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-predator-badlands-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-predator-badlands-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -62,7 +62,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-predator-badlands-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-predator-badlands-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -129,11 +129,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-predator-badlands-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-predator-badlands-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 46,
+      "position": 51,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:36.252Z",
+      "scrapedAt": "2026-02-24T15:52:34.411Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -143,9 +143,9 @@
     {
       "id": "201516",
       "title": "فيلم La Grazia 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-la-grazia-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=201516",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BNzRmNmRmNTgtZGFhZi00NzQxLTg1YzUtYzcxZmQxNjc4YzA0XkEyXkFqcGc@-scaled-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-la-grazia-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=201516",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BNzRmNmRmNTgtZGFhZi00NzQxLTg1YzUtYzcxZmQxNjc4YzA0XkEyXkFqcGc@-scaled-439x650.jpg",
       "imdbRating": "7.5",
       "story": "يتبع الفيلم قصة رئيس إيطالي أرمل خلال أشهره الأخيرة في المنصب، حيث يواجه أزمات أخلاقية حول تشريعات القتل الرحيم والعفو عن القتلة، بينما يصارع ذكريات خيانة زوجته الراحلة له.",
       "details": {
@@ -171,13 +171,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-la-grazia-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-la-grazia-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -191,7 +191,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-la-grazia-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-la-grazia-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -250,11 +250,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-la-grazia-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-la-grazia-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 47,
+      "position": 52,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:38.284Z",
+      "scrapedAt": "2026-02-24T15:52:36.312Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -264,9 +264,9 @@
     {
       "id": "201070",
       "title": "فيلم The Arborist 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-arborist-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=201070",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BMTA1MWUxNDItYzcxNC00NDZmLWFiZGUtYTMyYzdkMjc5NjA2XkEyXkFqcGc@-443x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-arborist-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=201070",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BMTA1MWUxNDItYzcxNC00NDZmLWFiZGUtYTMyYzdkMjc5NjA2XkEyXkFqcGc@-443x650.jpg",
       "imdbRating": "7.6",
       "story": "تُوقظ عاملة تقليم أشجار مفجوعة وابنها شبحاً عندما يبدآن بقطع الأشجار في ملكية رجل منعزل غامض.",
       "details": {
@@ -296,13 +296,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-arborist-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-arborist-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -316,7 +316,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-arborist-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-arborist-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -391,11 +391,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-arborist-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-arborist-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 48,
+      "position": 53,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:40.154Z",
+      "scrapedAt": "2026-02-24T15:52:38.334Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -405,9 +405,9 @@
     {
       "id": "201066",
       "title": "فيلم A Young Father’s Nightmare 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-a-young-fathers-nightmare-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=201066",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BY2RhNTc5ZDMtM2NiNi00OThhLWIwOGUtOWNkYmFkYmFiYmM1XkEyXkFqcGc@-scaled-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-a-young-fathers-nightmare-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=201066",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BY2RhNTc5ZDMtM2NiNi00OThhLWIwOGUtOWNkYmFkYmFiYmM1XkEyXkFqcGc@-scaled-439x650.jpg",
       "imdbRating": "4.7",
       "story": "يُجبر شاب على إثبات براءته بعد اختفاء خطيبته وابنه الرضيع. ومع تراكم الأدلة الغامضة ضده، يبدأ في إدراك أن أحدهم يحاول توريطه.",
       "details": {
@@ -433,13 +433,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-a-young-fathers-nightmare-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-a-young-fathers-nightmare-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -453,7 +453,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-a-young-fathers-nightmare-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-a-young-fathers-nightmare-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -528,11 +528,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-a-young-fathers-nightmare-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-a-young-fathers-nightmare-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 49,
+      "position": 54,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:42.031Z",
+      "scrapedAt": "2026-02-24T15:52:40.361Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -542,9 +542,9 @@
     {
       "id": "201019",
       "title": "فيلم A Pale View of Hills 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-a-pale-view-of-hills-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=201019",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BYTU3ZDQyNDktM2M1Ni00OGY5LTljNjEtYmViOWRmOTNjMzBjXkEyXkFqcGc@-459x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-a-pale-view-of-hills-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=201019",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BYTU3ZDQyNDktM2M1Ni00OGY5LTljNjEtYmViOWRmOTNjMzBjXkEyXkFqcGc@-459x650.jpg",
       "imdbRating": "6.7",
       "story": "تستكشف الجداول الزمنية المزدوجة ذكريات أرملة يابانية تمتد عبر ناغازاكي ما بعد الحرب في الخمسينيات وإنجلترا خلال حقبة الحرب الباردة في الثمانينيات، وتكشف الأسرار التي تتشابك بين تجاربها الماضية والحالية عبر الحدود.",
       "details": {
@@ -576,13 +576,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-a-pale-view-of-hills-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-a-pale-view-of-hills-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -596,7 +596,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-a-pale-view-of-hills-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-a-pale-view-of-hills-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -663,11 +663,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-a-pale-view-of-hills-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-a-pale-view-of-hills-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 50,
+      "position": 55,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:44.139Z",
+      "scrapedAt": "2026-02-24T15:52:42.282Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -677,9 +677,9 @@
     {
       "id": "200950",
       "title": "فيلم Twisted 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-twisted-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=200950",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BNmY4NzU3MmQtZWIzYS00MTQ5LTkzOTEtZmIzMjU0NmFlNDgyXkEyXkFqcGc@-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-twisted-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=200950",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BNmY4NzU3MmQtZWIzYS00MTQ5LTkzOTEtZmIzMjU0NmFlNDgyXkEyXkFqcGc@-439x650.jpg",
       "imdbRating": null,
       "story": "يروي الفيلم قصة شابين من جيل الألفية يقومان ببيع شقق في نيويورك لا يملكانها لمشترين جدد يجهلون أنهم يتعرضون للاحتيال. تنجح خطتهما ببراعة حتى يصادفا مالك شقة يخفي سرًا مظلمًا، فيقلب الطاولة عليهما.",
       "details": {
@@ -708,13 +708,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-twisted-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-twisted-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -728,7 +728,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-twisted-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-twisted-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -795,11 +795,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-twisted-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-twisted-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 51,
+      "position": 56,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:46.002Z",
+      "scrapedAt": "2026-02-24T15:52:44.304Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -809,9 +809,9 @@
     {
       "id": "200946",
       "title": "فيلم Redux Redux 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-redux-redux-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=200946",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BYzI2YzliMjAtODE0NC00NDE2LTgwMWUtN2NhNWY0YzRkNjQ5XkEyXkFqcGc@-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-redux-redux-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=200946",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BYzI2YzliMjAtODE0NC00NDE2LTgwMWUtN2NhNWY0YzRkNjQ5XkEyXkFqcGc@-439x650.jpg",
       "imdbRating": "7.2",
       "story": "تتبع الأحداث قصة (إيرين كيلي) التي تسافر عبر أكوان موازية لتقتل قاتل ابنتها مرارًا وتكرارًا، وبينما تندفع نحو الانتقام، تتأرجح إنسانيتها على المحك.",
       "details": {
@@ -842,13 +842,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-redux-redux-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-redux-redux-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -862,7 +862,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-redux-redux-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-redux-redux-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -929,11 +929,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-redux-redux-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-redux-redux-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 52,
+      "position": 57,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:47.862Z",
+      "scrapedAt": "2026-02-24T15:52:46.363Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -943,9 +943,9 @@
     {
       "id": "200855",
       "title": "فيلم Yoh! Bestie 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-yoh-bestie-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=200855",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BOTc3ODk5ZGYtYTJiNi00ZDJjLTk0NjktOGUyYTU1YWM0MDkwXkEyXkFqcGc@._V1_-520x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-yoh-bestie-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=200855",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BOTc3ODk5ZGYtYTJiNi00ZDJjLTk0NjktOGUyYTU1YWM0MDkwXkEyXkFqcGc@._V1_-520x650.jpg",
       "imdbRating": null,
       "story": "ليست \"تاندو\" محظوظة في الحب دائمًا، لكن حين يعود صديقها المقرب من سفره مصطحبًا \"خطيبة\" في خطوة مفاجئة، تضطر إلى مواجهة مشاعر الغيرة التي بدأت تعتريها أيضًا وسط فوضى مشاعرها.",
       "details": {
@@ -966,13 +966,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-yoh-bestie-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-yoh-bestie-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -986,7 +986,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-yoh-bestie-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-yoh-bestie-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -1045,11 +1045,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-yoh-bestie-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-yoh-bestie-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 53,
+      "position": 58,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:49.725Z",
+      "scrapedAt": "2026-02-24T15:52:48.514Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -1059,9 +1059,9 @@
     {
       "id": "200852",
       "title": "فيلم Fabian and the Deadly Wedding 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-fabian-and-the-deadly-wedding-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=200852",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BODk1NTZjOWYtNDM5Yy00YmU5LWEwOTktNDc4YzNmZWUwNTIzXkEyXkFqcGc@-440x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-fabian-and-the-deadly-wedding-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=200852",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BODk1NTZjOWYtNDM5Yy00YmU5LWEwOTktNDc4YzNmZWUwNTIzXkEyXkFqcGc@-440x650.jpg",
       "imdbRating": null,
       "story": "يجد فابيان، المحتال الهارب من مطارديه، نفسه في حفل زفاف شتوي حيث يخطط لسرقة تمثال ثمين. لكن جريمة قتل تعرقل خططه.",
       "details": {
@@ -1087,13 +1087,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-fabian-and-the-deadly-wedding-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-fabian-and-the-deadly-wedding-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -1107,7 +1107,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-fabian-and-the-deadly-wedding-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-fabian-and-the-deadly-wedding-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -1166,11 +1166,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-fabian-and-the-deadly-wedding-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-fabian-and-the-deadly-wedding-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 54,
+      "position": 59,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:51.587Z",
+      "scrapedAt": "2026-02-24T15:52:50.697Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -1180,9 +1180,9 @@
     {
       "id": "200802",
       "title": "فيلم Your Letter 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-your-letter-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=200802",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BZGI3NGQ4NWMtY2FhNi00NDFkLTlhOWMtMmE3ZTNmZmVhYjc3XkEyXkFqcGc@.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-your-letter-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=200802",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BZGI3NGQ4NWMtY2FhNi00NDFkLTlhOWMtMmE3ZTNmZmVhYjc3XkEyXkFqcGc@.jpg",
       "imdbRating": "7.4",
       "story": "تنتقل (سوري) إلى مدرسة جديدة، حيث تعثر في درج مقعدها على رسالة مجهولة تتضمن تعريفًا بالمدرسة وتلميحًا يقودها مغامرة غير متوقعة داخل أروقة المدرسة.",
       "details": {
@@ -1210,13 +1210,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-your-letter-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-your-letter-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -1230,7 +1230,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-your-letter-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-your-letter-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -1305,11 +1305,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-your-letter-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-your-letter-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 55,
+      "position": 60,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:53.438Z",
+      "scrapedAt": "2026-02-24T15:52:52.733Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -2819,59 +2819,46 @@
     {
       "id": "199560",
       "title": "فيلم Shelter 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=199560",
-      "image": "https://topcinema.red/wp-content/uploads/2026/01/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=199560",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/01/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@-439x650.jpg",
       "imdbRating": "6.4",
       "story": "ينقذ رجل منعزل في جزيرة اسكتلندية نائية فتاة من الغرق في البحر، مما يفتح سلسلة من الأحداث الخطيرة، من بينها هجوم على منزله، فيضطر لمواجهة ماضيه غير العادي.",
       "details": {
-        "القسم": [
+        "قسم الفيلم": [
           "افلام اجنبي"
         ],
-        "النوع": [
+        "نوع الفيلم": [
           "اثارة",
           "اكشن"
         ],
-        "الجودة": [
-          "1080p HDCAM"
+        "جودة الفيلم": [
+          "1080p WEB-DL",
+          "720p WEB-DL"
         ],
-        "المدة": "107 دقيقة",
-        "سنة الإنتاج": [
+        "توقيت الفيلم": "107 دقيقة",
+        "موعد الصدور": [
           "2026"
         ],
-        "اللغة": [
-          "الأنجليزية"
-        ],
-        "البلد": [
+        "دولة الفيلم": [
           "الولايات المتحدة الامريكية"
         ],
-        "التمثيل": [
+        "بطولة": [
           "Adam Collins",
           "Anna Crilly",
           "Bally Gill",
           "Bill Nighy"
         ]
       },
-      "year": "2026",
-      "quality": "1080p HDCAM",
-      "runtime": "107 دقيقة",
-      "genres": [
-        "اثارة",
-        "اكشن"
-      ],
-      "countries": [
-        "الولايات المتحدة الامريكية"
-      ],
-      "cast": [
-        "Adam Collins",
-        "Anna Crilly",
-        "Bally Gill",
-        "Bill Nighy"
-      ],
+      "year": null,
+      "quality": null,
+      "runtime": "2026-02-24",
+      "genres": [],
+      "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -2885,11 +2872,11 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/nbilmni6yijp.html",
+          "url": "https://vidtube.one/d/lwe1dduvr68i.html",
           "quality": "متعدد الجودات",
           "type": "pro_server",
           "icon": "fas fa-rocket",
@@ -2897,7 +2884,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://updown.cam/cxekc55h8nbz",
+          "url": "https://updown.cam/kgjjt3x7pnqo",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -2905,7 +2892,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://down.mdiaload.com/ycel28t9b0ga",
+          "url": "https://down.mdiaload.com/o444htj5lmax",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -2913,7 +2900,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://ddownload.com/vevahckv5dmc",
+          "url": "https://nitroflare.com/view/D41F807C2B2E5C9",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -2921,7 +2908,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://nitroflare.com/view/2632F8298F416CB",
+          "url": "https://1fichier.com/?5zmu2wouvldq67ow3kol",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -2929,7 +2916,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://rapidgator.net/file/955547ccf37abb83322f52ef310bd43b",
+          "url": "https://rapidgator.net/file/6a1b677285fbd8def5c62e1d23631d61",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -2937,7 +2924,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://frdl.io/mh4ckslm9l8g",
+          "url": "https://frdl.io/y9buvqm6k11g",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -2945,22 +2932,78 @@
         },
         {
           "name": "1080p",
-          "url": "https://1cloudfile.com/3wxgz",
+          "url": "https://1cloudfile.com/2QH8u",
           "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "720p",
+          "url": "https://updown.cam/etb3iro60ysp",
+          "quality": "720p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "720p",
+          "url": "https://down.mdiaload.com/d943m63bil3y",
+          "quality": "720p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "720p",
+          "url": "https://nitroflare.com/view/5E9C7B8F6F101F7",
+          "quality": "720p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "720p",
+          "url": "https://1fichier.com/?74r8dklyvhdcz7hv1ypw",
+          "quality": "720p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "720p",
+          "url": "https://rapidgator.net/file/49340aca52963c26e276637ce12e2ca4",
+          "quality": "720p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "720p",
+          "url": "https://frdl.io/sps53vlorveq",
+          "quality": "720p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "720p",
+          "url": "https://1cloudfile.com/1uMem",
+          "quality": "720p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 59,
+      "position": 3,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-19T23:53:22.090Z",
+      "scrapedAt": "2026-02-24T15:50:58.337Z",
       "stats": {
         "watchServersCount": 2,
-        "downloadServersCount": 8,
-        "genresCount": 2
+        "downloadServersCount": 15,
+        "genresCount": 0
       }
     },
     {
@@ -3409,9 +3452,9 @@
     {
       "id": "187938",
       "title": "فيلم Hamnet 2025 مترجم اون لاين",
-      "url": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-hamnet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.rip/?p=187938",
-      "image": "https://topcinema.rip/wp-content/uploads/2025/12/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-hamnet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=187938",
+      "image": "https://topcinema.fan/wp-content/uploads/2025/12/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
       "imdbRating": "8.1",
       "story": "بعد أن فقد الزوجان، أغنيس وويليام شكسبير، ابنهما هامنت بسبب الطاعون، يواجهان الحزن في إنجلترا في القرن السادس عشر. بصفتها معالجة، يجب على أغنيس أن تجد القوة لرعاية أطفالها الناجين بينما تتعافى من خسارتها الفادحة.",
       "details": {
@@ -3424,7 +3467,7 @@
           "سيرة ذاتية"
         ],
         "جودة الفيلم": [
-          "1080p WEB-DL"
+          "1080p BluRay"
         ],
         "توقيت الفيلم": "2 ساعة و 5 دقيقة",
         "موعد الصدور": [
@@ -3442,109 +3485,93 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "03-02-2026",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-hamnet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-hamnet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
         },
         {
           "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-zojywl3lxlx6.html",
+          "url": "https://vidtube.one/embed-woqzrdk0pepj.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "width": "100%",
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-hamnet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-hamnet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/zojywl3lxlx6.html",
+          "url": "https://vidtube.one/d/woqzrdk0pepj.html",
           "quality": "متعدد الجودات",
           "type": "pro_server",
           "icon": "fas fa-rocket",
           "label": "سيرفر سريع"
         },
         {
-          "name": "UpDown",
-          "url": "https://updown.cam/ncz90t0y4aly",
+          "name": "1080p",
+          "url": "https://updown.cam/5venv2gcxh3v",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Mdiaload",
-          "url": "https://down.mdiaload.com/5jg42t36ix4m",
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/6k1e47szx1t7",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Ddownload",
-          "url": "https://ddownload.com/cnnymcho29ra",
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/31446C13248686A",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Nitroflare",
-          "url": "https://nitroflare.com/view/C667E94E95A918E",
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/7aa6cff56a5906b5ca302afce4c5867c",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "1Fichier",
-          "url": "https://1fichier.com/?25d51xa80772rlxqnvbf",
+          "name": "1080p",
+          "url": "https://frdl.io/m6cwgjt5lt2d",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Rapidgator",
-          "url": "https://rapidgator.net/file/8d64258aaf3337aa2ce2375b1b0dbef1",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "Freedl",
-          "url": "https://frdl.io/k80k7rxzr6je",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "CloudFile",
-          "url": "https://1cloudfile.com/4cvc6",
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1uM26",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-hamnet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-hamnet-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 57,
+      "position": 5,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-17T09:34:50.530Z",
+      "scrapedAt": "2026-02-24T15:51:02.191Z",
       "stats": {
         "watchServersCount": 2,
-        "downloadServersCount": 9,
+        "downloadServersCount": 7,
         "genresCount": 0
       }
     },
@@ -5338,9 +5365,9 @@
     {
       "id": "199634",
       "title": "فيلم Return to Silent Hill 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=199634",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/_640x_58723cc2bb2d1187b83d2706a4122c9c97da860e79ff7db31004d0ffceb51ff0-483x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=199634",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/_640x_58723cc2bb2d1187b83d2706a4122c9c97da860e79ff7db31004d0ffceb51ff0-483x650.jpg",
       "imdbRating": "4.2",
       "story": "يقرر (جيمس) الذهاب إلى منطقة التل الصامت بعد تلقيه خطاب غامض يطلب منه العودة، ويواجه هناك العديد من الأهوال المألوفة والغير مألوفة في مدينة يسكنها الرعب.",
       "details": {
@@ -5371,31 +5398,31 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
         },
         {
           "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-6qe63ljtnni9.html",
+          "url": "https://vidtube.one/embed-z475zhqvbfxa.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "width": "100%",
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/6qe63ljtnni9.html",
+          "url": "https://vidtube.one/d/gonj7j2z5gsg.html",
           "quality": "متعدد الجودات",
           "type": "pro_server",
           "icon": "fas fa-rocket",
@@ -5403,7 +5430,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://updown.cam/w81gn94xvv25",
+          "url": "https://updown.cam/9hhdee71eycl",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5411,7 +5438,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://down.mdiaload.com/fhicctpm4kkd",
+          "url": "https://down.mdiaload.com/1shle0rjtlw3",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5419,7 +5446,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://ddownload.com/o8nnshwqtdo3",
+          "url": "https://nitroflare.com/view/9A5A3AE0D99127F",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5427,7 +5454,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://nitroflare.com/view/1DB21BD4D7069A4",
+          "url": "https://1fichier.com/?f5gmv7rrcludgu1b2htl",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5435,7 +5462,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://1fichier.com/?6wufb6rt6w9r8zxk2sjn",
+          "url": "https://rapidgator.net/file/2ea2628fa67dbdf0223fbab5e71fea2b",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5443,7 +5470,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://rapidgator.net/file/6d1c7893dc329277eb558b1eeef11783",
+          "url": "https://frdl.io/7ktsxw4xkiss",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5451,29 +5478,21 @@
         },
         {
           "name": "1080p",
-          "url": "https://frdl.io/blzzh1qk3qum",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3wzqy",
+          "url": "https://1cloudfile.com/2QHae",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 45,
+      "position": 1,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:34.391Z",
+      "scrapedAt": "2026-02-24T15:50:54.648Z",
       "stats": {
         "watchServersCount": 2,
-        "downloadServersCount": 9,
+        "downloadServersCount": 8,
         "genresCount": 0
       }
     },
@@ -7346,9 +7365,9 @@
     {
       "id": "198910",
       "title": "فيلم Night Patrol 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-night-patrol-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=198910",
-      "image": "https://topcinema.red/wp-content/uploads/2026/01/MV5BMzY2Mjg2YzUtZmQwZC00ZjIwLTg2YzUtZmZmNmU4OTliZTYwXkEyXkFqcGc@-520x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-night-patrol-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=198910",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/01/MV5BMzY2Mjg2YzUtZmQwZC00ZjIwLTg2YzUtZmZmNmU4OTliZTYwXkEyXkFqcGc@-520x650.jpg",
       "imdbRating": "5.1",
       "story": "يكتشف شرطي في لوس أنجلوس أن فرقة شرطة خاصة تخفي سراً خطيراً يهدد سكان الحي الذي نشأ فيه، فيدخل في سباق مع الوقت لكشف الحقيقة وحماية أهله.",
       "details": {
@@ -7379,13 +7398,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-night-patrol-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-night-patrol-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -7399,7 +7418,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-night-patrol-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-night-patrol-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -7474,11 +7493,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-night-patrol-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-night-patrol-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 33,
+      "position": 39,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:11.635Z",
+      "scrapedAt": "2026-02-24T15:52:09.552Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -7768,9 +7787,9 @@
     {
       "id": "198907",
       "title": "فيلم Mercy 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-mercy-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=198907",
-      "image": "https://topcinema.red/wp-content/uploads/2026/01/_640x_50a61dfaa8b580c73cc620c93d3ba1f8915e4ed9e604e999ed90f8d61535ebed-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mercy-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=198907",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/01/_640x_50a61dfaa8b580c73cc620c93d3ba1f8915e4ed9e604e999ed90f8d61535ebed-439x650.jpg",
       "imdbRating": "6.2",
       "story": "يتتبع الفيلم حياة المحقق (برات) التي تنقلب رأسًا على عقب بعد اتهامه ظلمًا بارتكاب جريمة خطيرة في مجتمع تنتشر فيه هذه الجرائم، لذا يبذل قصارى جهده لإثبات براءته.",
       "details": {
@@ -7802,13 +7821,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-mercy-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mercy-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -7822,7 +7841,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-mercy-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mercy-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -7929,11 +7948,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-mercy-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mercy-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 11,
+      "position": 17,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:29.481Z",
+      "scrapedAt": "2026-02-24T15:51:25.149Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 13,
@@ -12471,9 +12490,9 @@
     {
       "id": "196556",
       "title": "فيلم 28 Years Later: The Bone Temple 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-28-years-later-the-bone-temple-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=196556",
-      "image": "https://topcinema.red/wp-content/uploads/2026/01/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-28-years-later-the-bone-temple-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=196556",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/01/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
       "imdbRating": "7.8",
       "story": "تدور الأحداث في إطار من الرعب، حيث يستيقظ رسول من غيبوبته فيكتشف أن العالم قد تعرض لغزو الزومبي، وذلك بعد مرور 28 عامًا على تفشي فيروس الغضب.",
       "details": {
@@ -12504,13 +12523,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-28-years-later-the-bone-temple-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-28-years-later-the-bone-temple-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -12524,7 +12543,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-28-years-later-the-bone-temple-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-28-years-later-the-bone-temple-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -12631,11 +12650,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-28-years-later-the-bone-temple-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-28-years-later-the-bone-temple-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 14,
+      "position": 20,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:35.337Z",
+      "scrapedAt": "2026-02-24T15:51:30.915Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 13,
@@ -23016,9 +23035,9 @@
     {
       "id": "190181",
       "title": "فيلم Eternity 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-eternity-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=190181",
-      "image": "https://topcinema.red/wp-content/uploads/2025/12/MV5BNzlmZTNiOTAtNzhlOC00ZTA1LWJhNTgtMDQ4YmY4NWIyNTA4XkEyXkFqcGc@.jpg_V1_SX700-417x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-eternity-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=190181",
+      "image": "https://topcinema.fan/wp-content/uploads/2025/12/MV5BNzlmZTNiOTAtNzhlOC00ZTA1LWJhNTgtMDQ4YmY4NWIyNTA4XkEyXkFqcGc@.jpg_V1_SX700-417x650.jpg",
       "imdbRating": "7.3",
       "story": "في إطار من الكوميديا والخيال، يحصل الأشخاص المتوفيين على فرصة مدتها أسبوع لاختيار المكان الذي سيمكثون فيه للأبد، ولكن يختلف الأمر بالنسبة لـ (جوان) و(لاري) و(لوك)، حيث يبحث كل منهم عن الشخص المناسب لقضاء الحياة الأبدية معه.",
       "details": {
@@ -23049,13 +23068,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-eternity-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-eternity-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -23069,7 +23088,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-eternity-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-eternity-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -23144,11 +23163,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-eternity-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-eternity-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 44,
+      "position": 50,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:32.442Z",
+      "scrapedAt": "2026-02-24T15:52:32.504Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -23300,9 +23319,9 @@
     {
       "id": "188791",
       "title": "فيلم Five Nights at Freddy’s 2 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-five-nights-at-freddys-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=188791",
-      "image": "https://topcinema.red/wp-content/uploads/2025/12/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@.jpg_V1_SX700-411x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-five-nights-at-freddys-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=188791",
+      "image": "https://topcinema.fan/wp-content/uploads/2025/12/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@.jpg_V1_SX700-411x650.jpg",
       "imdbRating": "5.6",
       "story": "في عام 1987، يسعى (جيريمي فيتزجيرالد) للخروج من التذبذب والفوضى بحياته نحو الاستقرار، وحينما يقبل وظيفة حارس أمن بمطعم بيتزا فريدي فازبير الجديد، سرعان ما يلاحظ أمورًا مريبة هناك خلال ورديته الأولى.",
       "details": {
@@ -23333,13 +23352,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-five-nights-at-freddys-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-five-nights-at-freddys-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -23353,7 +23372,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-five-nights-at-freddys-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-five-nights-at-freddys-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -23412,11 +23431,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-five-nights-at-freddys-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-five-nights-at-freddys-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 39,
+      "position": 45,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:23.071Z",
+      "scrapedAt": "2026-02-24T15:52:22.351Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -30251,9 +30270,9 @@
     {
       "id": "184290",
       "title": "فيلم Now You See Me: Now You Don’t 2025 مترجم اون لاين",
-      "url": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-now-you-see-me-now-you-dont-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.rip/?p=184290",
-      "image": "https://topcinema.rip/wp-content/uploads/2025/11/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-now-you-see-me-now-you-dont-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=184290",
+      "image": "https://topcinema.fan/wp-content/uploads/2025/11/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
       "imdbRating": "6.3",
       "story": "في إطار من الجريمة والتشويق، يعود (دانيال أطلس) وفريقه الشهير بالتعاون مع سحرة جدد، حيث يتعين عليهم الانخراط في مهمة جديدة تتمثل في سرقة ألماسة نادرة.",
       "details": {
@@ -30265,8 +30284,7 @@
           "جريمة"
         ],
         "جودة الفيلم": [
-          "1080p WEB-DL",
-          "720p WEB-DL"
+          "1080p BluRay"
         ],
         "توقيت الفيلم": "1 ساعة و 52 دقيقة",
         "موعد الصدور": [
@@ -30284,165 +30302,93 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "16-12-2025",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-now-you-see-me-now-you-dont-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-now-you-see-me-now-you-dont-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
         },
         {
           "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-ohy3i18etham.html",
+          "url": "https://vidtube.one/embed-1jvd3y1vnmfw.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "width": "100%",
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-now-you-see-me-now-you-dont-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-now-you-see-me-now-you-dont-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/ohy3i18etham.html",
+          "url": "https://vidtube.one/d/1jvd3y1vnmfw.html",
           "quality": "متعدد الجودات",
           "type": "pro_server",
           "icon": "fas fa-rocket",
           "label": "سيرفر سريع"
         },
         {
-          "name": "UpDown",
-          "url": "https://updown.cam/ftsvdnq6apq6",
+          "name": "1080p",
+          "url": "https://updown.cam/h9t0jalxfe46",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Mdiaload",
-          "url": "https://down.mdiaload.com/um4q9uh9jj92",
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/6292a8fv0dj0",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Ddownload",
-          "url": "https://ddownload.com/9o9yksgvlu38",
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/FFD372B48D12652",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Nitroflare",
-          "url": "https://nitroflare.com/view/14853850F777A54",
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/e801c696fd0da7baae52f0636fe78527",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "1Fichier",
-          "url": "https://1fichier.com/?q4cy0oyr2qtqm7zlc8fr",
+          "name": "1080p",
+          "url": "https://frdl.io/lt1fk92xfkbw",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Rapidgator",
-          "url": "https://rapidgator.net/file/7d0f40f72b9e7cad6477e5688f65dba6",
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1uM2h",
           "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "Freedl",
-          "url": "https://frdl.io/ne8yertioyts",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "CloudFile",
-          "url": "https://1cloudfile.com/2Qe9B",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "UpDown",
-          "url": "https://updown.cam/9ruuot8i9l7v",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "Ddownload",
-          "url": "https://ddownload.com/wuslqwpn4qnt",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "Nitroflare",
-          "url": "https://nitroflare.com/view/95A906B6D188636",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1Fichier",
-          "url": "https://1fichier.com/?o36xzsmgc9qmp2lob04l",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "Rapidgator",
-          "url": "https://rapidgator.net/file/3c1c5f9760538bce80f88bd7c48fef46",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "Freedl",
-          "url": "https://frdl.io/szyo9yulc0r5",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "CloudFile",
-          "url": "https://1cloudfile.com/2Qeat",
-          "quality": "720p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-now-you-see-me-now-you-dont-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 4,
-      "position": 51,
-      "currentFile": "Top1.json",
-      "scrapedAt": "2026-02-15T15:52:52.836Z",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-now-you-see-me-now-you-dont-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 4,
+      "currentFile": "Top13.json",
+      "scrapedAt": "2026-02-24T15:51:00.265Z",
       "stats": {
         "watchServersCount": 2,
-        "downloadServersCount": 16,
+        "downloadServersCount": 7,
         "genresCount": 0
       }
     },
@@ -37045,9 +36991,9 @@
     {
       "id": "202646",
       "title": "فيلم Whistle 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-whistle-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202646",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BZThlNDMzYTItMGE1MS00Mzg5LWIyOWMtZjA1NzVmNzhmZWVmXkEyXkFqcGc@-443x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-whistle-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202646",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BZThlNDMzYTItMGE1MS00Mzg5LWIyOWMtZjA1NzVmNzhmZWVmXkEyXkFqcGc@-443x650.jpg",
       "imdbRating": "5.7",
       "story": "يعثر مجموعة من طلاب المرحلة الثانوية غير المنسجمين بالصدفة على صافرة موت أزتكية قديمة وملعونة، ويكتشفون أن نفخها والصوت المرعب الذي تُصدره سيُستدعى بموجبه موتهم المستقبلي ليطاردهم.",
       "details": {
@@ -37076,13 +37022,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-whistle-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-whistle-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -37096,7 +37042,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-whistle-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-whistle-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -37163,11 +37109,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-whistle-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-whistle-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 20,
+      "position": 26,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:46.947Z",
+      "scrapedAt": "2026-02-24T15:51:42.944Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37177,9 +37123,9 @@
     {
       "id": "202635",
       "title": "فيلم F*ck Valentines Day 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-fck-valentines-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202635",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BNWU4N2M2MDYtZTRiMC00YTYyLWE2ZTEtMWUxN2U2ZGM5ZTc4XkEyXkFqcGc@.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-fck-valentines-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202635",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BNWU4N2M2MDYtZTRiMC00YTYyLWE2ZTEtMWUxN2U2ZGM5ZTc4XkEyXkFqcGc@.jpg",
       "imdbRating": "5.4",
       "story": "تكره جينا عيد ميلادها الذي يوافق يوم عيد الحب، فتسافر إلى اليونان لمنع صديقها من طلب يدها للزواج. وبمساعدة المصطافين جوني وشقيقته ميكي، تخطط لتأجيل الأمر، بينما تتساءل عن علاقتها.",
       "details": {
@@ -37210,13 +37156,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-fck-valentines-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-fck-valentines-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -37230,7 +37176,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-fck-valentines-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-fck-valentines-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -37297,11 +37243,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-fck-valentines-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-fck-valentines-day-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 21,
+      "position": 27,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:48.991Z",
+      "scrapedAt": "2026-02-24T15:51:44.877Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37311,9 +37257,9 @@
     {
       "id": "202642",
       "title": "فيلم The Strangers: Chapter 3 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-strangers-chapter-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202642",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BN2M5ODRlM2QtNjc5MS00ZDU1LTg1YWYtMWY0YTI4YmQ0OTFmXkEyXkFqcGc@._V1_-520x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-strangers-chapter-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202642",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BN2M5ODRlM2QtNjc5MS00ZDU1LTg1YWYtMWY0YTI4YmQ0OTFmXkEyXkFqcGc@._V1_-520x650.jpg",
       "imdbRating": "4.1",
       "story": "في الفصل الختامي من القصة، يواجه الناجون تهديدات جديدة من الغرباء المقنعين، حيث تظهر أسرار تهدد حياتهم بينما تتلاشى الحدود بين الواقع والخطر في صراعهم للبقاء على قيد الحياة.",
       "details": {
@@ -37342,13 +37288,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-strangers-chapter-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-strangers-chapter-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -37362,7 +37308,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-strangers-chapter-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-strangers-chapter-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -37429,11 +37375,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-strangers-chapter-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-strangers-chapter-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 22,
+      "position": 28,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:50.863Z",
+      "scrapedAt": "2026-02-24T15:51:46.791Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37443,9 +37389,9 @@
     {
       "id": "202638",
       "title": "فيلم Sweetness 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-sweetness-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202638",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BMWUxZjFjZTEtYzQ2Zi00MGU2LTg5OTMtZTFjNzZiNTc4OTFhXkEyXkFqcGc@-scaled-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-sweetness-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202638",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BMWUxZjFjZTEtYzQ2Zi00MGU2LTg5OTMtZTFjNzZiNTc4OTFhXkEyXkFqcGc@-scaled-439x650.jpg",
       "imdbRating": "6.9",
       "story": "عندما تقابل رايلي البالغة من العمر 16 عامًا نجم الروك الذي تعشق في لقاء عارض وتكتشف أنه مدمن مخدرات يعاني من اضطرابات وظيفية، تتولى هي مهمة مساعدته، مما يؤدي في النهاية إلى تحويل أحلامها المراهقة إلى حقيقة.",
       "details": {
@@ -37475,13 +37421,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-sweetness-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-sweetness-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -37495,7 +37441,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-sweetness-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-sweetness-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -37562,11 +37508,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-sweetness-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-sweetness-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 23,
+      "position": 29,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:52.747Z",
+      "scrapedAt": "2026-02-24T15:51:48.988Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37576,9 +37522,9 @@
     {
       "id": "202570",
       "title": "فيلم The Singers 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-singers-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202570",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BMTI2NmQwMmMtOGFlMS00YjAyLTk0ZDQtM2IyZmRjOWUzNTIzXkEyXkFqcGc@._V1_-scaled-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-singers-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202570",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BMTI2NmQwMmMtOGFlMS00YjAyLTk0ZDQtM2IyZmRjOWUzNTIzXkEyXkFqcGc@._V1_-scaled-439x650.jpg",
       "imdbRating": "7.4",
       "story": "في هذا الفيلم القصير المرشح لجائزة \"أوسكار\" Oscar، تتحول ليلة موحشة في حانة متواضعة إلى لحظة انسجام تبوح بما تكنّه النفوس إثر مسابقة غنائية عفوية.",
       "details": {
@@ -37606,13 +37552,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-singers-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-singers-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -37626,7 +37572,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-singers-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-singers-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -37693,11 +37639,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-singers-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-singers-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 24,
+      "position": 30,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:54.624Z",
+      "scrapedAt": "2026-02-24T15:51:51.102Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37707,9 +37653,9 @@
     {
       "id": "202569",
       "title": "فيلم Reckless 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-reckless-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202569",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BYmMyN2FlN2UtNDViZi00NjVhLWJhMWQtYzZkYWZjOWFiNWJhXkEyXkFqcGc@-scaled-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-reckless-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202569",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BYmMyN2FlN2UtNDViZi00NjVhLWJhMWQtYzZkYWZjOWFiNWJhXkEyXkFqcGc@-scaled-439x650.jpg",
       "imdbRating": "6.2",
       "story": "في إطار من الجريمة والأكشن، يجد مجرم مُدان سابق أُفرج عنه بشروط نفسه مضطرًا لمراوغة الشرط؛ة من أجل الوصول إلى نصيبه من عملية سطو قديمة.",
       "details": {
@@ -37740,13 +37686,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-reckless-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-reckless-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -37760,7 +37706,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-reckless-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-reckless-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -37827,11 +37773,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-reckless-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-reckless-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 25,
+      "position": 31,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:56.676Z",
+      "scrapedAt": "2026-02-24T15:51:53.009Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37841,9 +37787,9 @@
     {
       "id": "202496",
       "title": "فيلم Love Me, Love Me 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-love-me-love-me-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202496",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BNTQ3ZjMyNzItNzFkYi00YzFmLThlN2MtM2Q2OTMzNGY1NGViXkEyXkFqcGc@-520x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-love-me-love-me-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202496",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BNTQ3ZjMyNzItNzFkYi00YzFmLThlN2MtM2Q2OTMzNGY1NGViXkEyXkFqcGc@-520x650.jpg",
       "imdbRating": null,
       "story": "يتبع العمل قصة (جون) التي تنتقل إلى إيطاليا لبدء حياة جديدة بعد وفاة شقيقها. وفي مدرستها الجديدة تكتشف بمرور الوقت حقيقة زملائها، ومع تصاعد التوتر وكشف الحقائق الخفية، يصبح عليها اختيار الشخص المناسب لها وسط عالم من الأكاذيب.",
       "details": {
@@ -37868,13 +37814,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-love-me-love-me-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-love-me-love-me-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -37888,7 +37834,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-love-me-love-me-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-love-me-love-me-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -37955,11 +37901,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-love-me-love-me-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-love-me-love-me-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 26,
+      "position": 32,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:58.446Z",
+      "scrapedAt": "2026-02-24T15:51:55.032Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37969,9 +37915,9 @@
     {
       "id": "202197",
       "title": "فيلم Tyler Perry’s Joe’s College Road Trip 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-tyler-perrys-joes-college-road-trip-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202197",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BYWU2OWI0MDQtNjEyYi00MzMwLTlmYTQtYjc1MWViNjAzZGUwXkEyXkFqcGc@-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-tyler-perrys-joes-college-road-trip-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202197",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BYWU2OWI0MDQtNjEyYi00MzMwLTlmYTQtYjc1MWViNjAzZGUwXkEyXkFqcGc@-439x650.jpg",
       "imdbRating": null,
       "story": "يأخذ \"جو\"، شقيق \"ميديا\" سليط اللسان، حفيده المراهق الذي يستعد للالتحاق بالجامعة والمنطوي على نفسه في رحلة جامحة عبر البلاد، ليعلّمه دروسًا من واقع الحياة.",
       "details": {
@@ -38000,13 +37946,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-tyler-perrys-joes-college-road-trip-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-tyler-perrys-joes-college-road-trip-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -38020,7 +37966,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-tyler-perrys-joes-college-road-trip-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-tyler-perrys-joes-college-road-trip-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -38087,11 +38033,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-tyler-perrys-joes-college-road-trip-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-tyler-perrys-joes-college-road-trip-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 27,
+      "position": 33,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:00.312Z",
+      "scrapedAt": "2026-02-24T15:51:56.943Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38101,9 +38047,9 @@
     {
       "id": "202485",
       "title": "فيلم Star People 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-star-people-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202485",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BMGRjYjU3ZDEtOWIwZS00YjU1LWIwYmEtN2Q4ZTc1ZWM4NjNkXkEyXkFqcGc@-scaled-440x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-star-people-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202485",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BMGRjYjU3ZDEtOWIwZS00YjU1LWIwYmEtN2Q4ZTc1ZWM4NjNkXkEyXkFqcGc@-scaled-440x650.jpg",
       "imdbRating": "5.8",
       "story": "تتلقى مصورة معلومة قد تسلط الضوء على مشاهدتها لجسم طائر مجهول في طفولتها، لكن موجة حر وبعض الضيوف غير المتوقعين يهددون بعرقلة تحقيقها.",
       "details": {
@@ -38134,13 +38080,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-star-people-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-star-people-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -38154,7 +38100,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-star-people-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-star-people-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -38221,11 +38167,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-star-people-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-star-people-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 28,
+      "position": 34,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:02.181Z",
+      "scrapedAt": "2026-02-24T15:51:59.061Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38235,9 +38181,9 @@
     {
       "id": "202481",
       "title": "فيلم Dinner to Die For 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-dinner-to-die-for-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202481",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BNzBlNDMyNzYtYmE2OC00YzFhLWE2MDAtMTkxMTliNTBmYTFlXkEyXkFqcGc@-scaled-433x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-dinner-to-die-for-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202481",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BNzBlNDMyNzYtYmE2OC00YzFhLWE2MDAtMTkxMTliNTBmYTFlXkEyXkFqcGc@-scaled-433x650.jpg",
       "imdbRating": "4.4",
       "story": "هانا، مصورة متخصصة في فنون الطهي، وصديقها إيفان يشتركان في شغفٍ بمحتوى الجرائم الحقيقية. عندما يقترح إيفان تمثيل سيناريو جريمة حقيقية خاص بهما، يتضمن وجبة قاتلة وفتاة الجيران، تنقلب الأمور رأسًا على عقب.",
       "details": {
@@ -38266,13 +38212,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-dinner-to-die-for-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-dinner-to-die-for-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -38286,7 +38232,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-dinner-to-die-for-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-dinner-to-die-for-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -38353,11 +38299,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-dinner-to-die-for-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-dinner-to-die-for-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 29,
+      "position": 35,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:04.049Z",
+      "scrapedAt": "2026-02-24T15:52:01.256Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38367,9 +38313,9 @@
     {
       "id": "202256",
       "title": "فيلم The Huntsman 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-huntsman-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202256",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BMDNlYjc4NzAtYmU3Yy00NWY5LWJhZTgtZmM0M2FlYWY3YTkwXkEyXkFqcGc@-scaled-451x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-huntsman-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202256",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BMDNlYjc4NzAtYmU3Yy00NWY5LWJhZTgtZmM0M2FlYWY3YTkwXkEyXkFqcGc@-scaled-451x650.jpg",
       "imdbRating": null,
       "story": "عندما يتطوع ممرض في وحدة العناية المركزة لمساعدة مريض في غيبوبة متهم بقتل ست نساء، ينجذب إلى شبكة مرعبة من الأكاذيب والهوس والأسرار القاتلة بينما يسابق محقق الزمن لإيقاف القاتل.",
       "details": {
@@ -38399,13 +38345,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-huntsman-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-huntsman-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -38419,7 +38365,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-huntsman-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-huntsman-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -38486,11 +38432,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-huntsman-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-huntsman-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 30,
+      "position": 36,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:05.916Z",
+      "scrapedAt": "2026-02-24T15:52:03.295Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38500,9 +38446,9 @@
     {
       "id": "202252",
       "title": "فيلم The Girl Who Cried Pearls 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-girl-who-cried-pearls-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202252",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BOGZhMWIwYmEtN2MyMS00OGFjLWIxYWMtNDMyMWNkZTAyMWI3XkEyXkFqcGc@._V1_-scaled-433x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-girl-who-cried-pearls-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202252",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BOGZhMWIwYmEtN2MyMS00OGFjLWIxYWMtNDMyMWNkZTAyMWI3XkEyXkFqcGc@._V1_-scaled-433x650.jpg",
       "imdbRating": "7.3",
       "story": "حكاية مؤثرة عن فتاة غارقة في الحزن، والفتى الذي يحبها، وكيف يقود الجشع القلوب الطيبة إلى أفعال شريرة.",
       "details": {
@@ -38530,13 +38476,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-girl-who-cried-pearls-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-girl-who-cried-pearls-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -38550,7 +38496,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-girl-who-cried-pearls-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-girl-who-cried-pearls-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -38617,11 +38563,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-the-girl-who-cried-pearls-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-girl-who-cried-pearls-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 31,
+      "position": 37,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:07.784Z",
+      "scrapedAt": "2026-02-24T15:52:05.224Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38631,9 +38577,9 @@
     {
       "id": "202248",
       "title": "فيلم Rosemead 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-rosemead-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202248",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BYWY3MDA1NjktYzhhNS00MzFiLTk3YTAtNTU5MDA5MGQ0ZWIyXkEyXkFqcGc@-scaled-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-rosemead-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202248",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BYWY3MDA1NjktYzhhNS00MzFiLTk3YTAtNTU5MDA5MGQ0ZWIyXkEyXkFqcGc@-scaled-439x650.jpg",
       "imdbRating": "7.2",
       "story": "في إطار مستوحى من أحداث حقيقية، يتبع العمل قصة امرأة من عائلة أمريكية ذات أصول صينية تكتشف ميول ابنها المراهق العنيفة، فتضطر لبذل كل جهد لحمايته وربما حماية الآخرين.",
       "details": {
@@ -38664,13 +38610,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-rosemead-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-rosemead-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -38684,7 +38630,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-rosemead-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-rosemead-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -38751,11 +38697,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-rosemead-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-rosemead-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 32,
+      "position": 38,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:09.661Z",
+      "scrapedAt": "2026-02-24T15:52:07.421Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38765,9 +38711,9 @@
     {
       "id": "202244",
       "title": "فيلم New Jersey Devil 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-new-jersey-devil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202244",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BMzQ5ZjRlNzMtOTc3Ni00OGFiLWI1OWQtMmU4MzgxMzQyN2JiXkEyXkFqcGc@-scaled-488x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-new-jersey-devil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202244",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BMzQ5ZjRlNzMtOTc3Ni00OGFiLWI1OWQtMmU4MzgxMzQyN2JiXkEyXkFqcGc@-scaled-488x650.jpg",
       "imdbRating": "2.8",
       "story": "صوفي البالغة من العمر 16 عامًا في طور التبني عندما تبدأ قوة شريرة من الفولكلور في نيوجيرسي بتعذيب عائلتها الجديدة.",
       "details": {
@@ -38796,13 +38742,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-new-jersey-devil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-new-jersey-devil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -38816,7 +38762,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-new-jersey-devil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-new-jersey-devil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -38891,11 +38837,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-new-jersey-devil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-new-jersey-devil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 34,
+      "position": 40,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:13.492Z",
+      "scrapedAt": "2026-02-24T15:52:11.744Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -38905,9 +38851,9 @@
     {
       "id": "202240",
       "title": "فيلم Chef’s Kiss 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-chefs-kiss-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202240",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BNDAxZTY1YzktMDRiOC00YzFkLWJhMmQtMDU0NTlhZGM3YzM1XkEyXkFqcGc@-453x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-chefs-kiss-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202240",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BNDAxZTY1YzktMDRiOC00YzFkLWJhMmQtMDU0NTlhZGM3YzM1XkEyXkFqcGc@-453x650.jpg",
       "imdbRating": null,
       "story": "تسافر لورين إلى إيطاليا لإعادة تسمية صلصة روسو باستا، لكن صدامها الثقافي مع تراث ماسون وفرانشيسكا في الطهي يتطور إلى اكتشافات أعمق حول الحب والحياة وأولويات العمل.",
       "details": {
@@ -38933,13 +38879,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-chefs-kiss-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-chefs-kiss-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -38953,7 +38899,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-chefs-kiss-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-chefs-kiss-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -39020,11 +38966,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-chefs-kiss-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-chefs-kiss-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 35,
+      "position": 41,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:15.368Z",
+      "scrapedAt": "2026-02-24T15:52:13.669Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -39034,9 +38980,9 @@
     {
       "id": "202076",
       "title": "فيلم State of Fear 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-state-of-fear-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=202076",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BZmM2MzYxZTgtMDUyYS00MmMwLWE4MjctNDBjYzJjOWVlNDVhXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-state-of-fear-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=202076",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BZmM2MzYxZTgtMDUyYS00MmMwLWE4MjctNDBjYzJjOWVlNDVhXkEyXkFqcGc@._V1_.jpg",
       "imdbRating": null,
       "story": "تجتاح مدينة \"ساو باولو\" موجة عنف غير مسبوقة، فتضطر محامية تربطها صلات بعالم الجريمة إلى عقد اتفاق مع الشرطة لإنقاذ ابنة أختها المخطوفة.",
       "details": {
@@ -39058,13 +39004,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-state-of-fear-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-state-of-fear-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -39078,7 +39024,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-state-of-fear-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-state-of-fear-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -39137,11 +39083,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-state-of-fear-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-state-of-fear-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 36,
+      "position": 42,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:17.419Z",
+      "scrapedAt": "2026-02-24T15:52:15.704Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -39151,9 +39097,9 @@
     {
       "id": "201934",
       "title": "فيلم This is I 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-this-is-i-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=201934",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BZWI0YjA4OWQtM2Q3Yy00OGJjLWE1ODEtNmEyYjk4NWMwMjRhXkEyXkFqcGc@._V1_-520x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-this-is-i-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=201934",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BZWI0YjA4OWQtM2Q3Yy00OGJjLWE1ODEtNmEyYjk4NWMwMjRhXkEyXkFqcGc@._V1_-520x650.jpg",
       "imdbRating": null,
       "story": "بعد تعرضه للتنمر بسبب رغبته في تحقيق النجومية، يجد \"كينجي\" مكانه في ملهًى ليلي ويتلقى المساعدة من طبيب رائد في المجال، لتظهر الشخصية الحقيقية \"آي هارونا\" على خشبة المسرح.",
       "details": {
@@ -39181,13 +39127,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-this-is-i-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-this-is-i-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -39201,7 +39147,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-this-is-i-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-this-is-i-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -39260,11 +39206,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-this-is-i-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-this-is-i-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 37,
+      "position": 43,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:19.302Z",
+      "scrapedAt": "2026-02-24T15:52:17.955Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -39274,9 +39220,9 @@
     {
       "id": "201967",
       "title": "فيلم Primate 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-primate-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=201967",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/57cyAMc9c8iveudogTRuDOQjujn-scaled-433x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-primate-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=201967",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/57cyAMc9c8iveudogTRuDOQjujn-scaled-433x650.jpg",
       "imdbRating": "6.2",
       "story": "تحاول الطالبة الجامعية (لوسي) وأصدقائها النجاة عندما يُصاب شمبانزي أليف لعائلتهم بداء الكلب، حيث يصبح عدوانيًا وخطيرًا، فيبتكرون طرقًا مختلفة للبقاء على قيد الحياة من الشمبانزي الشرس.",
       "details": {
@@ -39305,13 +39251,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-primate-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-primate-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -39325,7 +39271,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-primate-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-primate-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -39384,11 +39330,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-primate-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-primate-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 38,
+      "position": 44,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:21.188Z",
+      "scrapedAt": "2026-02-24T15:52:19.994Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -39398,9 +39344,9 @@
     {
       "id": "201946",
       "title": "فيلم Misdirection 2026 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-misdirection-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=201946",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BMjg4M2U3MzUtNmZjOS00NmJjLWEwMjEtYzM3ODljOWNiMWU3XkEyXkFqcGc@-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-misdirection-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=201946",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BMjg4M2U3MzUtNmZjOS00NmJjLWEwMjEtYzM3ODljOWNiMWU3XkEyXkFqcGc@-439x650.jpg",
       "imdbRating": null,
       "story": "ينفذ زوجان يئاسان سلسلة من عمليات السطو المُرهِقة، ليجدَا نفسيهما عالقين في لعبة مطاردة مُميتة عندما تفشل آخر عملية لهما. تُختبر ثقتهما عندما يكشف ضحيتهما عن أجندة خفية تقود إلى القتل.",
       "details": {
@@ -39429,13 +39375,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-misdirection-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-misdirection-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -39449,7 +39395,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-misdirection-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-misdirection-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -39508,11 +39454,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-misdirection-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-misdirection-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 40,
+      "position": 46,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:24.937Z",
+      "scrapedAt": "2026-02-24T15:52:24.273Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -39522,9 +39468,9 @@
     {
       "id": "201942",
       "title": "فيلم Matter of Time 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-matter-of-time-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=201942",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BN2VhNGEwNWMtZDgzNC00NzlhLTgzMDEtMzkyMWI4OGRhZmZiXkEyXkFqcGc@-scaled-441x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-matter-of-time-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=201942",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BN2VhNGEwNWMtZDgzNC00NzlhLTgzMDEtMzkyMWI4OGRhZmZiXkEyXkFqcGc@-scaled-441x650.jpg",
       "imdbRating": "8.7",
       "story": "يشعل الحفل الخيري المؤثر، الذي يُحيه \"إيدي فيدر\" في \"سياتل\"، الحماسة في هذا الفيلم الوثائقي الذي يتتبّع الجهود لإيجاد علاج لاضطراب انحلال البشرة الفقاعي (إي بي)، الوراثي والنادر.",
       "details": {
@@ -39546,13 +39492,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-matter-of-time-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-matter-of-time-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -39566,7 +39512,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-matter-of-time-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-matter-of-time-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -39633,11 +39579,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-matter-of-time-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-matter-of-time-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 41,
+      "position": 47,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:26.804Z",
+      "scrapedAt": "2026-02-24T15:52:26.293Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -39647,9 +39593,9 @@
     {
       "id": "129876",
       "title": "فيلم Timestalker 2024 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-timestalker-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=129876",
-      "image": "https://topcinema.red/wp-content/uploads/2024/12/MV5BZGUwOTliMWYtNzAxMi00OTM3LWJmOGQtMDZmNzFmNDFjMTdkXkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-timestalker-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=129876",
+      "image": "https://topcinema.fan/wp-content/uploads/2024/12/MV5BZGUwOTliMWYtNzAxMi00OTM3LWJmOGQtMDZmNzFmNDFjMTdkXkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
       "imdbRating": "6",
       "story": "البطلة التعيسة أغنيس تتجسد من جديد في كل مرة ترتكب نفس الخطأ: الوقوع في حب الرجل الخطأ.",
       "details": {
@@ -39686,13 +39632,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-timestalker-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-timestalker-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -39706,7 +39652,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-timestalker-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-timestalker-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -39781,11 +39727,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-timestalker-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-timestalker-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 42,
+      "position": 48,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:28.684Z",
+      "scrapedAt": "2026-02-24T15:52:28.649Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -39795,9 +39741,9 @@
     {
       "id": "201695",
       "title": "فيلم Marty Supreme 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-marty-supreme-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=201695",
-      "image": "https://topcinema.red/wp-content/uploads/2026/02/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@-520x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-marty-supreme-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=201695",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@-520x650.jpg",
       "imdbRating": "8.1",
       "story": "تدور الأحداث في مدينة نيويورك في خمسينات القرن الماضي، حيث يسعى لاعب تنس الطاولة المتمرد (مارتي رايزمان) لتحقيق أحلامه، ويخوض رحلته الخاصة من القاع إلى القمة.",
       "details": {
@@ -39827,13 +39773,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-marty-supreme-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-marty-supreme-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -39847,7 +39793,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-marty-supreme-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-marty-supreme-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -39922,11 +39868,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-marty-supreme-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-marty-supreme-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 43,
+      "position": 49,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:53:30.573Z",
+      "scrapedAt": "2026-02-24T15:52:30.584Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -70843,9 +70789,9 @@
     {
       "id": "175828",
       "title": "فيلم Good Boy 2025 مترجم اون لاين",
-      "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-good-boy-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.red/?p=175828",
-      "image": "https://topcinema.red/wp-content/uploads/2025/10/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-good-boy-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=175828",
+      "image": "https://topcinema.fan/wp-content/uploads/2025/10/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@.jpg_V1_SX700-439x650.jpg",
       "imdbRating": "6.7",
       "story": "ينتقل كلب وفيّ إلى منزل ريفي مع صاحبه (تود)، فيكتشف قوى خارقة للطبيعة بالمنطقة، ومع تهديد الكيانات المظلمة لرفيقه البشري، يتعين على الكلب الشجاع القتال لحماية من يحب.",
       "details": {
@@ -70876,13 +70822,13 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-02-21",
+      "runtime": "2026-02-24",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-good-boy-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-good-boy-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
@@ -70896,7 +70842,7 @@
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-good-boy-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-good-boy-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
@@ -70955,11 +70901,11 @@
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.red/%d9%81%d9%8a%d9%84%d9%85-good-boy-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-good-boy-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 13,
+      "position": 19,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-21T11:52:33.441Z",
+      "scrapedAt": "2026-02-24T15:51:28.983Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
