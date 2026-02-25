@@ -9027,8 +9027,8 @@
   "statistics": {
     "total_series": 98,
     "total_episodes": 644,
-    "new_episodes_today": 19,
-    "last_scan": "2026-02-25T02:28:54.902Z",
+    "new_episodes_today": 0,
+    "last_scan": "2026-02-25T07:06:36.716Z",
     "first_scan": false
   },
   "latest_episodes": [
@@ -9138,31 +9138,31 @@
       "id": "81ce0a5d7",
       "title": "مسلسل علي كلاي",
       "image": "https://laroza.hair/uploads/thumbs/0ec1512a8-1.jpg",
-      "added_at": "2026-02-25T02:22:39.787Z"
+      "added_at": "2026-02-25T07:04:05.390Z"
     },
     {
       "id": "d8cb9c11b",
       "title": "مسلسل الكينج",
       "image": "https://laroza.hair/uploads/thumbs/92ae9f039-1.jpg",
-      "added_at": "2026-02-25T02:22:39.787Z"
+      "added_at": "2026-02-25T07:04:05.390Z"
     },
     {
       "id": "9",
       "title": "مسلسل المداح 6",
       "image": "",
-      "added_at": "2026-02-25T02:22:39.787Z"
+      "added_at": "2026-02-25T07:04:05.390Z"
     },
     {
       "id": "1cf22b484",
       "title": "مسلسل افراج",
       "image": "https://laroza.hair/uploads/thumbs/372599929-1.jpg",
-      "added_at": "2026-02-25T02:22:39.787Z"
+      "added_at": "2026-02-25T07:04:05.390Z"
     },
     {
       "id": "8",
       "title": "مسلسل فن الحرب",
       "image": "",
-      "added_at": "2026-02-25T02:22:39.787Z"
+      "added_at": "2026-02-25T07:04:05.390Z"
     }
   ]
 }
