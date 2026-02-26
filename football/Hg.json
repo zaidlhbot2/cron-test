@@ -1,76 +1,10 @@
 {
-  "scrapedAt": "2026-02-25T23:53:01.735Z",
+  "scrapedAt": "2026-02-26T01:51:31.586Z",
   "source": "https://koraplus.blog/",
-  "totalMatches": 12,
+  "totalMatches": 6,
   "matches": [
     {
-      "id": "match_1772063564143_0",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%86%d9%87%d8%b6%d8%a9-%d8%a8%d8%b1%d9%83%d8%a7%d9%86-%d9%88-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%8a/",
-      "title": "نهضة بركان vs الرجاء البيضاوي",
-      "team1": {
-        "name": "نهضة بركان",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/9974-1.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "الرجاء البيضاوي",
-        "logo": "",
-        "score": "0"
-      },
-      "score": "0-0",
-      "time": "غير معروف",
-      "status": "جارية الآن",
-      "channels": [
-        "الرياضية المغربية (3)"
-      ],
-      "tournament": "الدوري المغربي",
-      "page": 1,
-      "position": 1,
-      "scrapedAt": "2026-02-25T23:52:44.143Z",
-      "watchServers": [
-        {
-          "type": "iframe",
-          "url": "https://live.baranewssumsel.online/albaplayer/arryadia/",
-          "quality": "HD",
-          "server": "AlbaPlayer",
-          "id": "player_1"
-        }
-      ]
-    },
-    {
-      "id": "match_1772063564144_1",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%85-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a-%d8%a8%d8%a7%d9%84%d9%85%d8%aa%d9%84%d9%88%d9%8a/",
-      "title": "النجم الرياضي بالمتلوي vs الترجي",
-      "team1": {
-        "name": "النجم الرياضي بالمتلوي",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/14068.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "الترجي",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/8235-1.png",
-        "score": "0"
-      },
-      "score": "0 - 0",
-      "time": "2 PM",
-      "status": "لم تبدأ بعد",
-      "channels": [],
-      "tournament": "الرابطة التونسية المحترفة الأولى",
-      "page": 1,
-      "position": 2,
-      "scrapedAt": "2026-02-25T23:52:44.144Z",
-      "watchServers": [
-        {
-          "type": "iframe",
-          "url": "https://live.baranewssumsel.online/albaplayer/thmanya1/",
-          "quality": "HD",
-          "server": "AlbaPlayer",
-          "id": "player_1"
-        }
-      ]
-    },
-    {
-      "id": "match_1772063564145_2",
+      "id": "match_1772070683832_0",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%85-%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%b1-%d9%88-%d9%84%d9%8a%d9%84-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7/",
       "title": "النجم الأحمر vs ليل",
       "team1": {
@@ -91,12 +25,12 @@
       ],
       "tournament": "الدوري الأوروبي - بلاي اوف",
       "page": 1,
-      "position": 3,
-      "scrapedAt": "2026-02-25T23:52:44.145Z",
+      "position": 1,
+      "scrapedAt": "2026-02-26T01:51:23.832Z",
       "watchServers": null
     },
     {
-      "id": "match_1772063564146_3",
+      "id": "match_1772070683834_1",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7-%d9%88-%d9%8a%d8%a7%d8%ba%d9%8a%d9%8a%d9%84%d9%88%d9%86%d9%8a%d8%a7/",
       "title": "فيورنتينا vs ياغييلونيا بياويستوك",
       "team1": {
@@ -117,46 +51,12 @@
       ],
       "tournament": "دوري المؤتمر الأوروبي - بلاي اوف",
       "page": 1,
-      "position": 4,
-      "scrapedAt": "2026-02-25T23:52:44.146Z",
+      "position": 2,
+      "scrapedAt": "2026-02-26T01:51:23.834Z",
       "watchServers": null
     },
     {
-      "id": "match_1772063564147_4",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a3%d8%aa%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%a7-%d9%88-%d8%a8%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d8%aa/",
-      "title": "أتالانتا vs بوروسيا دورتموند",
-      "team1": {
-        "name": "أتالانتا",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/232-1.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "بوروسيا دورتموند",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/341-1.png",
-        "score": "0"
-      },
-      "score": "0 - 0",
-      "time": "7:45 PM",
-      "status": "لم تبدأ بعد",
-      "channels": [
-        "beIN SPORTS HD 4"
-      ],
-      "tournament": "دوري أبطال اوروبا - بلاي اوف",
-      "page": 1,
-      "position": 5,
-      "scrapedAt": "2026-02-25T23:52:44.147Z",
-      "watchServers": [
-        {
-          "type": "iframe",
-          "url": "https://live.baranewssumsel.online/albaplayer/bein4/",
-          "quality": "HD",
-          "server": "AlbaPlayer",
-          "id": "player_1"
-        }
-      ]
-    },
-    {
-      "id": "match_1772063564148_5",
+      "id": "match_1772070683835_2",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6-%d9%88-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
       "title": "الرياض vs الأهلي",
       "team1": {
@@ -177,46 +77,12 @@
       ],
       "tournament": "الدوري السعودي",
       "page": 1,
-      "position": 6,
-      "scrapedAt": "2026-02-25T23:52:44.148Z",
+      "position": 3,
+      "scrapedAt": "2026-02-26T01:51:23.835Z",
       "watchServers": null
     },
     {
-      "id": "match_1772063564149_6",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%85%d8%a9-%d9%88-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%83/",
-      "title": "النجمة vs النصر",
-      "team1": {
-        "name": "النجمة",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/24240.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "النصر",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/7549-6.png",
-        "score": "0"
-      },
-      "score": "0 - 0",
-      "time": "9 PM",
-      "status": "لم تبدأ بعد",
-      "channels": [
-        "تطبيق ثمانية"
-      ],
-      "tournament": "الدوري السعودي",
-      "page": 1,
-      "position": 7,
-      "scrapedAt": "2026-02-25T23:52:44.149Z",
-      "watchServers": [
-        {
-          "type": "iframe",
-          "url": "https://live.baranewssumsel.online/albaplayer/thmanya1/",
-          "quality": "HD",
-          "server": "AlbaPlayer",
-          "id": "player_1"
-        }
-      ]
-    },
-    {
-      "id": "match_1772063564150_7",
+      "id": "match_1772070683836_3",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%86%d9%88%d8%aa%d9%86%d8%ac%d9%87%d8%a7%d9%85-%d9%81%d9%88%d8%b1%d8%b3%d8%aa-%d9%88-%d9%81%d9%86%d8%b1%d8%a8%d8%ae%d8%b4/",
       "title": "نوتنجهام فورست vs فنربخشة",
       "team1": {
@@ -237,12 +103,12 @@
       ],
       "tournament": "الدوري الأوروبي - بلاي اوف",
       "page": 1,
-      "position": 8,
-      "scrapedAt": "2026-02-25T23:52:44.150Z",
+      "position": 4,
+      "scrapedAt": "2026-02-26T01:51:23.836Z",
       "watchServers": null
     },
     {
-      "id": "match_1772063564151_8",
+      "id": "match_1772070683837_4",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d9%8a%d9%84%d8%aa%d8%a7-%d9%81%d9%8a%d8%ac%d9%88-%d9%88-%d8%a8%d8%a7%d9%88%d9%83-%d8%b3%d8%a7%d9%84%d9%88%d9%86%d9%8a/",
       "title": "سيلتا فيجو vs باوك سالونيكا",
       "team1": {
@@ -263,111 +129,35 @@
       ],
       "tournament": "الدوري الأوروبي - بلاي اوف",
       "page": 1,
-      "position": 9,
-      "scrapedAt": "2026-02-25T23:52:44.151Z",
+      "position": 5,
+      "scrapedAt": "2026-02-26T01:51:23.837Z",
       "watchServers": null
     },
     {
-      "id": "match_1772063564152_9",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3-%d9%88-%d8%ba%d9%84%d8%b7%d8%a9-%d8%b3%d8%b1%d8%a7%d9%8a-%d8%a8%d8%ab-%d9%85%d8%a8/",
-      "title": "يوفنتوس vs غلطة سراي",
+      "id": "match_1772070683838_5",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%86%d9%87%d8%b6%d8%a9-%d8%a8%d8%b1%d9%83%d8%a7%d9%86-%d9%88-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%8a/",
+      "title": "نهضة بركان vs الرجاء البيضاوي",
       "team1": {
-        "name": "يوفنتوس",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/226-1.png",
+        "name": "نهضة بركان",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/9974-1.png",
         "score": "0"
       },
       "team2": {
-        "name": "غلطة سراي",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/945-1.png",
+        "name": "الرجاء البيضاوي",
+        "logo": "",
         "score": "0"
       },
-      "score": "0 - 0",
-      "time": "10 PM",
-      "status": "لم تبدأ بعد",
+      "score": "0-0",
+      "time": "غير معروف",
+      "status": "انتهت",
       "channels": [
-        "beIN Sports 3 HD"
+        "الرياضية المغربية (3)"
       ],
-      "tournament": "دوري أبطال اوروبا - بلاي اوف",
+      "tournament": "الدوري المغربي",
       "page": 1,
-      "position": 10,
-      "scrapedAt": "2026-02-25T23:52:44.152Z",
-      "watchServers": [
-        {
-          "type": "iframe",
-          "url": "https://live.baranewssumsel.online/albaplayer/bein3/",
-          "quality": "HD",
-          "server": "AlbaPlayer",
-          "id": "player_1"
-        }
-      ]
-    },
-    {
-      "id": "match_1772063564153_10",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d8%b3%d8%a7%d9%86-%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86-%d9%88-%d9%85%d9%88%d9%86%d8%a7%d9%83/",
-      "title": "باريس سان جيرمان vs موناكو",
-      "team1": {
-        "name": "باريس سان جيرمان",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/480-1.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "موناكو",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/471-1.png",
-        "score": "0"
-      },
-      "score": "0 - 0",
-      "time": "10 PM",
-      "status": "لم تبدأ بعد",
-      "channels": [
-        "Bein Sports HD2"
-      ],
-      "tournament": "دوري أبطال اوروبا - بلاي اوف",
-      "page": 1,
-      "position": 11,
-      "scrapedAt": "2026-02-25T23:52:44.153Z",
-      "watchServers": [
-        {
-          "type": "iframe",
-          "url": "https://live.baranewssumsel.online/albaplayer/bein22/",
-          "quality": "HD",
-          "server": "AlbaPlayer",
-          "id": "player_1"
-        }
-      ]
-    },
-    {
-      "id": "match_1772063564153_11",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%88-%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7-%d8%a8%d8%ab-%d9%85%d8%a8/",
-      "title": "ريال مدريد vs بنفيكا",
-      "team1": {
-        "name": "ريال مدريد",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/131-1.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "بنفيكا",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/888-1.png",
-        "score": "0"
-      },
-      "score": "0 - 0",
-      "time": "10 PM",
-      "status": "لم تبدأ بعد",
-      "channels": [
-        "beIN SPORTS HD 1"
-      ],
-      "tournament": "دوري أبطال اوروبا - بلاي اوف",
-      "page": 1,
-      "position": 12,
-      "scrapedAt": "2026-02-25T23:52:44.153Z",
-      "watchServers": [
-        {
-          "type": "iframe",
-          "url": "https://live.baranewssumsel.online/albaplayer/1bein1/",
-          "quality": "HD",
-          "server": "AlbaPlayer",
-          "id": "player_1"
-        }
-      ]
+      "position": 6,
+      "scrapedAt": "2026-02-26T01:51:23.838Z",
+      "watchServers": null
     }
   ]
 }
