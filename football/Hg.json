@@ -1,140 +1,10 @@
 {
-  "scrapedAt": "2026-02-26T21:45:03.860Z",
+  "scrapedAt": "2026-02-26T22:03:58.970Z",
   "source": "https://koraplus.blog/",
   "totalMatches": 6,
   "matches": [
     {
-      "id": "match_1772142297704_0",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%86%d9%88%d8%aa%d9%86%d8%ac%d9%87%d8%a7%d9%85-%d9%81%d9%88%d8%b1%d8%b3%d8%aa-%d9%88-%d9%81%d9%86%d8%b1%d8%a8%d8%ae%d8%b4/",
-      "title": "نوتنجهام فورست vs فنربخشة",
-      "team1": {
-        "name": "نوتنجهام فورست",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/29-4.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "فنربخشة",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/946-1.png",
-        "score": "0"
-      },
-      "score": "0-0",
-      "time": "غير معروف",
-      "status": "جارية الآن",
-      "channels": [
-        "beIN SPORTS HD 1"
-      ],
-      "tournament": "الدوري الأوروبي - بلاي اوف",
-      "page": 1,
-      "position": 1,
-      "scrapedAt": "2026-02-26T21:44:57.704Z",
-      "watchServers": null
-    },
-    {
-      "id": "match_1772142297705_1",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d9%8a%d9%84%d8%aa%d8%a7-%d9%81%d9%8a%d8%ac%d9%88-%d9%88-%d8%a8%d8%a7%d9%88%d9%83-%d8%b3%d8%a7%d9%84%d9%88%d9%86%d9%8a/",
-      "title": "سيلتا فيجو vs باوك سالونيكا",
-      "team1": {
-        "name": "سيلتا فيجو",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/158-1.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "باوك سالونيكا",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/1029-1.png",
-        "score": "0"
-      },
-      "score": "0-0",
-      "time": "غير معروف",
-      "status": "جارية الآن",
-      "channels": [
-        "beIN SPORTS HD 4"
-      ],
-      "tournament": "الدوري الأوروبي - بلاي اوف",
-      "page": 1,
-      "position": 2,
-      "scrapedAt": "2026-02-26T21:44:57.705Z",
-      "watchServers": null
-    },
-    {
-      "id": "match_1772142297707_2",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6-%d9%88-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
-      "title": "الرياض vs الأهلي",
-      "team1": {
-        "name": "الرياض",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/12135-2.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "الأهلي",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/8946-6.png",
-        "score": "0"
-      },
-      "score": "0-0",
-      "time": "غير معروف",
-      "status": "انتهت",
-      "channels": [
-        "تطبيق ثمانية"
-      ],
-      "tournament": "الدوري السعودي",
-      "page": 1,
-      "position": 3,
-      "scrapedAt": "2026-02-26T21:44:57.707Z",
-      "watchServers": null
-    },
-    {
-      "id": "match_1772142297708_3",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%85-%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%b1-%d9%88-%d9%84%d9%8a%d9%84-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7/",
-      "title": "النجم الأحمر vs ليل",
-      "team1": {
-        "name": "النجم الأحمر",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/8957-1.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "ليل",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/478-1.png",
-        "score": "0"
-      },
-      "score": "0-0",
-      "time": "غير معروف",
-      "status": "انتهت",
-      "channels": [
-        "Bein Sports HD2"
-      ],
-      "tournament": "الدوري الأوروبي - بلاي اوف",
-      "page": 1,
-      "position": 4,
-      "scrapedAt": "2026-02-26T21:44:57.708Z",
-      "watchServers": null
-    },
-    {
-      "id": "match_1772142297709_4",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7-%d9%88-%d9%8a%d8%a7%d8%ba%d9%8a%d9%8a%d9%84%d9%88%d9%86%d9%8a%d8%a7/",
-      "title": "فيورنتينا vs ياغييلونيا بياويستوك",
-      "team1": {
-        "name": "فيورنتينا",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/228.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "ياغييلونيا بياويستوك",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/2220.png",
-        "score": "0"
-      },
-      "score": "0-0",
-      "time": "غير معروف",
-      "status": "انتهت",
-      "channels": [
-        "beIN Sports 3 HD"
-      ],
-      "tournament": "دوري المؤتمر الأوروبي - بلاي اوف",
-      "page": 1,
-      "position": 5,
-      "scrapedAt": "2026-02-26T21:44:57.709Z",
-      "watchServers": null
-    },
-    {
-      "id": "match_1772142297710_5",
+      "id": "match_1772143428905_0",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%86%d9%87%d8%b6%d8%a9-%d8%a8%d8%b1%d9%83%d8%a7%d9%86-%d9%88-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d8%a7%d9%84%d8%a8%d9%8a/",
       "title": "نهضة بركان vs الرجاء البيضاوي",
       "team1": {
@@ -149,14 +19,152 @@
       },
       "score": "0-0",
       "time": "غير معروف",
-      "status": "انتهت",
+      "status": "جارية الآن",
       "channels": [
         "الرياضية المغربية (3)"
       ],
       "tournament": "الدوري المغربي",
       "page": 1,
+      "position": 1,
+      "scrapedAt": "2026-02-26T22:03:48.905Z",
+      "watchServers": [
+        {
+          "type": "iframe",
+          "url": "https://live.baranewssumsel.online/albaplayer/arryadia/",
+          "quality": "HD",
+          "server": "AlbaPlayer",
+          "id": "player_1"
+        }
+      ]
+    },
+    {
+      "id": "match_1772143428906_1",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d9%86%d8%ac%d9%85-%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%b1-%d9%88-%d9%84%d9%8a%d9%84-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7/",
+      "title": "النجم الأحمر vs ليل",
+      "team1": {
+        "name": "النجم الأحمر",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/8957-1.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "ليل",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/478-1.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "7:45 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "Bein Sports HD2"
+      ],
+      "tournament": "الدوري الأوروبي - بلاي اوف",
+      "page": 1,
+      "position": 2,
+      "scrapedAt": "2026-02-26T22:03:48.906Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1772143428907_2",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7-%d9%88-%d9%8a%d8%a7%d8%ba%d9%8a%d9%8a%d9%84%d9%88%d9%86%d9%8a%d8%a7/",
+      "title": "فيورنتينا vs ياغييلونيا بياويستوك",
+      "team1": {
+        "name": "فيورنتينا",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/228.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "ياغييلونيا بياويستوك",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/2220.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "7:45 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "beIN Sports 3 HD"
+      ],
+      "tournament": "دوري المؤتمر الأوروبي - بلاي اوف",
+      "page": 1,
+      "position": 3,
+      "scrapedAt": "2026-02-26T22:03:48.907Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1772143428908_3",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6-%d9%88-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+      "title": "الرياض vs الأهلي",
+      "team1": {
+        "name": "الرياض",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/12135-2.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "الأهلي",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/8946-6.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "9 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "تطبيق ثمانية"
+      ],
+      "tournament": "الدوري السعودي",
+      "page": 1,
+      "position": 4,
+      "scrapedAt": "2026-02-26T22:03:48.908Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1772143428909_4",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%86%d9%88%d8%aa%d9%86%d8%ac%d9%87%d8%a7%d9%85-%d9%81%d9%88%d8%b1%d8%b3%d8%aa-%d9%88-%d9%81%d9%86%d8%b1%d8%a8%d8%ae%d8%b4/",
+      "title": "نوتنجهام فورست vs فنربخشة",
+      "team1": {
+        "name": "نوتنجهام فورست",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/29-4.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "فنربخشة",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/946-1.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "10 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "beIN SPORTS HD 1"
+      ],
+      "tournament": "الدوري الأوروبي - بلاي اوف",
+      "page": 1,
+      "position": 5,
+      "scrapedAt": "2026-02-26T22:03:48.909Z",
+      "watchServers": null
+    },
+    {
+      "id": "match_1772143428910_5",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d9%8a%d9%84%d8%aa%d8%a7-%d9%81%d9%8a%d8%ac%d9%88-%d9%88-%d8%a8%d8%a7%d9%88%d9%83-%d8%b3%d8%a7%d9%84%d9%88%d9%86%d9%8a/",
+      "title": "سيلتا فيجو vs باوك سالونيكا",
+      "team1": {
+        "name": "سيلتا فيجو",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/158-1.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "باوك سالونيكا",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/1029-1.png",
+        "score": "0"
+      },
+      "score": "0 - 0",
+      "time": "10 PM",
+      "status": "لم تبدأ بعد",
+      "channels": [
+        "beIN SPORTS HD 4"
+      ],
+      "tournament": "الدوري الأوروبي - بلاي اوف",
+      "page": 1,
       "position": 6,
-      "scrapedAt": "2026-02-26T21:44:57.710Z",
+      "scrapedAt": "2026-02-26T22:03:48.910Z",
       "watchServers": null
     }
   ]
