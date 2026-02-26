@@ -3,7 +3,7 @@
   "fileNumber": 2,
   "totalMovies": 500,
   "created": "2026-02-09T11:04:59.433Z",
-  "lastUpdated": "2026-02-26T15:56:50.912Z",
+  "lastUpdated": "2026-02-26T16:38:50.724Z",
   "moviesPerFileLimit": 250,
   "movies": [
     {
@@ -133,7 +133,7 @@
       "page": 1,
       "position": 55,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:40.839Z",
+      "scrapedAt": "2026-02-26T16:38:41.377Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -254,7 +254,7 @@
       "page": 1,
       "position": 56,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:42.858Z",
+      "scrapedAt": "2026-02-26T16:38:43.234Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -395,7 +395,7 @@
       "page": 1,
       "position": 57,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:44.883Z",
+      "scrapedAt": "2026-02-26T16:38:45.096Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -532,7 +532,7 @@
       "page": 1,
       "position": 58,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:46.886Z",
+      "scrapedAt": "2026-02-26T16:38:46.964Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -667,7 +667,7 @@
       "page": 1,
       "position": 59,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:48.896Z",
+      "scrapedAt": "2026-02-26T16:38:48.833Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -799,7 +799,7 @@
       "page": 1,
       "position": 60,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:50.898Z",
+      "scrapedAt": "2026-02-26T16:38:50.709Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -2999,7 +2999,7 @@
       "page": 1,
       "position": 7,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:02.350Z",
+      "scrapedAt": "2026-02-26T16:37:08.929Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 15,
@@ -3568,7 +3568,7 @@
       "page": 1,
       "position": 9,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:06.367Z",
+      "scrapedAt": "2026-02-26T16:37:12.686Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -5489,7 +5489,7 @@
       "page": 1,
       "position": 5,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:54:58.055Z",
+      "scrapedAt": "2026-02-26T16:37:05.175Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -7497,7 +7497,7 @@
       "page": 1,
       "position": 43,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:16.222Z",
+      "scrapedAt": "2026-02-26T16:38:18.279Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -7952,7 +7952,7 @@
       "page": 1,
       "position": 21,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:30.869Z",
+      "scrapedAt": "2026-02-26T16:37:35.720Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 13,
@@ -9382,7 +9382,7 @@
           "مغامرة"
         ],
         "جودة الفيلم": [
-          "1080p WEB-DL"
+          "1080p BluRay"
         ],
         "توقيت الفيلم": "1 ساعة و 48 دقيقة",
         "موعد الصدور": [
@@ -9424,7 +9424,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/3nvoia6h7342.html",
+          "url": "https://vidtube.one/d/yu5gc1drvq6l.html",
           "quality": "متعدد الجودات",
           "type": "pro_server",
           "icon": "fas fa-rocket",
@@ -9432,7 +9432,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://updown.cam/3ownkgi4zhan",
+          "url": "https://updown.cam/yhfwdcjmfweo",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -9440,7 +9440,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://down.mdiaload.com/ihjahogxltau",
+          "url": "https://down.mdiaload.com/4vbg7h3m9a3f",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -9448,7 +9448,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://ddownload.com/orzydy1fer58",
+          "url": "https://nitroflare.com/view/7B63C08BC9C2074",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -9456,7 +9456,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://nitroflare.com/view/CE9317B4AC24C8E",
+          "url": "https://rapidgator.net/file/c91cddfc7d81e80c15f04c31b78b6ba3",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -9464,7 +9464,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://1fichier.com/?1wi7s733ad2t4flwylfs",
+          "url": "https://frdl.io/6agoouir3xuj",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -9472,23 +9472,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://rapidgator.net/file/181007c96363fbb66fac4c60a7487681",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/6fejaheh7di5",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2Qyhh",
+          "url": "https://1cloudfile.com/1uN00",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -9499,10 +9483,10 @@
       "page": 1,
       "position": 1,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:54:49.718Z",
+      "scrapedAt": "2026-02-26T16:36:57.616Z",
       "stats": {
         "watchServersCount": 2,
-        "downloadServersCount": 9,
+        "downloadServersCount": 7,
         "genresCount": 0
       }
     },
@@ -12654,7 +12638,7 @@
       "page": 1,
       "position": 24,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:37.024Z",
+      "scrapedAt": "2026-02-26T16:37:41.389Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 13,
@@ -23167,7 +23151,7 @@
       "page": 1,
       "position": 54,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:38.792Z",
+      "scrapedAt": "2026-02-26T16:38:39.520Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -23435,7 +23419,7 @@
       "page": 1,
       "position": 49,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:28.647Z",
+      "scrapedAt": "2026-02-26T16:38:30.097Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -30385,7 +30369,7 @@
       "page": 1,
       "position": 8,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:04.356Z",
+      "scrapedAt": "2026-02-26T16:37:10.799Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -37113,7 +37097,7 @@
       "page": 1,
       "position": 30,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:49.174Z",
+      "scrapedAt": "2026-02-26T16:37:52.689Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37247,7 +37231,7 @@
       "page": 1,
       "position": 31,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:51.806Z",
+      "scrapedAt": "2026-02-26T16:37:54.591Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37379,7 +37363,7 @@
       "page": 1,
       "position": 32,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:53.837Z",
+      "scrapedAt": "2026-02-26T16:37:56.768Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37512,7 +37496,7 @@
       "page": 1,
       "position": 33,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:56.048Z",
+      "scrapedAt": "2026-02-26T16:37:58.829Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37643,7 +37627,7 @@
       "page": 1,
       "position": 34,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:58.058Z",
+      "scrapedAt": "2026-02-26T16:38:00.926Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37777,7 +37761,7 @@
       "page": 1,
       "position": 35,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:00.065Z",
+      "scrapedAt": "2026-02-26T16:38:02.808Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37905,7 +37889,7 @@
       "page": 1,
       "position": 36,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:02.074Z",
+      "scrapedAt": "2026-02-26T16:38:04.686Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38037,7 +38021,7 @@
       "page": 1,
       "position": 37,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:04.086Z",
+      "scrapedAt": "2026-02-26T16:38:06.565Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38171,7 +38155,7 @@
       "page": 1,
       "position": 38,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:06.111Z",
+      "scrapedAt": "2026-02-26T16:38:08.702Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38303,7 +38287,7 @@
       "page": 1,
       "position": 39,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:08.129Z",
+      "scrapedAt": "2026-02-26T16:38:10.580Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38436,7 +38420,7 @@
       "page": 1,
       "position": 40,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:10.152Z",
+      "scrapedAt": "2026-02-26T16:38:12.449Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38567,7 +38551,7 @@
       "page": 1,
       "position": 41,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:12.192Z",
+      "scrapedAt": "2026-02-26T16:38:14.519Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38701,7 +38685,7 @@
       "page": 1,
       "position": 42,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:14.211Z",
+      "scrapedAt": "2026-02-26T16:38:16.401Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -38841,7 +38825,7 @@
       "page": 1,
       "position": 44,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:18.240Z",
+      "scrapedAt": "2026-02-26T16:38:20.180Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -38970,7 +38954,7 @@
       "page": 1,
       "position": 45,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:20.263Z",
+      "scrapedAt": "2026-02-26T16:38:22.054Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -39087,7 +39071,7 @@
       "page": 1,
       "position": 46,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:22.501Z",
+      "scrapedAt": "2026-02-26T16:38:23.930Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -39210,7 +39194,7 @@
       "page": 1,
       "position": 47,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:24.540Z",
+      "scrapedAt": "2026-02-26T16:38:26.019Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -39334,7 +39318,7 @@
       "page": 1,
       "position": 48,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:26.567Z",
+      "scrapedAt": "2026-02-26T16:38:28.184Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -39458,7 +39442,7 @@
       "page": 1,
       "position": 50,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:30.658Z",
+      "scrapedAt": "2026-02-26T16:38:31.984Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -39583,7 +39567,7 @@
       "page": 1,
       "position": 51,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:32.672Z",
+      "scrapedAt": "2026-02-26T16:38:33.863Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -39731,7 +39715,7 @@
       "page": 1,
       "position": 52,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:34.717Z",
+      "scrapedAt": "2026-02-26T16:38:35.746Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -39872,7 +39856,7 @@
       "page": 1,
       "position": 53,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:56:36.763Z",
+      "scrapedAt": "2026-02-26T16:38:37.646Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -70905,7 +70889,7 @@
       "page": 1,
       "position": 23,
       "currentFile": "Top13.json",
-      "scrapedAt": "2026-02-26T15:55:34.984Z",
+      "scrapedAt": "2026-02-26T16:37:39.480Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
