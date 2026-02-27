@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-02-27T02:13:23.670Z",
+  "last_scan": "2026-02-27T13:05:22.896Z",
   "series": {
     "193369381": {
       "last_episode": "c5c18decf",
@@ -794,7 +794,7 @@
       }
     },
     "b99cc5c64": {
-      "last_episode": "c55c9d79e",
+      "last_episode": "84f0a3cf0",
       "last_season": 1,
       "episodes": {
         "a6b75c4d5": {
@@ -849,6 +849,12 @@
           "extracted_at": "2026-02-26T13:10:34.583Z",
           "title": "مسلسل المصيدة الحلقة 10 العاشرة",
           "number": 10,
+          "season": 1
+        },
+        "84f0a3cf0": {
+          "extracted_at": "2026-02-27T13:03:12.666Z",
+          "title": "مسلسل المصيدة الحلقة 11 الحادية عشر",
+          "number": 11,
           "season": 1
         }
       }
@@ -998,7 +1004,7 @@
       }
     },
     "fad1e07bc": {
-      "last_episode": "aa3bde90c",
+      "last_episode": "75e45a949",
       "last_season": 1,
       "episodes": {
         "c1eb77915": {
@@ -1066,11 +1072,17 @@
           "title": "مسلسل مولانا الحلقة 11 الحادية عشر",
           "number": 11,
           "season": 1
+        },
+        "75e45a949": {
+          "extracted_at": "2026-02-27T13:03:40.459Z",
+          "title": "مسلسل مولانا الحلقة 12 الثانية عشر",
+          "number": 12,
+          "season": 1
         }
       }
     },
     "a4225b39e": {
-      "last_episode": "90cc64765",
+      "last_episode": "df0a3d72b",
       "last_season": 1,
       "episodes": {
         "514ed510c": {
@@ -1126,11 +1138,17 @@
           "title": "مسلسل بخمس ارواح الحلقة 10 العاشرة",
           "number": 10,
           "season": 1
+        },
+        "df0a3d72b": {
+          "extracted_at": "2026-02-27T13:03:43.366Z",
+          "title": "مسلسل بخمس ارواح الحلقة 11 الحادية عشر",
+          "number": 11,
+          "season": 1
         }
       }
     },
     "19cfcf973": {
-      "last_episode": "b71145737",
+      "last_episode": "7d85ad8e3",
       "last_season": 1,
       "episodes": {
         "442797490": {
@@ -1197,6 +1215,12 @@
           "extracted_at": "2026-02-26T13:11:08.551Z",
           "title": "مسلسل غلط بنات الحلقة 11 الحادية عشر",
           "number": 11,
+          "season": 1
+        },
+        "7d85ad8e3": {
+          "extracted_at": "2026-02-27T13:03:46.313Z",
+          "title": "مسلسل غلط بنات الحلقة 12 الثانية عشر",
+          "number": 12,
           "season": 1
         }
       }
@@ -1508,7 +1532,7 @@
       }
     },
     "c26287637": {
-      "last_episode": "5dad710e9",
+      "last_episode": "9417ed69f",
       "last_season": 1,
       "episodes": {
         "1d64ec750": {
@@ -1575,6 +1599,12 @@
           "extracted_at": "2026-02-26T13:11:47.438Z",
           "title": "مسلسل كسرة الحلقة 11 الحادية عشر",
           "number": 11,
+          "season": 1
+        },
+        "9417ed69f": {
+          "extracted_at": "2026-02-27T13:04:36.001Z",
+          "title": "مسلسل كسرة الحلقة 12 الثانية عشر",
+          "number": 12,
           "season": 1
         }
       }
@@ -2186,7 +2216,7 @@
       }
     },
     "4272ec7e2": {
-      "last_episode": "c63151f8b",
+      "last_episode": "1d29b2f82",
       "last_season": 1,
       "episodes": {
         "ae570d8ad": {
@@ -2259,6 +2289,12 @@
           "extracted_at": "2026-02-26T13:12:41.129Z",
           "title": "مسلسل الضربة الحلقة 12 الثانية عشر",
           "number": 12,
+          "season": 1
+        },
+        "1d29b2f82": {
+          "extracted_at": "2026-02-27T13:05:22.896Z",
+          "title": "مسلسل الضربة الحلقة 13 الثالثة عشر",
+          "number": 13,
           "season": 1
         }
       }
@@ -2750,7 +2786,7 @@
       }
     },
     "f84c14da4": {
-      "last_episode": "71a8db155",
+      "last_episode": "52133be71",
       "last_season": 1,
       "episodes": {
         "703653976": {
@@ -2829,6 +2865,18 @@
           "extracted_at": "2026-02-26T18:58:41.146Z",
           "title": "مسلسل اليتيم الحلقة 13 الثالثة عشر",
           "number": 13,
+          "season": 1
+        },
+        "a1c0f2cfe": {
+          "extracted_at": "2026-02-27T13:04:11.909Z",
+          "title": "مسلسل اليتيم الحلقة 14 الرابعة عشر",
+          "number": 14,
+          "season": 1
+        },
+        "52133be71": {
+          "extracted_at": "2026-02-27T13:04:13.122Z",
+          "title": "مسلسل اليتيم الحلقة 15 الخامسة عشر",
+          "number": 15,
           "season": 1
         }
       }
@@ -4358,7 +4406,7 @@
       }
     },
     "24198170e": {
-      "last_episode": "61a10a449",
+      "last_episode": "f210e6c58",
       "last_season": 1,
       "episodes": {
         "ed3685732": {
@@ -4419,6 +4467,12 @@
           "extracted_at": "2026-02-26T13:11:39.763Z",
           "title": "مسلسل درب الذهب الحلقة 10 العاشرة",
           "number": 10,
+          "season": 1
+        },
+        "f210e6c58": {
+          "extracted_at": "2026-02-27T13:04:27.945Z",
+          "title": "مسلسل درب الذهب الحلقة 11 الحادية عشر",
+          "number": 11,
           "season": 1
         }
       }
@@ -4502,7 +4556,7 @@
       }
     },
     "e6926d8ca": {
-      "last_episode": "905cfe2bb",
+      "last_episode": "41323d0a1",
       "last_season": 1,
       "episodes": {
         "964909764": {
@@ -4569,6 +4623,12 @@
           "extracted_at": "2026-02-26T13:11:55.032Z",
           "title": "مسلسل حي الجرادية الحلقة 11 الحادية عشر",
           "number": 11,
+          "season": 1
+        },
+        "41323d0a1": {
+          "extracted_at": "2026-02-27T13:04:43.862Z",
+          "title": "مسلسل حي الجرادية الحلقة 12 الثانية عشر",
+          "number": 12,
           "season": 1
         }
       }
@@ -4706,7 +4766,7 @@
       }
     },
     "a7532ecf1": {
-      "last_episode": "6aec38cf0",
+      "last_episode": "adc1c2cad",
       "last_season": 1,
       "episodes": {
         "55aaaa8b8": {
@@ -4767,6 +4827,12 @@
           "extracted_at": "2026-02-26T13:12:10.390Z",
           "title": "مسلسل البخت الحلقة 10 العاشرة",
           "number": 10,
+          "season": 1
+        },
+        "adc1c2cad": {
+          "extracted_at": "2026-02-27T13:04:55.228Z",
+          "title": "مسلسل البخت الحلقة 11 الحادية عشر",
+          "number": 11,
           "season": 1
         }
       }
@@ -4910,7 +4976,7 @@
       }
     },
     "d4b0669ce": {
-      "last_episode": "8b9a3510f",
+      "last_episode": "dd92c47f6",
       "last_season": 1,
       "episodes": {
         "9424dd412": {
@@ -4971,6 +5037,12 @@
           "extracted_at": "2026-02-26T13:12:19.185Z",
           "title": "مسلسل بنت النعمان الحلقة 10 العاشرة",
           "number": 10,
+          "season": 1
+        },
+        "dd92c47f6": {
+          "extracted_at": "2026-02-27T13:05:04.643Z",
+          "title": "مسلسل بنت النعمان الحلقة 11 الحادية عشر",
+          "number": 11,
           "season": 1
         }
       }
@@ -10764,115 +10836,199 @@
       "title": "مسلسل عايلة مايلة الحلقة 11 الحادية عشر",
       "number": 11,
       "season": 1
+    },
+    "84f0a3cf0": {
+      "series_id": "b99cc5c64",
+      "extracted_at": "2026-02-27T13:03:12.666Z",
+      "title": "مسلسل المصيدة الحلقة 11 الحادية عشر",
+      "number": 11,
+      "season": 1
+    },
+    "75e45a949": {
+      "series_id": "fad1e07bc",
+      "extracted_at": "2026-02-27T13:03:40.459Z",
+      "title": "مسلسل مولانا الحلقة 12 الثانية عشر",
+      "number": 12,
+      "season": 1
+    },
+    "df0a3d72b": {
+      "series_id": "a4225b39e",
+      "extracted_at": "2026-02-27T13:03:43.366Z",
+      "title": "مسلسل بخمس ارواح الحلقة 11 الحادية عشر",
+      "number": 11,
+      "season": 1
+    },
+    "7d85ad8e3": {
+      "series_id": "19cfcf973",
+      "extracted_at": "2026-02-27T13:03:46.313Z",
+      "title": "مسلسل غلط بنات الحلقة 12 الثانية عشر",
+      "number": 12,
+      "season": 1
+    },
+    "a1c0f2cfe": {
+      "series_id": "f84c14da4",
+      "extracted_at": "2026-02-27T13:04:11.909Z",
+      "title": "مسلسل اليتيم الحلقة 14 الرابعة عشر",
+      "number": 14,
+      "season": 1
+    },
+    "52133be71": {
+      "series_id": "f84c14da4",
+      "extracted_at": "2026-02-27T13:04:13.122Z",
+      "title": "مسلسل اليتيم الحلقة 15 الخامسة عشر",
+      "number": 15,
+      "season": 1
+    },
+    "f210e6c58": {
+      "series_id": "24198170e",
+      "extracted_at": "2026-02-27T13:04:27.945Z",
+      "title": "مسلسل درب الذهب الحلقة 11 الحادية عشر",
+      "number": 11,
+      "season": 1
+    },
+    "9417ed69f": {
+      "series_id": "c26287637",
+      "extracted_at": "2026-02-27T13:04:36.001Z",
+      "title": "مسلسل كسرة الحلقة 12 الثانية عشر",
+      "number": 12,
+      "season": 1
+    },
+    "41323d0a1": {
+      "series_id": "e6926d8ca",
+      "extracted_at": "2026-02-27T13:04:43.862Z",
+      "title": "مسلسل حي الجرادية الحلقة 12 الثانية عشر",
+      "number": 12,
+      "season": 1
+    },
+    "adc1c2cad": {
+      "series_id": "a7532ecf1",
+      "extracted_at": "2026-02-27T13:04:55.228Z",
+      "title": "مسلسل البخت الحلقة 11 الحادية عشر",
+      "number": 11,
+      "season": 1
+    },
+    "dd92c47f6": {
+      "series_id": "d4b0669ce",
+      "extracted_at": "2026-02-27T13:05:04.643Z",
+      "title": "مسلسل بنت النعمان الحلقة 11 الحادية عشر",
+      "number": 11,
+      "season": 1
+    },
+    "1d29b2f82": {
+      "series_id": "4272ec7e2",
+      "extracted_at": "2026-02-27T13:05:22.896Z",
+      "title": "مسلسل الضربة الحلقة 13 الثالثة عشر",
+      "number": 13,
+      "season": 1
     }
   },
   "statistics": {
     "total_series": 94,
-    "total_episodes": 778,
-    "new_episodes_today": 0,
-    "last_scan": "2026-02-27T07:00:28.434Z",
+    "total_episodes": 790,
+    "new_episodes_today": 12,
+    "last_scan": "2026-02-27T13:05:37.241Z",
     "first_scan": false
   },
   "latest_episodes": [
     {
-      "id": "b3dc6d0fa",
-      "series_id": "0ed21e78f",
-      "series_title": "مسلسل عايلة مايلة",
-      "title": "مسلسل عايلة مايلة الحلقة 11 الحادية عشر",
-      "image": "https://larozza.website/uploads/thumbs/d1c4e8a1c-1.jpg",
+      "id": "1d29b2f82",
+      "series_id": "4272ec7e2",
+      "series_title": "مسلسل الضربة",
+      "title": "مسلسل الضربة الحلقة 13 الثالثة عشر",
+      "image": "https://larozza.website/uploads/thumbs/ae570d8ad-1.jpg",
+      "number": 13,
+      "season": 1,
+      "added_at": "2026-02-27T13:05:22.079Z"
+    },
+    {
+      "id": "dd92c47f6",
+      "series_id": "d4b0669ce",
+      "series_title": "مسلسل بنت النعمان",
+      "title": "مسلسل بنت النعمان الحلقة 11 الحادية عشر",
+      "image": "https://larozza.website/uploads/thumbs/9424dd412-1.jpg",
       "number": 11,
       "season": 1,
-      "added_at": "2026-02-27T02:13:22.622Z"
+      "added_at": "2026-02-27T13:05:03.926Z"
     },
     {
-      "id": "cbd5b33df",
-      "series_id": "f84dc0645",
-      "series_title": "مسلسل شاكر عودة البطل",
-      "title": "مسلسل شاكر عودة البطل الحلقة 10 العاشرة",
-      "image": "https://larozza.website/uploads/thumbs/dcaf30729-1.jpg",
-      "number": 10,
-      "season": 1,
-      "added_at": "2026-02-27T02:13:16.669Z"
-    },
-    {
-      "id": "a76e4928d",
-      "series_id": "249d68f38",
-      "series_title": "مسلسل عمارة السعادة",
-      "title": "مسلسل عمارة السعادة الحلقة 9 التاسعة",
-      "image": "https://larozza.website/uploads/thumbs/408ac47a6-1.jpg",
-      "number": 9,
-      "season": 1,
-      "added_at": "2026-02-27T02:13:13.402Z"
-    },
-    {
-      "id": "c77823181",
-      "series_id": "157b245c0",
-      "series_title": "مسلسل عرش الشيطان",
-      "title": "مسلسل عرش الشيطان الحلقة 10 العاشرة",
-      "image": "https://larozza.website/uploads/thumbs/4542cf943-1.jpg",
-      "number": 10,
-      "season": 1,
-      "added_at": "2026-02-27T02:13:09.941Z"
-    },
-    {
-      "id": "06c072a02",
-      "series_id": "94d42abbd",
-      "series_title": "مسلسل الخطيفة",
-      "title": "مسلسل الخطيفة الحلقة 9 التاسعة",
-      "image": "https://larozza.website/uploads/thumbs/7a29b3c8b-1.jpg",
-      "number": 9,
-      "season": 1,
-      "added_at": "2026-02-27T02:13:06.786Z"
-    },
-    {
-      "id": "521e7e06d",
-      "series_id": "79130bbdd",
-      "series_title": "مسلسل العمة",
-      "title": "مسلسل العمة الحلقة 10 العاشرة",
-      "image": "https://larozza.website/uploads/thumbs/d7f1cff68-1.jpg",
-      "number": 10,
-      "season": 1,
-      "added_at": "2026-02-27T02:13:03.151Z"
-    },
-    {
-      "id": "fa0fc932e",
-      "series_id": "7417b359a",
-      "series_title": "مسلسل نوبة وتوبة",
-      "title": "مسلسل نوبة وتوبة الحلقة 6 السادسة",
-      "image": "https://larozza.website/uploads/thumbs/fa28ee052-1.jpg",
-      "number": 6,
-      "season": 1,
-      "added_at": "2026-02-27T02:12:48.061Z"
-    },
-    {
-      "id": "61540bf95",
-      "series_id": "a63f460a8",
-      "series_title": "مسلسل ليل البنفسج",
-      "title": "مسلسل ليل البنفسج الحلقة 10 العاشرة",
-      "image": "https://larozza.website/uploads/thumbs/b9fe44bf2-1.jpg",
-      "number": 10,
-      "season": 1,
-      "added_at": "2026-02-27T02:12:35.164Z"
-    },
-    {
-      "id": "b7e2b8679",
-      "series_id": "0cab7b5ce",
-      "series_title": "مسلسل النويلاتي",
-      "title": "مسلسل النويلاتي الحلقة 11 الحادية عشر",
-      "image": "https://larozza.website/uploads/thumbs/4efa48074-1.jpg",
+      "id": "adc1c2cad",
+      "series_id": "a7532ecf1",
+      "series_title": "مسلسل البخت",
+      "title": "مسلسل البخت الحلقة 11 الحادية عشر",
+      "image": "https://larozza.website/uploads/thumbs/55aaaa8b8-1.jpg",
       "number": 11,
       "season": 1,
-      "added_at": "2026-02-27T02:12:31.901Z"
+      "added_at": "2026-02-27T13:04:54.477Z"
     },
     {
-      "id": "f50d43f5c",
-      "series_id": "a5fd4a91c",
-      "series_title": "مسلسل بيت أم ليلة",
-      "title": "مسلسل بيت ام ليلة الحلقة 10 العاشرة",
-      "image": "https://larozza.website/uploads/thumbs/d38cee407-1.jpg",
-      "number": 10,
+      "id": "41323d0a1",
+      "series_id": "e6926d8ca",
+      "series_title": "مسلسل حي الجرادية",
+      "title": "مسلسل حي الجرادية الحلقة 12 الثانية عشر",
+      "image": "https://larozza.website/uploads/thumbs/aeddcc6b7-1.jpg",
+      "number": 12,
       "season": 1,
-      "added_at": "2026-02-27T02:12:20.356Z"
+      "added_at": "2026-02-27T13:04:43.184Z"
+    },
+    {
+      "id": "9417ed69f",
+      "series_id": "c26287637",
+      "series_title": "مسلسل كسرة",
+      "title": "مسلسل كسرة الحلقة 12 الثانية عشر",
+      "image": "https://larozza.website/uploads/thumbs/1d64ec750-1.jpg",
+      "number": 12,
+      "season": 1,
+      "added_at": "2026-02-27T13:04:35.320Z"
+    },
+    {
+      "id": "f210e6c58",
+      "series_id": "24198170e",
+      "series_title": "مسلسل درب الذهب",
+      "title": "مسلسل درب الذهب الحلقة 11 الحادية عشر",
+      "image": "https://larozza.website/uploads/thumbs/ed3685732-1.jpg",
+      "number": 11,
+      "season": 1,
+      "added_at": "2026-02-27T13:04:27.267Z"
+    },
+    {
+      "id": "a1c0f2cfe",
+      "series_id": "f84c14da4",
+      "series_title": "مسلسل اليتيم",
+      "title": "مسلسل اليتيم الحلقة 14 الرابعة عشر",
+      "image": "https://larozza.website/uploads/thumbs/bf287f6da-1.jpg",
+      "number": 14,
+      "season": 1,
+      "added_at": "2026-02-27T13:04:11.084Z"
+    },
+    {
+      "id": "52133be71",
+      "series_id": "f84c14da4",
+      "series_title": "مسلسل اليتيم",
+      "title": "مسلسل اليتيم الحلقة 15 الخامسة عشر",
+      "image": "https://larozza.website/uploads/thumbs/bf287f6da-1.jpg",
+      "number": 15,
+      "season": 1,
+      "added_at": "2026-02-27T13:04:11.084Z"
+    },
+    {
+      "id": "7d85ad8e3",
+      "series_id": "19cfcf973",
+      "series_title": "مسلسل غلط بنات",
+      "title": "مسلسل غلط بنات الحلقة 12 الثانية عشر",
+      "image": "https://larozza.website/uploads/thumbs/f779d7936-1.jpg",
+      "number": 12,
+      "season": 1,
+      "added_at": "2026-02-27T13:03:45.587Z"
+    },
+    {
+      "id": "df0a3d72b",
+      "series_id": "a4225b39e",
+      "series_title": "مسلسل بخمس أرواح",
+      "title": "مسلسل بخمس ارواح الحلقة 11 الحادية عشر",
+      "image": "https://larozza.website/uploads/thumbs/514ed510c-1.jpg",
+      "number": 11,
+      "season": 1,
+      "added_at": "2026-02-27T13:03:42.653Z"
     }
   ],
   "latest_series": [
@@ -10880,31 +11036,31 @@
       "id": "81ce0a5d7",
       "title": "مسلسل علي كلاي",
       "image": "",
-      "added_at": "2026-02-27T06:57:11.787Z"
+      "added_at": "2026-02-27T13:02:38.397Z"
     },
     {
       "id": "d8cb9c11b",
       "title": "مسلسل الكينج",
       "image": "",
-      "added_at": "2026-02-27T06:57:11.787Z"
+      "added_at": "2026-02-27T13:02:38.397Z"
     },
     {
       "id": "9",
       "title": "مسلسل المداح 6",
       "image": "",
-      "added_at": "2026-02-27T06:57:11.787Z"
+      "added_at": "2026-02-27T13:02:38.397Z"
     },
     {
       "id": "1cf22b484",
       "title": "مسلسل افراج",
       "image": "https://larozza.website/uploads/thumbs/372599929-1.jpg",
-      "added_at": "2026-02-27T06:57:11.787Z"
+      "added_at": "2026-02-27T13:02:38.397Z"
     },
     {
       "id": "ae583760b",
       "title": "مسلسل الست موناليزا",
       "image": "",
-      "added_at": "2026-02-27T06:57:11.787Z"
+      "added_at": "2026-02-27T13:02:38.397Z"
     }
   ]
 }
