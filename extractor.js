@@ -1,4 +1,4 @@
-// extractor.js - مستخرج مسلسلات وحلقات رمضان 2026 (نسخة سريعة - صفحة واحدة)
+// extractor.js - مستخرج مسلسلات وحلقات رمضان 2026 (نسخة محسنة)
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 import fs from 'fs/promises';
@@ -21,8 +21,6 @@ const CONFIG = {
     DATA_DIR: path.join(__dirname, 'data', 'Ramdan'),
     SERIES_DIR: 'series',
     ECLIPS_DIR: 'eclips',
-    // MAX_PAGES لم يعد مستخدماً بكثرة، لكن أبقيناه للتوافق
-    MAX_PAGES: 1, // تم التعديل: صفحة واحدة فقط
     REQUEST_DELAY: 2000,
     MAX_RETRIES: 3
 };
@@ -38,11 +36,10 @@ class ProgressTracker {
             const content = await fs.readFile(this.filePath, 'utf-8');
             this.data = JSON.parse(content);
         } catch (error) {
-            // إذا الملف ما موجود، ننشئه جديد
             this.data = {
                 last_scan: null,
-                series: {}, // لكل مسلسل: آخر حلقة استخرجناها
-                all_episodes: {}, // جميع الحلقات المستخرجة (لمنع التكرار)
+                series: {},
+                all_episodes: {},
                 statistics: {
                     total_series: 0,
                     total_episodes: 0,
@@ -58,19 +55,15 @@ class ProgressTracker {
         await fs.writeFile(this.filePath, JSON.stringify(this.data, null, 2));
     }
 
-    // هل هذه أول مرة نشغل فيها الكود؟
     isFirstScan() {
         return !this.data.last_scan;
     }
 
-    // هل هذه الحلقة جديدة؟ (ما استخرجناها قبل كدة)
     isEpisodeNew(episodeId) {
         return !this.data.all_episodes || !this.data.all_episodes[episodeId];
     }
 
-    // سجل أننا استخرجنا حلقة
     markEpisodeExtracted(seriesId, episodeId, episodeData) {
-        // سجل الحلقة في قائمة كل الحلقات
         if (!this.data.all_episodes) {
             this.data.all_episodes = {};
         }
@@ -83,7 +76,6 @@ class ProgressTracker {
             season: episodeData.season
         };
         
-        // سجل آخر حلقة للمسلسل
         if (!this.data.series[seriesId]) {
             this.data.series[seriesId] = {
                 last_episode: null,
@@ -99,7 +91,6 @@ class ProgressTracker {
             season: episodeData.season
         };
         
-        // تحديث آخر حلقة إذا كانت هذه الحلقة أحدث
         const currentLast = this.data.series[seriesId].last_episode;
         if (!currentLast || (episodeData.number && episodeData.number > (this.data.series[seriesId].episodes[currentLast]?.number || 0))) {
             this.data.series[seriesId].last_episode = episodeId;
@@ -109,12 +100,10 @@ class ProgressTracker {
         this.data.last_scan = new Date().toISOString();
     }
 
-    // جلب آخر حلقة استخرجناها لمسلسل معين
     getLastEpisodeForSeries(seriesId) {
         return this.data.series[seriesId]?.last_episode || null;
     }
 
-    // جلب رقم آخر حلقة استخرجناها
     getLastEpisodeNumber(seriesId) {
         const lastEpisodeId = this.getLastEpisodeForSeries(seriesId);
         if (lastEpisodeId && this.data.series[seriesId]?.episodes[lastEpisodeId]) {
@@ -127,10 +116,11 @@ class ProgressTracker {
 class SeriesExtractor {
     constructor(progressTracker) {
         this.progress = progressTracker;
-        this.seriesList = []; // للمسلسلات في Home.json
-        this.newEpisodes = []; // للحلقات الجديدة فقط
-        this.allEpisodes = []; // جميع الحلقات (لإعادة توزيعها)
+        this.seriesList = [];
+        this.newEpisodes = [];
+        this.allEpisodes = [];
         this.isFirstScan = progressTracker.isFirstScan();
+        this.processedSeries = new Set(); // لتتبع المسلسلات التي تمت معالجتها
     }
 
     async fetch(url, retryCount = 0) {
@@ -155,7 +145,6 @@ class SeriesExtractor {
                     return response.data;
                 }
             } catch (e) {
-                // جرب البروكسي التالي
                 continue;
             }
         }
@@ -168,13 +157,13 @@ class SeriesExtractor {
         throw new Error(`فشل الاتصال بـ ${url}`);
     }
 
-    // استخراج رقم الحلقة من العنوان
     extractEpisodeNumber(title) {
         const patterns = [
             /الحلقة\s*(\d+)/i,
             /حلقة\s*(\d+)/i,
             /episode\s*(\d+)/i,
-            /(\d+)\s*الاولى|الثانية|الثالثة|الرابعة|الخامسة/i
+            /(\d+)\s*الاولى|الثانية|الثالثة|الرابعة|الخامسة/i,
+            /(\d+)/ // آخر خيار
         ];
         
         for (let pattern of patterns) {
@@ -185,7 +174,6 @@ class SeriesExtractor {
         return null;
     }
 
-    // استخراج ID المسلسل من الرابط
     extractSeriesId(link) {
         const match = link.match(/[?&]ser=([a-f0-9]+)/i) || 
                      link.match(/serie1\.php\?ser=([a-f0-9]+)/i) ||
@@ -194,34 +182,29 @@ class SeriesExtractor {
         return match ? match[1] : null;
     }
 
-    // استخراج ID الحلقة من الرابط
     extractEpisodeId(link) {
         const match = link.match(/[?&]vid=([a-f0-9]+)/i) || 
-                     link.match(/video\.php\?vid=([a-f0-9]+)/i);
+                     link.match(/video\.php\?vid=([a-f0-9]+)/i) ||
+                     link.match(/vid=([a-f0-9]+)/i);
         
         return match ? match[1] : null;
     }
 
-    // إصلاح رابط الصورة
     fixImage(url) {
         if (!url) return '';
         
-        // إذا الرابط يبدأ بـ //
         if (url.startsWith('//')) {
             return 'https:' + url;
         }
         
-        // إذا الرابط يبدأ بـ /
         if (url.startsWith('/')) {
             return CONFIG.BASE_URL + url;
         }
         
-        // إذا الرابط ما يبدأ بـ http
         if (!url.startsWith('http')) {
             return CONFIG.BASE_URL + '/' + url;
         }
         
-        // تأكد من أن الرابط يستخدم https
         if (url.startsWith('http://')) {
             url = url.replace('http://', 'https://');
         }
@@ -229,21 +212,17 @@ class SeriesExtractor {
         return url;
     }
 
-    // استخراج جميع المسلسلات من صفحة واحدة (بدون تعدد صفحات)
+    // استخراج جميع المسلسلات
     async extractAllSeries() {
-        console.log('\n🔍 جاري استخراج المسلسلات من صفحة واحدة...');
+        console.log('\n🔍 جاري استخراج المسلسلات...');
         
-        const allSeries = new Map(); // استخدم Map عشان نضمن عدم التكرار
+        const allSeries = new Map();
         
         try {
-            // صفحة واحدة فقط - بدون حلقة for
-            console.log(`📄 مسح الصفحة الرئيسية للمسلسلات...`);
-            
-            const pageUrl = `${CONFIG.BASE_URL}/category.php?cat=${CONFIG.CATEGORY}&order=DESC`; // تم إزالة &page=
+            const pageUrl = `${CONFIG.BASE_URL}/category.php?cat=${CONFIG.CATEGORY}&order=DESC`;
             const html = await this.fetch(pageUrl);
             const $ = cheerio.load(html);
             
-            // استخراج روابط المسلسلات
             $('a.icon-link[href*="view-serie1.php"]').each((i, el) => {
                 const link = $(el).attr('href');
                 const title = $(el).text().trim();
@@ -253,7 +232,7 @@ class SeriesExtractor {
                     allSeries.set(seriesId, {
                         id: seriesId,
                         title: title,
-                        image: '', // سنملأها لاحقاً من أول حلقة
+                        image: '',
                         seasons: 1,
                         last_season: 1,
                         last_update: new Date().toISOString(),
@@ -262,200 +241,252 @@ class SeriesExtractor {
                 }
             });
             
-            // لا حاجة للتأخير بين الصفحات لأنها صفحة واحدة
-            
         } catch (error) {
             console.log(`⚠️ خطأ في استخراج المسلسلات: ${error.message}`);
         }
         
         console.log(`✅ تم العثور على ${allSeries.size} مسلسل`);
-        
-        // تحويل Map إلى Array
         this.seriesList = Array.from(allSeries.values());
-        
         return this.seriesList;
     }
 
-    // استخراج آخر موسم من صفحة المسلسل
-    async extractLastSeason(series) {
+    // استخراج جميع حلقات المسلسل من صفحة حلقة واحدة
+    async extractAllEpisodesFromAnyEpisode(series) {
+        console.log(`\n🎬 محاولة استخراج جميع حلقات: ${series.title}`);
+        
         try {
+            // أولاً نحتاج للحصول على أي حلقة من المسلسل
+            // نجرب الوصول لصفحة المسلسل أولاً
             const seriesUrl = `${CONFIG.BASE_URL}/view-serie1.php?ser=${series.id}`;
-            const html = await this.fetch(seriesUrl);
-            const $ = cheerio.load(html);
+            const seriesHtml = await this.fetch(seriesUrl);
+            const $series = cheerio.load(seriesHtml);
             
-            // استخراج العنوان الكامل
-            const fullTitle = $('h1.title').first().text().trim();
-            if (fullTitle) {
-                series.title = fullTitle;
-            }
+            // نبحث عن أول رابط حلقة في صفحة المسلسل
+            let firstEpisodeLink = null;
             
-            // البحث عن كل المواسم
-            const seasons = [];
-            
-            // البحث عن عناصر الموسم
-            $('.Tab button.tablinks, .seasons button, [class*="season"] button, .tab button').each((i, el) => {
-                const seasonText = $(el).text().trim();
-                const match = seasonText.match(/\d+/);
-                if (match) {
-                    seasons.push(parseInt(match[0]));
-                }
-            });
-            
-            // البحث عن divs الخاصة بالمواسم
-            let lastSeasonNumber = 1;
-            let seasonHtml = html;
-            
-            $('div[id^="Season"], div[class*="season"], .tabcontent').each((i, el) => {
-                const id = $(el).attr('id') || '';
-                const match = id.match(/Season(\d+)/i);
-                if (match) {
-                    const seasonNum = parseInt(match[1]);
-                    seasons.push(seasonNum);
-                    
-                    // إذا كان هذا أكبر رقم، نخزنه
-                    if (seasonNum > lastSeasonNumber) {
-                        lastSeasonNumber = seasonNum;
-                        seasonHtml = $(el).html() || html;
+            // البحث في الـ thumbnails
+            $series('.thumbnail a[href*="video.php"], .post a[href*="video.php"], a[href*="video.php"]').each((i, el) => {
+                if (!firstEpisodeLink) {
+                    const href = $series(el).attr('href');
+                    if (href && href.includes('video.php')) {
+                        firstEpisodeLink = href.startsWith('http') ? href : CONFIG.BASE_URL + (href.startsWith('/') ? href : '/' + href);
                     }
                 }
             });
             
-            // إذا في مواسم متعددة، نأخذ آخر واحد
-            let targetSeason = 1;
-            
-            if (seasons.length > 0) {
-                targetSeason = Math.max(...seasons);
-                series.seasons = seasons.length;
-                series.last_season = targetSeason;
-                console.log(`   📺 المسلسل فيه ${seasons.length} مواسم, نأخذ الموسم ${targetSeason}`);
-            } else {
-                console.log(`   📺 المسلسل موسم واحد`);
+            // إذا ما لقينا، نجرب نبحث في أي رابط
+            if (!firstEpisodeLink) {
+                $series('a[href*="vid="]').each((i, el) => {
+                    if (!firstEpisodeLink) {
+                        const href = $series(el).attr('href');
+                        if (href) {
+                            firstEpisodeLink = href.startsWith('http') ? href : CONFIG.BASE_URL + (href.startsWith('/') ? href : '/' + href);
+                        }
+                    }
+                });
             }
             
-            return {
-                targetSeason,
-                seasonHtml
-            };
+            if (!firstEpisodeLink) {
+                console.log(`   ❌ لم نتمكن من العثور على أي حلقة للمسلسل`);
+                return [];
+            }
+            
+            console.log(`   🔗 تم العثور على رابط حلقة: ${firstEpisodeLink}`);
+            
+            // الآن نحول الرابط إلى play.php
+            const playUrl = firstEpisodeLink.replace('video.php', 'play.php');
+            const playHtml = await this.fetch(playUrl);
+            const $play = cheerio.load(playHtml);
+            
+            // البحث عن قائمة الحلقات الكاملة
+            const allEpisodes = [];
+            
+            // الهيكل الجديد: SeasonsEpisodes
+            $play('.SeasonsEpisodes a[href*="video.php"]').each((i, el) => {
+                const href = $play(el).attr('href');
+                const title = $play(el).attr('title') || $play(el).text();
+                const episodeNumber = $play(el).find('em').text().trim() || this.extractEpisodeNumber(title);
+                
+                if (href) {
+                    const episodeId = this.extractEpisodeId(href);
+                    if (episodeId) {
+                        allEpisodes.push({
+                            id: episodeId,
+                            series_id: series.id,
+                            number: parseInt(episodeNumber) || (i + 1),
+                            title: title,
+                            link: href.startsWith('http') ? href : CONFIG.BASE_URL + (href.startsWith('/') ? href : '/' + href),
+                            season: 1,
+                            extracted_at: new Date().toISOString(),
+                            servers: []
+                        });
+                    }
+                }
+            });
+            
+            // إذا ما لقينا بالهيكل الجديد، نبحث بالطريقة القديمة
+            if (allEpisodes.length === 0) {
+                $play('.thumbnail, .post, .item, .video-item, li.col-xs-6').each((i, el) => {
+                    const link = $play(el).find('a[href*="video.php"]').attr('href');
+                    if (link) {
+                        const title = $play(el).find('.ellipsis').text().trim() || $play(el).find('h3 a').text().trim();
+                        const episodeId = this.extractEpisodeId(link);
+                        const episodeNumber = this.extractEpisodeNumber(title);
+                        
+                        if (episodeId) {
+                            allEpisodes.push({
+                                id: episodeId,
+                                series_id: series.id,
+                                number: episodeNumber || (i + 1),
+                                title: title,
+                                link: link.startsWith('http') ? link : CONFIG.BASE_URL + (link.startsWith('/') ? link : '/' + link),
+                                season: 1,
+                                extracted_at: new Date().toISOString(),
+                                servers: []
+                            });
+                        }
+                    }
+                });
+            }
+            
+            // ترتيب الحلقات حسب الرقم
+            allEpisodes.sort((a, b) => (a.number || 0) - (b.number || 0));
+            
+            console.log(`   📥 تم العثور على ${allEpisodes.length} حلقة كاملة للمسلسل`);
+            
+            // نأخذ صورة المسلسل من أول حلقة إذا ممكن
+            if (allEpisodes.length > 0 && !series.image) {
+                const firstEpisodeLink = allEpisodes[0].link;
+                const firstEpisodeHtml = await this.fetch(firstEpisodeLink);
+                const $first = cheerio.load(firstEpisodeHtml);
+                
+                const image = $first('meta[property="og:image"]').attr('content') || 
+                             $first('img.poster').attr('src') ||
+                             $first('img[src*="uploads"]').first().attr('src');
+                
+                if (image) {
+                    series.image = this.fixImage(image);
+                }
+            }
+            
+            return allEpisodes;
             
         } catch (error) {
-            console.log(`   ❌ خطأ في استخراج المواسم: ${error.message}`);
-            return {
-                targetSeason: 1,
-                seasonHtml: html
-            };
+            console.log(`   ❌ خطأ في استخراج جميع الحلقات: ${error.message}`);
+            return [];
         }
     }
 
-    // استخراج الحلقات من الموسم
-    async extractEpisodesFromSeason(series, html, seasonNum) {
-        const $ = cheerio.load(html);
-        const episodes = [];
-        let firstEpisodeImage = ''; // لصورة المسلسل (من أول حلقة)
-        
-        $('.thumbnail, .post, .item, .video-item, li.col-xs-6').each((i, el) => {
-            try {
+    // استخراج السيرفرات من صفحة التشغيل (محسنة للهيكل الجديد)
+    async extractEpisodeServers(episode) {
+        try {
+            const playUrl = episode.link.replace('video.php', 'play.php');
+            const html = await this.fetch(playUrl);
+            const $ = cheerio.load(html);
+            
+            const servers = [];
+            
+            // الهيكل الجديد: WatchList مع data-embed-url
+            $('.WatchList li').each((i, el) => {
                 const $el = $(el);
                 
-                // رابط الحلقة
-                let link = $el.find('a[href*="video.php"]').attr('href') || 
-                          $el.find('a[href*="vid="]').attr('href') ||
-                          $el.find('a').first().attr('href');
+                // نجرب data-embed-url أولاً
+                let embedUrl = $el.attr('data-embed-url');
+                let serverName = $el.find('strong').text().trim();
                 
-                if (!link || link === '#' || link.includes('javascript')) return;
-                
-                if (!link.startsWith('http')) {
-                    link = CONFIG.BASE_URL + (link.startsWith('/') ? link : '/' + link);
+                // إذا ما لقينا data-embed-url، نجرب طرق أخرى
+                if (!embedUrl) {
+                    embedUrl = $el.attr('data-src') || 
+                              $el.find('a').attr('href') ||
+                              $el.find('iframe').attr('src');
                 }
                 
-                // عنوان الحلقة
-                let title = $el.find('.ellipsis').text().trim() || 
-                           $el.find('h3 a').text().trim() ||
-                           $el.find('img').attr('alt') ||
-                           'حلقة';
-                
-                // صورة الحلقة
-                let image = $el.find('img').attr('src') || 
-                           $el.find('img').attr('data-src') || 
-                           $el.find('img').attr('data-original') || 
-                           '';
-                
-                if (image && (image.includes('blank.gif') || image.includes('data:image'))) {
-                    image = '';
+                // إذا ما لقينا اسم سيرفر، نستخدم النص
+                if (!serverName) {
+                    serverName = $el.text().trim().split('\n')[0].trim() || `سيرفر ${i + 1}`;
                 }
                 
-                // استخراج ID الحلقة
-                const episodeId = this.extractEpisodeId(link);
-                if (!episodeId) return;
-                
-                // استخراج رقم الحلقة
-                const episodeNumber = this.extractEpisodeNumber(title);
-                
-                // إذا كانت هذه أول حلقة، نحفظ صورتها للمسلسل
-                if (i === 0 && image && !series.image) {
-                    firstEpisodeImage = image;
+                if (embedUrl && embedUrl !== '#' && embedUrl !== 'javascript:;') {
+                    if (embedUrl.startsWith('//')) embedUrl = 'https:' + embedUrl;
+                    else if (!embedUrl.startsWith('http')) embedUrl = CONFIG.BASE_URL + '/' + embedUrl;
+                    
+                    servers.push({
+                        name: serverName.replace(/[\\n\\r\\t]+/g, ' ').trim().substring(0, 30),
+                        url: embedUrl
+                    });
                 }
-                
-                // المدة
-                let duration = $el.find('.duration, .pm-label-duration, .time').first().text().trim() || '00:00';
-                
-                episodes.push({
-                    id: episodeId,
-                    series_id: series.id,
-                    number: episodeNumber,
-                    title: title,
-                    image: this.fixImage(image),
-                    link: link,
-                    season: seasonNum,
-                    duration: duration,
-                    servers: [],
-                    extracted_at: new Date().toISOString()
+            });
+            
+            // إذا ما لقينا سيرفرات بالهيكل الجديد، نجرب الطرق القديمة
+            if (servers.length === 0) {
+                $('.server-list li, .servers li, [class*="server"] li').each((i, el) => {
+                    const $el = $(el);
+                    
+                    let embedUrl = $el.attr('data-embed-url') || 
+                                  $el.attr('data-src') || 
+                                  $el.find('a').attr('href') ||
+                                  $el.find('iframe').attr('src');
+                    
+                    if (embedUrl && embedUrl !== '#' && embedUrl !== 'javascript:;') {
+                        let serverName = $el.find('strong').text().trim() || 
+                                        $el.find('.name').text().trim() || 
+                                        $el.text().trim().split('\n')[0].trim() ||
+                                        `سيرفر ${i + 1}`;
+                        
+                        if (embedUrl.startsWith('//')) embedUrl = 'https:' + embedUrl;
+                        else if (!embedUrl.startsWith('http')) embedUrl = CONFIG.BASE_URL + '/' + embedUrl;
+                        
+                        servers.push({
+                            name: serverName.replace(/[\\n\\r\\t]+/g, ' ').trim().substring(0, 30),
+                            url: embedUrl
+                        });
+                    }
                 });
-                
-            } catch (e) {
-                // تجاهل الخطأ واستمر
             }
-        });
-        
-        // ترتيب الحلقات تصاعدياً حسب الرقم
-        episodes.sort((a, b) => (a.number || 0) - (b.number || 0));
-        
-        console.log(`   📥 تم العثور على ${episodes.length} حلقة في الموسم ${seasonNum}`);
-        
-        return {
-            episodes,
-            firstEpisodeImage
-        };
+            
+            episode.servers = servers;
+            console.log(`         📺 ${servers.length} سيرفر`);
+            
+        } catch (e) {
+            console.log(`         ⚠️ فشل استخراج السيرفرات: ${e.message}`);
+            episode.servers = [];
+        }
     }
 
     // معالجة مسلسل واحد
     async processSeries(series) {
+        // نتأكد أننا ما عالجنا هذا المسلسل قبل كده
+        if (this.processedSeries.has(series.id)) {
+            console.log(`\n⏭️ تخطي مسلسل (تمت معالجته مسبقاً): ${series.title}`);
+            return;
+        }
+        
         console.log(`\n🎬 معالجة مسلسل: ${series.title}`);
         
         try {
-            // استخراج آخر موسم
-            const { targetSeason, seasonHtml } = await this.extractLastSeason(series);
+            // محاولة استخراج جميع حلقات المسلسل من أي حلقة
+            const allEpisodes = await this.extractAllEpisodesFromAnyEpisode(series);
             
-            // استخراج حلقات آخر موسم
-            const { episodes, firstEpisodeImage } = await this.extractEpisodesFromSeason(series, seasonHtml, targetSeason);
-            
-            // تعيين صورة المسلسل من أول حلقة إذا لم تكن موجودة
-            if (!series.image && firstEpisodeImage) {
-                series.image = this.fixImage(firstEpisodeImage);
+            if (allEpisodes.length === 0) {
+                console.log(`   ❌ لم نتمكن من استخراج أي حلقة لهذا المسلسل`);
+                return;
             }
             
-            // معرفة آخر حلقة استخرجناها سابقاً لهذا المسلسل
+            series.episodes_count = allEpisodes.length;
+            
+            // معرفة آخر حلقة استخرجناها سابقاً
             const lastEpisodeNumber = this.progress.getLastEpisodeNumber(series.id);
             console.log(`   📊 آخر حلقة محفوظة: ${lastEpisodeNumber || 'لا يوجد'}`);
             
             // معالجة كل حلقة
-            for (let i = 0; i < episodes.length; i++) {
-                const episode = episodes[i];
+            for (let i = 0; i < allEpisodes.length; i++) {
+                const episode = allEpisodes[i];
                 
-                // تحقق إذا كانت الحلقة جديدة (لم نستخرجها من قبل)
+                // تحقق إذا كانت الحلقة جديدة
                 const isNew = this.progress.isEpisodeNew(episode.id);
                 
                 if (isNew) {
-                    // إذا كانت أول مرة أو الحلقة أحدث من آخر حلقة محفوظة
+                    // إذا كانت أول مرة أو الحلقة أحدث من آخر حلقة
                     if (this.isFirstScan || !lastEpisodeNumber || (episode.number && episode.number > lastEpisodeNumber)) {
                         console.log(`      🔄 [جديد] ${episode.title.substring(0, 50)}...`);
                         
@@ -474,63 +505,19 @@ class SeriesExtractor {
                         console.log(`      ⏭️ [تخطي] ${episode.title.substring(0, 40)}... (أقدم من آخر حلقة)`);
                     }
                 } else {
-                    console.log(`      ✅ [موجود] ${episode.title.substring(0, 40)}... (مستخرج سابقاً)`);
+                    console.log(`      ✅ [موجود] ${episode.title.substring(0, 40)}...`);
                 }
             }
+            
+            // نضيف المسلسل للمجموعة المعالجة
+            this.processedSeries.add(series.id);
             
         } catch (error) {
             console.log(`   ❌ خطأ في معالجة المسلسل: ${error.message}`);
         }
     }
 
-    // استخراج السيرفرات من صفحة التشغيل
-    async extractEpisodeServers(episode) {
-        try {
-            // نحول رابط video.php إلى play.php
-            const playUrl = episode.link.replace('video.php', 'play.php');
-            
-            const html = await this.fetch(playUrl);
-            const $ = cheerio.load(html);
-            
-            const servers = [];
-            
-            // استخراج السيرفرات
-            $('.WatchList li, .server-list li, .servers li, [class*="server"] li').each((i, el) => {
-                const $el = $(el);
-                
-                let embedUrl = $el.attr('data-embed-url') || 
-                              $el.attr('data-src') || 
-                              $el.find('a').attr('href') ||
-                              $el.find('iframe').attr('src');
-                
-                if (embedUrl && embedUrl !== '#') {
-                    let serverName = $el.find('strong').text().trim() || 
-                                    $el.find('.name').text().trim() || 
-                                    $el.text().trim().split('\n')[0].trim() ||
-                                    `سيرفر ${i + 1}`;
-                    
-                    serverName = serverName.replace(/[\\n\\r\\t]+/g, ' ').trim();
-                    
-                    if (embedUrl.startsWith('//')) embedUrl = 'https:' + embedUrl;
-                    else if (!embedUrl.startsWith('http')) embedUrl = CONFIG.BASE_URL + '/' + embedUrl;
-                    
-                    servers.push({
-                        name: serverName.substring(0, 30),
-                        url: embedUrl
-                    });
-                }
-            });
-            
-            episode.servers = servers;
-            console.log(`         📺 ${servers.length} سيرفر`);
-            
-        } catch (e) {
-            console.log(`         ⚠️ فشل استخراج السيرفرات`);
-            episode.servers = [];
-        }
-    }
-
-    // تحميل جميع الحلقات الموجودة (لإعادة التوزيع)
+    // تحميل جميع الحلقات الموجودة
     async loadAllEpisodes() {
         const eclipsDir = path.join(CONFIG.DATA_DIR, CONFIG.ECLIPS_DIR);
         
@@ -561,13 +548,9 @@ class SeriesExtractor {
         const eclipsDir = path.join(CONFIG.DATA_DIR, CONFIG.ECLIPS_DIR);
         await fs.mkdir(eclipsDir, { recursive: true });
         
-        // نجمع كل الحلقات (القديمة + الجديدة)
         let allEpisodesForHome = [...this.allEpisodes, ...this.newEpisodes];
-        
-        // نرتب حسب تاريخ الاستخراج (الأحدث أولاً)
         allEpisodesForHome.sort((a, b) => new Date(b.extracted_at) - new Date(a.extracted_at));
         
-        // نأخذ أول 10 (مع تجنب التكرار)
         const uniqueEpisodes = [];
         const seenIds = new Set();
         
@@ -612,10 +595,8 @@ class SeriesExtractor {
         
         const filePath = path.join(seriesDir, 'Home.json');
         
-        // نرتب المسلسلات أبجدياً
         const sortedSeries = [...this.seriesList].sort((a, b) => a.title.localeCompare(b.title, 'ar'));
         
-        // تنظيف البيانات
         const cleanSeries = sortedSeries.map(s => ({
             id: s.id,
             title: s.title,
@@ -640,26 +621,19 @@ class SeriesExtractor {
         const eclipsDir = path.join(CONFIG.DATA_DIR, CONFIG.ECLIPS_DIR);
         await fs.mkdir(eclipsDir, { recursive: true });
         
-        // نجمع كل الحلقات (القديمة + الجديدة) مع تجنب التكرار
         const allEpisodesMap = new Map();
         
-        // نضيف القديمة
         for (const ep of this.allEpisodes) {
             allEpisodesMap.set(ep.id, ep);
         }
         
-        // نضيف الجديدة (ستحل محل القديمة إذا كان هناك تكرار)
         for (const ep of this.newEpisodes) {
             allEpisodesMap.set(ep.id, ep);
         }
         
-        // نحول الـ Map إلى Array
         let allEpisodes = Array.from(allEpisodesMap.values());
-        
-        // نرتب الحلقات حسب تاريخ الاستخراج (الأحدث أولاً)
         allEpisodes.sort((a, b) => new Date(b.extracted_at) - new Date(a.extracted_at));
         
-        // نمسح ملفات page القديمة (باستثناء Home.json)
         const files = await fs.readdir(eclipsDir).catch(() => []);
         for (const file of files) {
             if (file.startsWith('page') && file.endsWith('.json') && file !== 'Home.json') {
@@ -667,7 +641,6 @@ class SeriesExtractor {
             }
         }
         
-        // نوزع الحلقات على ملفات جديدة (كل 500 حلقة)
         const pages = Math.ceil(allEpisodes.length / CONFIG.EPISODES_PER_FILE);
         
         for (let page = 1; page <= pages; page++) {
@@ -675,7 +648,6 @@ class SeriesExtractor {
             const end = start + CONFIG.EPISODES_PER_FILE;
             const pageEpisodes = allEpisodes.slice(start, end);
             
-            // تنظيف البيانات للتخزين
             const cleanEpisodes = pageEpisodes.map(ep => ({
                 id: ep.id,
                 series_id: ep.series_id,
@@ -706,18 +678,15 @@ class SeriesExtractor {
         console.log(`✅ تم توزيع ${allEpisodes.length} حلقة على ${pages} ملفات`);
     }
 
-    // تحديث الإحصائيات في progress.json
+    // تحديث الإحصائيات
     async updateStatistics() {
-        // عدد المسلسلات
         const totalSeries = this.seriesList.length;
         
-        // عدد الحلقات الكلي (بدون تكرار)
         const allEpisodesMap = new Map();
         for (const ep of this.allEpisodes) allEpisodesMap.set(ep.id, ep);
         for (const ep of this.newEpisodes) allEpisodesMap.set(ep.id, ep);
         const totalEpisodes = allEpisodesMap.size;
         
-        // آخر 10 حلقات للعرض السريع
         const allEpisodesForLatest = Array.from(allEpisodesMap.values());
         allEpisodesForLatest.sort((a, b) => new Date(b.extracted_at) - new Date(a.extracted_at));
         
@@ -732,7 +701,6 @@ class SeriesExtractor {
             added_at: ep.extracted_at
         }));
         
-        // آخر 5 مسلسلات مضافة
         const latestSeries = this.seriesList
             .sort((a, b) => new Date(b.last_update) - new Date(a.last_update))
             .slice(0, 5)
@@ -760,7 +728,7 @@ class SeriesExtractor {
     // تشغيل الاستخراج الكامل
     async run() {
         console.log('='.repeat(60));
-        console.log('🎬 مستخرج مسلسلات وحلقات رمضان 2026 (نسخة سريعة)');
+        console.log('🎬 مستخرج مسلسلات وحلقات رمضان 2026 (نسخة محسنة)');
         if (this.isFirstScan) {
             console.log('📌 هذه هي المرة الأولى - سيتم استخراج كل الحلقات');
         } else {
@@ -768,13 +736,9 @@ class SeriesExtractor {
         }
         console.log('='.repeat(60));
         
-        // 0. تحميل الحلقات الموجودة
         await this.loadAllEpisodes();
-        
-        // 1. استخراج جميع المسلسلات (من صفحة واحدة)
         await this.extractAllSeries();
         
-        // 2. معالجة كل مسلسل
         console.log('\n' + '='.repeat(60));
         console.log('🔄 جاري معالجة المسلسلات واستخراج الحلقات...');
         console.log('='.repeat(60));
@@ -784,29 +748,18 @@ class SeriesExtractor {
             console.log(`\n[${i + 1}/${this.seriesList.length}]`);
             await this.processSeries(series);
             
-            // تأخير بين المسلسلات
             if (i < this.seriesList.length - 1) {
                 await new Promise(resolve => setTimeout(resolve, 1000));
             }
         }
         
-        // 3. حفظ المسلسلات في series/Home.json
         await this.saveSeriesHome();
-        
-        // 4. حفظ جميع الحلقات في ملفات pageN.json
         await this.saveAllEpisodes();
-        
-        // 5. حفظ آخر 10 حلقات في eclips/Home.json
         await this.saveLatestEpisodesHome();
-        
-        // 6. تحديث الإحصائيات في progress.json
         await this.updateStatistics();
-        
-        // 7. طباعة التقرير النهائي
         this.printReport();
     }
 
-    // طباعة التقرير النهائي
     printReport() {
         console.log('\n' + '='.repeat(60));
         console.log('📊 تقرير اليوم:');
@@ -814,7 +767,6 @@ class SeriesExtractor {
         console.log(`📁 المسلسلات: ${this.seriesList.length} مسلسل`);
         console.log(`🆕 الحلقات الجديدة اليوم: ${this.newEpisodes.length} حلقة`);
         
-        // حساب إجمالي الحلقات بدون تكرار
         const allEpisodesMap = new Map();
         for (const ep of this.allEpisodes) allEpisodesMap.set(ep.id, ep);
         for (const ep of this.newEpisodes) allEpisodesMap.set(ep.id, ep);
@@ -841,15 +793,12 @@ class SeriesExtractor {
 // ========== التشغيل الرئيسي ==========
 (async () => {
     try {
-        // تأكد من وجود المجلدات
         await fs.mkdir(path.join(CONFIG.DATA_DIR, CONFIG.SERIES_DIR), { recursive: true });
         await fs.mkdir(path.join(CONFIG.DATA_DIR, CONFIG.ECLIPS_DIR), { recursive: true });
         
-        // حمل سجل التقدم
         const progress = new ProgressTracker(CONFIG.DATA_DIR);
         await progress.load();
         
-        // شغل المستخرج
         const extractor = new SeriesExtractor(progress);
         await extractor.run();
         
