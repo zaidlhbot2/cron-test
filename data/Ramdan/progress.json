@@ -11456,15 +11456,15 @@
   "statistics": {
     "total_series": 94,
     "total_episodes": 841,
-    "new_episodes_today": 841,
-    "last_scan": "2026-02-28T00:59:25.965Z",
+    "new_episodes_today": 0,
+    "last_scan": "2026-02-28T02:08:47.010Z",
     "first_scan": false
   },
   "latest_episodes": [
     {
       "id": "d1c4e8a1c",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 1 الاولي",
       "number": 1,
       "season": 1,
@@ -11473,7 +11473,7 @@
     {
       "id": "b53c87205",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 2 الثانية",
       "number": 2,
       "season": 1,
@@ -11482,7 +11482,7 @@
     {
       "id": "732d6d6cf",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 3 الثالثة",
       "number": 3,
       "season": 1,
@@ -11491,7 +11491,7 @@
     {
       "id": "cdd30ed66",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 4 الرابعة",
       "number": 4,
       "season": 1,
@@ -11500,7 +11500,7 @@
     {
       "id": "3f7cc9951",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 5 الخامسة",
       "number": 5,
       "season": 1,
@@ -11509,7 +11509,7 @@
     {
       "id": "022014ffc",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 6 السادسة",
       "number": 6,
       "season": 1,
@@ -11518,7 +11518,7 @@
     {
       "id": "3640e3a13",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 7 السابعة",
       "number": 7,
       "season": 1,
@@ -11527,7 +11527,7 @@
     {
       "id": "b40356d72",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 8 الثامنة",
       "number": 8,
       "season": 1,
@@ -11536,7 +11536,7 @@
     {
       "id": "bd479c909",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 9 التاسعة",
       "number": 9,
       "season": 1,
@@ -11545,7 +11545,7 @@
     {
       "id": "a2aa31a86",
       "series_id": "0ed21e78f",
-      "series_title": "عايلة مايلة",
+      "series_title": "مسلسل عايلة مايلة",
       "title": "مسلسل عايلة مايلة الحلقة 10 العاشرة",
       "number": 10,
       "season": 1,
@@ -11557,31 +11557,31 @@
       "id": "81ce0a5d7",
       "title": "مسلسل علي كلاي",
       "image": "https://larozza.xyz/uploads/thumbs/0ec1512a8-1.jpg",
-      "added_at": "2026-02-28T00:26:30.594Z"
+      "added_at": "2026-02-28T02:00:16.404Z"
     },
     {
       "id": "d8cb9c11b",
       "title": "مسلسل الكينج",
       "image": "https://larozza.xyz/uploads/thumbs/92ae9f039-1.jpg",
-      "added_at": "2026-02-28T00:26:30.594Z"
+      "added_at": "2026-02-28T02:00:16.404Z"
     },
     {
       "id": "9",
       "title": "مسلسل المداح 6",
       "image": "",
-      "added_at": "2026-02-28T00:26:30.594Z"
+      "added_at": "2026-02-28T02:00:16.404Z"
     },
     {
       "id": "1cf22b484",
       "title": "مسلسل افراج",
       "image": "https://larozza.xyz/uploads/thumbs/372599929-1.jpg",
-      "added_at": "2026-02-28T00:26:30.594Z"
+      "added_at": "2026-02-28T02:00:16.404Z"
     },
     {
       "id": "ae583760b",
       "title": "مسلسل الست موناليزا",
       "image": "https://larozza.xyz/uploads/thumbs/cfee36307-1.jpg",
-      "added_at": "2026-02-28T00:26:30.594Z"
+      "added_at": "2026-02-28T02:00:16.404Z"
     }
   ]
 }
