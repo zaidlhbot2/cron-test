@@ -12,9 +12,9 @@ class LaroozaPagedExtractor {
         
         // نفس الإعدادات
         this.baseUrls = [
-            'https://larooza.life',
-            'https://www.larooza.life',
-            'http://larooza.life'
+            'https://q.larozavideo.net',
+            'https://www.larozavideo.net',
+            'https://larozavideo.net'
         ];
         this.baseUrl = this.baseUrls[0];
         
