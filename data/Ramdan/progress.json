@@ -13029,8 +13029,8 @@
   "statistics": {
     "total_series": 94,
     "total_episodes": 962,
-    "new_episodes_today": 16,
-    "last_scan": "2026-03-02T02:21:06.945Z",
+    "new_episodes_today": 0,
+    "last_scan": "2026-03-02T07:09:39.794Z",
     "first_scan": false
   },
   "latest_episodes": [
@@ -13139,32 +13139,32 @@
     {
       "id": "81ce0a5d7",
       "title": "مسلسل علي كلاي",
-      "image": "https://larozza.monster/uploads/thumbs/0ec1512a8-1.jpg",
-      "added_at": "2026-03-02T02:13:22.895Z"
+      "image": "",
+      "added_at": "2026-03-02T07:01:01.746Z"
     },
     {
       "id": "d8cb9c11b",
       "title": "مسلسل الكينج",
       "image": "https://larozza.monster/uploads/thumbs/92ae9f039-1.jpg",
-      "added_at": "2026-03-02T02:13:22.895Z"
+      "added_at": "2026-03-02T07:01:01.746Z"
     },
     {
       "id": "9",
       "title": "مسلسل المداح 6",
       "image": "",
-      "added_at": "2026-03-02T02:13:22.895Z"
+      "added_at": "2026-03-02T07:01:01.746Z"
     },
     {
       "id": "1cf22b484",
       "title": "مسلسل افراج",
       "image": "https://larozza.monster/uploads/thumbs/372599929-1.jpg",
-      "added_at": "2026-03-02T02:13:22.895Z"
+      "added_at": "2026-03-02T07:01:01.746Z"
     },
     {
       "id": "ae583760b",
       "title": "مسلسل الست موناليزا",
       "image": "https://larozza.monster/uploads/thumbs/cfee36307-1.jpg",
-      "added_at": "2026-03-02T02:13:22.895Z"
+      "added_at": "2026-03-02T07:01:01.746Z"
     }
   ]
 }
