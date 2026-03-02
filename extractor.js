@@ -8,7 +8,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const CONFIG = {
-    BASE_URL: 'https://laroza.lol',
+    BASE_URL: 'https://larozza.mom',
     CATEGORY: 'ramadan-2026',
     PROXIES: [
         'https://api.codetabs.com/v1/proxy?quest=',
