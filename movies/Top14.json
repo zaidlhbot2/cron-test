@@ -1,9 +1,9 @@
 {
   "fileName": "Top14.json",
   "fileNumber": 14,
-  "totalMovies": 265,
+  "totalMovies": 266,
   "created": "2026-02-09T21:15:30.475Z",
-  "lastUpdated": "2026-03-02T23:48:22.888Z",
+  "lastUpdated": "2026-03-03T01:10:18.006Z",
   "moviesPerFileLimit": 250,
   "movies": [
     {
@@ -41522,7 +41522,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -41611,9 +41611,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-love-me-love-me-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 59,
+      "position": 60,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:48:20.888Z",
+      "scrapedAt": "2026-03-03T01:10:17.905Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -41918,7 +41918,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -42007,9 +42007,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-if-i-run-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 17,
+      "position": 18,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:47:00.474Z",
+      "scrapedAt": "2026-03-03T01:08:48.688Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -42052,7 +42052,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -42141,9 +42141,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-bring-the-law-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 18,
+      "position": 19,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:47:02.356Z",
+      "scrapedAt": "2026-03-03T01:08:50.749Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -42185,7 +42185,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -42266,9 +42266,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-boku-to-roboko-movie-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 6,
+      "position": 7,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:39.583Z",
+      "scrapedAt": "2026-03-03T01:08:25.305Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -42307,7 +42307,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -42388,9 +42388,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-you-stole-my-heart-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 7,
+      "position": 8,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:41.475Z",
+      "scrapedAt": "2026-03-03T01:08:27.362Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -42432,7 +42432,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -42513,9 +42513,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-wuthering-heights-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 8,
+      "position": 9,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:43.354Z",
+      "scrapedAt": "2026-03-03T01:08:29.449Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -42553,7 +42553,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -42634,9 +42634,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-royally-screwed-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 9,
+      "position": 10,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:45.235Z",
+      "scrapedAt": "2026-03-03T01:08:31.501Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -42677,7 +42677,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -42758,9 +42758,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-i-can-only-imagine-2-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 10,
+      "position": 11,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:47.117Z",
+      "scrapedAt": "2026-03-03T01:08:33.554Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -42803,7 +42803,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -42884,9 +42884,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-how-to-make-a-killing-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 11,
+      "position": 12,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:49.001Z",
+      "scrapedAt": "2026-03-03T01:08:35.619Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -42929,7 +42929,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -43010,9 +43010,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-good-luck-have-fun-dont-die-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 12,
+      "position": 13,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:50.892Z",
+      "scrapedAt": "2026-03-03T01:08:37.830Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -43055,7 +43055,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -43136,9 +43136,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-crime-101-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 13,
+      "position": 14,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:52.778Z",
+      "scrapedAt": "2026-03-03T01:08:40.177Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -43181,7 +43181,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -43270,9 +43270,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-psycho-killer-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 4,
+      "position": 5,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:35.795Z",
+      "scrapedAt": "2026-03-03T01:08:21.189Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -43314,7 +43314,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -43403,9 +43403,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-scream-7-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 5,
+      "position": 6,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:37.687Z",
+      "scrapedAt": "2026-03-03T01:08:23.242Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -43442,7 +43442,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -43523,9 +43523,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-unrequited-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 1,
+      "position": 2,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:30.037Z",
+      "scrapedAt": "2026-03-03T01:08:15.016Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -43561,7 +43561,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -43650,9 +43650,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-dating-app-killer-the-monica-white-story-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 2,
+      "position": 3,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:31.984Z",
+      "scrapedAt": "2026-03-03T01:08:17.088Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -43695,7 +43695,7 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "2026-03-02",
+      "runtime": "2026-03-03",
       "genres": [],
       "countries": [],
       "watchServers": [
@@ -43776,12 +43776,153 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-giant-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 3,
+      "position": 4,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-02T23:46:33.911Z",
+      "scrapedAt": "2026-03-03T01:08:19.138Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "206217",
+      "title": "فيلم The Shrinking Man 2025 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-shrinking-man-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=206217",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BZDczZmYxNWEtNjNkNy00OWEwLWE3YjQtMzJmNWE5N2VlYjI4XkEyXkFqcGc@-520x650.jpg",
+      "imdbRating": "5.9",
+      "story": "في إطار من المغامرات والخيال العلمي، يتعرض رجل لظاهرة غريبة حينما ينكمش في الحجم ويجد نفسه محاصرًا بمنزله، فيكافح من أجل البقاء ضد البيئة والحيوانات المعادية، ويسابق الزمن في سبيل استعادة حجمه الطبيعي.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "خيال علمي",
+          "مغامرة"
+        ],
+        "جودة الفيلم": [
+          "1080p BluRay"
+        ],
+        "توقيت الفيلم": "99 دقيقة",
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة الفيلم": [
+          "فرنسا"
+        ],
+        "بطولة": [
+          "Daphné Richard",
+          "Jean Dujardin",
+          "Marie-Josée Croze",
+          "Miranda Raison"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-03",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-shrinking-man-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-ult52gjte92v.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-shrinking-man-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/ult52gjte92v.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/hromyb86oyzn",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/ij274zjks2a8",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://ddownload.com/ep3cyep9sjkz",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/D69F05A60EAA9A0",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1fichier.com/?8wfydtobwtxbcds7jaqx",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/395f959b9fee995ffc7ce47510505fab",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/510lmxktyuw9",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/1uPb4",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-shrinking-man-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 1,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-03T01:08:13.097Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 9,
         "genresCount": 0
       }
     }
