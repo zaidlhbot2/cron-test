@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-03-02T18:53:21.264Z",
+  "last_scan": "2026-03-03T02:26:59.513Z",
   "series": {
     "193369381": {
       "last_episode": "c5c18decf",
@@ -476,7 +476,7 @@
       }
     },
     "516dbb3e7": {
-      "last_episode": "67244d4bc",
+      "last_episode": "f9c244902",
       "last_season": 1,
       "episodes": {
         "715c38ccc": {
@@ -543,6 +543,12 @@
           "extracted_at": "2026-03-02T02:14:24.674Z",
           "title": "مسلسل وننسى اللي كان الحلقة 13 الثالثة عشر",
           "number": 13,
+          "season": 1
+        },
+        "f9c244902": {
+          "extracted_at": "2026-03-03T02:23:20.013Z",
+          "title": "مسلسل وننسى اللي كان الحلقة 14 الرابعة عشر",
+          "number": 14,
           "season": 1
         }
       }
@@ -1178,7 +1184,7 @@
       }
     },
     "fd8b9e5e9": {
-      "last_episode": "3db8a22df",
+      "last_episode": "2f80c57cb",
       "last_season": 1,
       "episodes": {
         "f1f951efc": {
@@ -1257,6 +1263,12 @@
           "extracted_at": "2026-03-01T18:41:18.811Z",
           "title": "مسلسل اسال روحك الحلقة 13 الثالثة عشر",
           "number": 13,
+          "season": 1
+        },
+        "2f80c57cb": {
+          "extracted_at": "2026-03-03T02:24:15.702Z",
+          "title": "مسلسل اسال روحك الحلقة 14 الرابعة عشر",
+          "number": 14,
           "season": 1
         }
       }
@@ -1442,7 +1454,7 @@
       }
     },
     "a0bee9f69": {
-      "last_episode": "d36da1b84",
+      "last_episode": "a4a8560a3",
       "last_season": 1,
       "episodes": {
         "edfa691a8": {
@@ -1587,6 +1599,12 @@
           "extracted_at": "2026-03-02T18:33:13.700Z",
           "title": "برنامج الف ليلة مع فيفي عبده الحلقة 24 الرابعة والعشرون",
           "number": 24,
+          "season": 1
+        },
+        "a4a8560a3": {
+          "extracted_at": "2026-03-03T02:24:23.286Z",
+          "title": "برنامج الف ليلة مع فيفي عبده الحلقة 25 الخامسة والعشرون",
+          "number": 25,
           "season": 1
         }
       }
@@ -1850,7 +1868,7 @@
       }
     },
     "cd537c4e8": {
-      "last_episode": "89f131ee6",
+      "last_episode": "a961f7585",
       "last_season": 1,
       "episodes": {
         "a9b93d2c4": {
@@ -1905,6 +1923,12 @@
           "extracted_at": "2026-03-02T02:17:21.602Z",
           "title": "مسلسل بالحرام الحلقة 14 الرابعة عشر",
           "number": 14,
+          "season": 1
+        },
+        "a961f7585": {
+          "extracted_at": "2026-03-03T02:24:33.458Z",
+          "title": "مسلسل بالحرام الحلقة 15 الخامسة عشر",
+          "number": 15,
           "season": 1
         }
       }
@@ -2084,7 +2108,7 @@
       }
     },
     "85aa7b7ee": {
-      "last_episode": "9ae69ba6a",
+      "last_episode": "388f0fbcf",
       "last_season": 1,
       "episodes": {
         "6b94c076f": {
@@ -2158,11 +2182,17 @@
           "title": "مسلسل الهيبة راس الجبل الحلقة 12 الثانية عشر",
           "number": 12,
           "season": 1
+        },
+        "388f0fbcf": {
+          "extracted_at": "2026-03-03T02:24:43.218Z",
+          "title": "مسلسل الهيبة راس الجبل الحلقة 13 الثالثة عشر",
+          "number": 13,
+          "season": 1
         }
       }
     },
     "6e9a2838c": {
-      "last_episode": "05e8d1763",
+      "last_episode": "ca65b504f",
       "last_season": 1,
       "episodes": {
         "dbd8428e5": {
@@ -2241,6 +2271,12 @@
           "extracted_at": "2026-03-02T02:17:50.447Z",
           "title": "مسلسل انا وهي وهيا الحلقة 13 الثالثة عشر",
           "number": 13,
+          "season": 1
+        },
+        "ca65b504f": {
+          "extracted_at": "2026-03-03T02:24:46.247Z",
+          "title": "مسلسل انا وهي وهيا الحلقة 14 الرابعة عشر",
+          "number": 14,
           "season": 1
         }
       }
@@ -3134,7 +3170,7 @@
       }
     },
     "2c5882c9e": {
-      "last_episode": "7c1a941ec",
+      "last_episode": "5f0c38a2c",
       "last_season": 1,
       "episodes": {
         "a88b03cac": {
@@ -3213,6 +3249,12 @@
           "extracted_at": "2026-03-02T02:18:12.860Z",
           "title": "مسلسل ابطال الرمال الحلقة 13 الثالثة عشر",
           "number": 13,
+          "season": 1
+        },
+        "5f0c38a2c": {
+          "extracted_at": "2026-03-03T02:25:02.056Z",
+          "title": "مسلسل ابطال الرمال الحلقة 14 الرابعة عشر",
+          "number": 14,
           "season": 1
         }
       }
@@ -3314,7 +3356,7 @@
       }
     },
     "a6e8205e8": {
-      "last_episode": "2f5abf45a",
+      "last_episode": "911b33405",
       "last_season": 1,
       "episodes": {
         "b0833bd3f": {
@@ -3400,11 +3442,17 @@
           "title": "مسلسل لوبي الغرام الحلقة 14 الرابعة عشر",
           "number": 14,
           "season": 1
+        },
+        "911b33405": {
+          "extracted_at": "2026-03-03T02:25:07.877Z",
+          "title": "مسلسل لوبي الغرام الحلقة 15 الخامسة عشر",
+          "number": 15,
+          "season": 1
         }
       }
     },
     "df84ca7f0": {
-      "last_episode": "bd329cab9",
+      "last_episode": "126035bb0",
       "last_season": 1,
       "episodes": {
         "6c3a8bdfe": {
@@ -3483,6 +3531,12 @@
           "extracted_at": "2026-03-02T02:18:39.103Z",
           "title": "مسلسل متاهة الحلقة 13 الثالثة عشر",
           "number": 13,
+          "season": 1
+        },
+        "126035bb0": {
+          "extracted_at": "2026-03-03T02:25:13.543Z",
+          "title": "مسلسل متاهة الحلقة 14 الرابعة عشر",
+          "number": 14,
           "season": 1
         }
       }
@@ -3770,7 +3824,7 @@
       }
     },
     "4b0288b20": {
-      "last_episode": "30899e711",
+      "last_episode": "063453742",
       "last_season": 1,
       "episodes": {
         "e5a15404f": {
@@ -3856,11 +3910,17 @@
           "title": "مسلسل كحيلان الحلقة 14 الرابعة عشر",
           "number": 14,
           "season": 1
+        },
+        "063453742": {
+          "extracted_at": "2026-03-03T02:25:31.539Z",
+          "title": "مسلسل كحيلان الحلقة 15 الخامسة عشر",
+          "number": 15,
+          "season": 1
         }
       }
     },
     "3d171dc50": {
-      "last_episode": "cff327d83",
+      "last_episode": "24bd77bbd",
       "last_season": 1,
       "episodes": {
         "1d0241458": {
@@ -3939,6 +3999,12 @@
           "extracted_at": "2026-03-02T02:18:57.527Z",
           "title": "مسلسل حمدية الحلقة 13 الثالثة عشر",
           "number": 13,
+          "season": 1
+        },
+        "24bd77bbd": {
+          "extracted_at": "2026-03-03T02:25:34.527Z",
+          "title": "مسلسل حمدية الحلقة 14 الرابعة عشر",
+          "number": 14,
           "season": 1
         }
       }
@@ -4766,7 +4832,7 @@
       }
     },
     "0cab7b5ce": {
-      "last_episode": "60f05df7f",
+      "last_episode": "901089a95",
       "last_season": 1,
       "episodes": {
         "c4e08bffd": {
@@ -4851,6 +4917,12 @@
           "extracted_at": "2026-03-02T18:35:36.295Z",
           "title": "مسلسل النويلاتي الحلقة 14 الرابعة عشر",
           "number": 14,
+          "season": 1
+        },
+        "901089a95": {
+          "extracted_at": "2026-03-03T02:26:06.324Z",
+          "title": "مسلسل النويلاتي الحلقة 15 الخامسة عشر",
+          "number": 15,
           "season": 1
         }
       }
@@ -6092,7 +6164,7 @@
       }
     },
     "94d42abbd": {
-      "last_episode": "f0f1e88b9",
+      "last_episode": "342a23cd2",
       "last_season": 1,
       "episodes": {
         "7a29b3c8b": {
@@ -6166,11 +6238,17 @@
           "title": "مسلسل الخطيفة الحلقة 12 الثانية عشر",
           "number": 12,
           "season": 1
+        },
+        "342a23cd2": {
+          "extracted_at": "2026-03-03T02:26:44.524Z",
+          "title": "مسلسل الخطيفة الحلقة 13 الثالثة عشر",
+          "number": 13,
+          "season": 1
         }
       }
     },
     "157b245c0": {
-      "last_episode": "35b2dcd00",
+      "last_episode": "a2b53d1cb",
       "last_season": 1,
       "episodes": {
         "4542cf943": {
@@ -6244,11 +6322,17 @@
           "title": "مسلسل عرش الشيطان الحلقة 12 الثانية عشر",
           "number": 12,
           "season": 1
+        },
+        "a2b53d1cb": {
+          "extracted_at": "2026-03-03T02:26:47.592Z",
+          "title": "مسلسل عرش الشيطان الحلقة 13 الثالثة عشر",
+          "number": 13,
+          "season": 1
         }
       }
     },
     "249d68f38": {
-      "last_episode": "5db5e959f",
+      "last_episode": "9ebf2e5fc",
       "last_season": 1,
       "episodes": {
         "408ac47a6": {
@@ -6321,6 +6405,12 @@
           "extracted_at": "2026-03-02T02:20:56.239Z",
           "title": "مسلسل عمارة السعادة الحلقة 12 الثانية عشر",
           "number": 12,
+          "season": 1
+        },
+        "9ebf2e5fc": {
+          "extracted_at": "2026-03-03T02:26:50.826Z",
+          "title": "مسلسل عمارة السعادة الحلقة 13 الثالثة عشر",
+          "number": 13,
           "season": 1
         }
       }
@@ -6446,7 +6536,7 @@
       }
     },
     "0ed21e78f": {
-      "last_episode": "5079639a2",
+      "last_episode": "661bff106",
       "last_season": 1,
       "episodes": {
         "d1c4e8a1c": {
@@ -6531,6 +6621,12 @@
           "extracted_at": "2026-03-02T02:21:06.402Z",
           "title": "مسلسل عايلة مايلة الحلقة 14 الرابعة عشر",
           "number": 14,
+          "season": 1
+        },
+        "661bff106": {
+          "extracted_at": "2026-03-03T02:26:59.513Z",
+          "title": "مسلسل عايلة مايلة الحلقة 15 الخامسة عشر",
+          "number": 15,
           "season": 1
         }
       }
@@ -13557,147 +13653,259 @@
       "title": "مسلسل راس الافعى الحلقة 14 الرابعة عشر",
       "number": 14,
       "season": 1
+    },
+    "f9c244902": {
+      "series_id": "516dbb3e7",
+      "extracted_at": "2026-03-03T02:23:20.013Z",
+      "title": "مسلسل وننسى اللي كان الحلقة 14 الرابعة عشر",
+      "number": 14,
+      "season": 1
+    },
+    "2f80c57cb": {
+      "series_id": "fd8b9e5e9",
+      "extracted_at": "2026-03-03T02:24:15.702Z",
+      "title": "مسلسل اسال روحك الحلقة 14 الرابعة عشر",
+      "number": 14,
+      "season": 1
+    },
+    "a4a8560a3": {
+      "series_id": "a0bee9f69",
+      "extracted_at": "2026-03-03T02:24:23.286Z",
+      "title": "برنامج الف ليلة مع فيفي عبده الحلقة 25 الخامسة والعشرون",
+      "number": 25,
+      "season": 1
+    },
+    "a961f7585": {
+      "series_id": "cd537c4e8",
+      "extracted_at": "2026-03-03T02:24:33.458Z",
+      "title": "مسلسل بالحرام الحلقة 15 الخامسة عشر",
+      "number": 15,
+      "season": 1
+    },
+    "388f0fbcf": {
+      "series_id": "85aa7b7ee",
+      "extracted_at": "2026-03-03T02:24:43.218Z",
+      "title": "مسلسل الهيبة راس الجبل الحلقة 13 الثالثة عشر",
+      "number": 13,
+      "season": 1
+    },
+    "ca65b504f": {
+      "series_id": "6e9a2838c",
+      "extracted_at": "2026-03-03T02:24:46.247Z",
+      "title": "مسلسل انا وهي وهيا الحلقة 14 الرابعة عشر",
+      "number": 14,
+      "season": 1
+    },
+    "5f0c38a2c": {
+      "series_id": "2c5882c9e",
+      "extracted_at": "2026-03-03T02:25:02.056Z",
+      "title": "مسلسل ابطال الرمال الحلقة 14 الرابعة عشر",
+      "number": 14,
+      "season": 1
+    },
+    "911b33405": {
+      "series_id": "a6e8205e8",
+      "extracted_at": "2026-03-03T02:25:07.877Z",
+      "title": "مسلسل لوبي الغرام الحلقة 15 الخامسة عشر",
+      "number": 15,
+      "season": 1
+    },
+    "126035bb0": {
+      "series_id": "df84ca7f0",
+      "extracted_at": "2026-03-03T02:25:13.543Z",
+      "title": "مسلسل متاهة الحلقة 14 الرابعة عشر",
+      "number": 14,
+      "season": 1
+    },
+    "063453742": {
+      "series_id": "4b0288b20",
+      "extracted_at": "2026-03-03T02:25:31.539Z",
+      "title": "مسلسل كحيلان الحلقة 15 الخامسة عشر",
+      "number": 15,
+      "season": 1
+    },
+    "24bd77bbd": {
+      "series_id": "3d171dc50",
+      "extracted_at": "2026-03-03T02:25:34.527Z",
+      "title": "مسلسل حمدية الحلقة 14 الرابعة عشر",
+      "number": 14,
+      "season": 1
+    },
+    "901089a95": {
+      "series_id": "0cab7b5ce",
+      "extracted_at": "2026-03-03T02:26:06.324Z",
+      "title": "مسلسل النويلاتي الحلقة 15 الخامسة عشر",
+      "number": 15,
+      "season": 1
+    },
+    "342a23cd2": {
+      "series_id": "94d42abbd",
+      "extracted_at": "2026-03-03T02:26:44.524Z",
+      "title": "مسلسل الخطيفة الحلقة 13 الثالثة عشر",
+      "number": 13,
+      "season": 1
+    },
+    "a2b53d1cb": {
+      "series_id": "157b245c0",
+      "extracted_at": "2026-03-03T02:26:47.592Z",
+      "title": "مسلسل عرش الشيطان الحلقة 13 الثالثة عشر",
+      "number": 13,
+      "season": 1
+    },
+    "9ebf2e5fc": {
+      "series_id": "249d68f38",
+      "extracted_at": "2026-03-03T02:26:50.826Z",
+      "title": "مسلسل عمارة السعادة الحلقة 13 الثالثة عشر",
+      "number": 13,
+      "season": 1
+    },
+    "661bff106": {
+      "series_id": "0ed21e78f",
+      "extracted_at": "2026-03-03T02:26:59.513Z",
+      "title": "مسلسل عايلة مايلة الحلقة 15 الخامسة عشر",
+      "number": 15,
+      "season": 1
     }
   },
   "statistics": {
     "total_series": 94,
-    "total_episodes": 1003,
-    "new_episodes_today": 2,
-    "last_scan": "2026-03-02T18:57:12.401Z",
+    "total_episodes": 1019,
+    "new_episodes_today": 16,
+    "last_scan": "2026-03-03T02:27:00.060Z",
     "first_scan": false
   },
   "latest_episodes": [
     {
-      "id": "e6a0f1007",
-      "series_id": "1c76263d2",
-      "series_title": "مسلسل رأس الأفعى",
-      "title": "مسلسل راس الافعى الحلقة 14 الرابعة عشر",
-      "image": "https://larozza.makeup/uploads/thumbs/22ac311df-1.jpg",
-      "number": 14,
-      "season": 1,
-      "added_at": "2026-03-02T18:53:20.619Z"
-    },
-    {
-      "id": "fa5418e3f",
-      "series_id": "b382bebdb",
-      "series_title": "مسلسل هي كيميا",
-      "title": "مسلسل هي كيميا الحلقة 15 الخامسة عشر",
-      "image": "https://larozza.makeup/uploads/thumbs/78d4216bf-1.jpg",
+      "id": "661bff106",
+      "series_id": "0ed21e78f",
+      "series_title": "مسلسل عايلة مايلة",
+      "title": "مسلسل عايلة مايلة الحلقة 15 الخامسة عشر",
+      "image": "https://larozza.space/uploads/thumbs/d1c4e8a1c-1.jpg",
       "number": 15,
       "season": 1,
-      "added_at": "2026-03-02T18:53:03.441Z"
+      "added_at": "2026-03-03T02:26:58.948Z"
     },
     {
-      "id": "5734bd419",
-      "series_id": "27f70fd79",
-      "series_title": "مسلسل نورية نصيب",
-      "title": "مسلسل نورية نصيب الحلقة 5 الخامسة",
-      "image": "https://larozza.makeup/uploads/thumbs/0e712d981-1.jpg",
-      "number": 5,
+      "id": "9ebf2e5fc",
+      "series_id": "249d68f38",
+      "series_title": "مسلسل عمارة السعادة",
+      "title": "مسلسل عمارة السعادة الحلقة 13 الثالثة عشر",
+      "image": "https://larozza.space/uploads/thumbs/408ac47a6-1.jpg",
+      "number": 13,
       "season": 1,
-      "added_at": "2026-03-02T18:36:39.518Z"
+      "added_at": "2026-03-03T02:26:50.203Z"
     },
     {
-      "id": "625449c1c",
-      "series_id": "f6ba66438",
-      "series_title": "مسلسل سموم القيظ",
-      "title": "مسلسل سموم القيظ الحلقة 14 الرابعة عشر",
-      "image": "https://larozza.makeup/uploads/thumbs/8a5e68a1d-1.jpg",
-      "number": 14,
+      "id": "a2b53d1cb",
+      "series_id": "157b245c0",
+      "series_title": "مسلسل عرش الشيطان",
+      "title": "مسلسل عرش الشيطان الحلقة 13 الثالثة عشر",
+      "image": "https://larozza.space/uploads/thumbs/4542cf943-1.jpg",
+      "number": 13,
       "season": 1,
-      "added_at": "2026-03-02T18:36:14.517Z"
+      "added_at": "2026-03-03T02:26:47.122Z"
     },
     {
-      "id": "01b0654f9",
-      "series_id": "70efa0e07",
-      "series_title": "مسلسل المحافظة 15",
-      "title": "مسلسل المحافظة 15 الحلقة 14 الرابعة عشر",
-      "image": "https://larozza.makeup/uploads/thumbs/52fca8afd-1.jpg",
-      "number": 14,
+      "id": "342a23cd2",
+      "series_id": "94d42abbd",
+      "series_title": "مسلسل الخطيفة",
+      "title": "مسلسل الخطيفة الحلقة 13 الثالثة عشر",
+      "image": "https://larozza.space/uploads/thumbs/7a29b3c8b-1.jpg",
+      "number": 13,
       "season": 1,
-      "added_at": "2026-03-02T18:36:09.683Z"
+      "added_at": "2026-03-03T02:26:43.852Z"
     },
     {
-      "id": "da217bfa2",
-      "series_id": "7417b359a",
-      "series_title": "مسلسل نوبة وتوبة",
-      "title": "مسلسل نوبة وتوبة الحلقة 7 السابعة",
-      "image": "https://larozza.makeup/uploads/thumbs/fa28ee052-1.jpg",
-      "number": 7,
-      "season": 1,
-      "added_at": "2026-03-02T18:35:55.407Z"
-    },
-    {
-      "id": "542361d5a",
-      "series_id": "7417b359a",
-      "series_title": "مسلسل نوبة وتوبة",
-      "title": "مسلسل نوبة وتوبة الحلقة 8 الثامنة",
-      "image": "https://larozza.makeup/uploads/thumbs/fa28ee052-1.jpg",
-      "number": 8,
-      "season": 1,
-      "added_at": "2026-03-02T18:35:55.407Z"
-    },
-    {
-      "id": "c59a937e4",
-      "series_id": "7564760ba",
-      "series_title": "مسلسل لحظات مسروقة",
-      "title": "مسلسل لحظات مسروقة الحلقة 16 السادسة عشر",
-      "image": "https://larozza.makeup/uploads/thumbs/7230a4f14-1.jpg",
-      "number": 16,
-      "season": 1,
-      "added_at": "2026-03-02T18:35:49.669Z"
-    },
-    {
-      "id": "d15fd34f0",
-      "series_id": "d4b0669ce",
-      "series_title": "مسلسل بنت النعمان",
-      "title": "مسلسل بنت النعمان الحلقة 14 الرابعة عشر",
-      "image": "https://larozza.makeup/uploads/thumbs/9424dd412-1.jpg",
-      "number": 14,
-      "season": 1,
-      "added_at": "2026-03-02T18:35:41.559Z"
-    },
-    {
-      "id": "60f05df7f",
+      "id": "901089a95",
       "series_id": "0cab7b5ce",
       "series_title": "مسلسل النويلاتي",
-      "title": "مسلسل النويلاتي الحلقة 14 الرابعة عشر",
-      "image": "https://larozza.makeup/uploads/thumbs/4efa48074-1.jpg",
+      "title": "مسلسل النويلاتي الحلقة 15 الخامسة عشر",
+      "image": "https://larozza.space/uploads/thumbs/4efa48074-1.jpg",
+      "number": 15,
+      "season": 1,
+      "added_at": "2026-03-03T02:26:05.738Z"
+    },
+    {
+      "id": "24bd77bbd",
+      "series_id": "3d171dc50",
+      "series_title": "مسلسل حمدية",
+      "title": "مسلسل حمدية الحلقة 14 الرابعة عشر",
+      "image": "https://larozza.space/uploads/thumbs/1d0241458-1.jpg",
       "number": 14,
       "season": 1,
-      "added_at": "2026-03-02T18:35:35.652Z"
+      "added_at": "2026-03-03T02:25:34.093Z"
+    },
+    {
+      "id": "063453742",
+      "series_id": "4b0288b20",
+      "series_title": "مسلسل كحيلان",
+      "title": "مسلسل كحيلان الحلقة 15 الخامسة عشر",
+      "image": "https://larozza.space/uploads/thumbs/e5a15404f-1.jpg",
+      "number": 15,
+      "season": 1,
+      "added_at": "2026-03-03T02:25:31.023Z"
+    },
+    {
+      "id": "126035bb0",
+      "series_id": "df84ca7f0",
+      "series_title": "مسلسل متاهة",
+      "title": "مسلسل متاهة الحلقة 14 الرابعة عشر",
+      "image": "https://larozza.space/uploads/thumbs/6c3a8bdfe-1.jpg",
+      "number": 14,
+      "season": 1,
+      "added_at": "2026-03-03T02:25:12.727Z"
+    },
+    {
+      "id": "911b33405",
+      "series_id": "a6e8205e8",
+      "series_title": "مسلسل لوبي الغرام",
+      "title": "مسلسل لوبي الغرام الحلقة 15 الخامسة عشر",
+      "image": "https://larozza.space/uploads/thumbs/b0833bd3f-1.jpg",
+      "number": 15,
+      "season": 1,
+      "added_at": "2026-03-03T02:25:07.331Z"
+    },
+    {
+      "id": "5f0c38a2c",
+      "series_id": "2c5882c9e",
+      "series_title": "مسلسل أبطال الرمال",
+      "title": "مسلسل ابطال الرمال الحلقة 14 الرابعة عشر",
+      "image": "https://larozza.space/uploads/thumbs/a88b03cac-1.jpg",
+      "number": 14,
+      "season": 1,
+      "added_at": "2026-03-03T02:25:01.458Z"
     }
   ],
   "latest_series": [
     {
+      "id": "97faca994",
+      "title": "مسلسل فخر الدلتا",
+      "image": "https://larozza.space/uploads/thumbs/Y5QgE4IPD-1.jpg",
+      "added_at": "2026-03-03T02:22:44.141Z"
+    },
+    {
+      "id": "b382bebdb",
+      "title": "مسلسل هي كيميا",
+      "image": "https://larozza.space/uploads/thumbs/78d4216bf-1.jpg",
+      "added_at": "2026-03-03T02:22:44.141Z"
+    },
+    {
+      "id": "2a78b780a",
+      "title": "مسلسل سوا سوا",
+      "image": "https://larozza.space/uploads/thumbs/d9e5cd10d-1.jpg",
+      "added_at": "2026-03-03T02:22:44.141Z"
+    },
+    {
+      "id": "C43F8E231",
+      "title": "مسلسل شارع الأعشى 2",
+      "image": "https://larozza.space/uploads/thumbs/a8cb67177-1.jpg",
+      "added_at": "2026-03-03T02:22:44.141Z"
+    },
+    {
       "id": "81ce0a5d7",
       "title": "مسلسل علي كلاي",
-      "image": "https://larozza.makeup/uploads/thumbs/0ec1512a8-1.jpg",
-      "added_at": "2026-03-02T18:52:49.446Z"
-    },
-    {
-      "id": "d8cb9c11b",
-      "title": "مسلسل الكينج",
-      "image": "https://larozza.makeup/uploads/thumbs/92ae9f039-1.jpg",
-      "added_at": "2026-03-02T18:52:49.446Z"
-    },
-    {
-      "id": "9",
-      "title": "مسلسل المداح 6",
-      "image": "",
-      "added_at": "2026-03-02T18:52:49.446Z"
-    },
-    {
-      "id": "1cf22b484",
-      "title": "مسلسل افراج",
-      "image": "https://larozza.makeup/uploads/thumbs/372599929-1.jpg",
-      "added_at": "2026-03-02T18:52:49.446Z"
-    },
-    {
-      "id": "ae583760b",
-      "title": "مسلسل الست موناليزا",
-      "image": "https://larozza.makeup/uploads/thumbs/cfee36307-1.jpg",
-      "added_at": "2026-03-02T18:52:49.446Z"
+      "image": "https://larozza.space/uploads/thumbs/0ec1512a8-1.jpg",
+      "added_at": "2026-03-03T02:22:44.140Z"
     }
   ]
 }
