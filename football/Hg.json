@@ -1,10 +1,110 @@
 {
-  "scrapedAt": "2026-03-03T19:37:31.157Z",
+  "scrapedAt": "2026-03-03T20:01:19.640Z",
   "source": "https://koraplus.blog/",
   "totalMatches": 8,
   "matches": [
     {
-      "id": "match_1772566641499_0",
+      "id": "match_1772568067968_0",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d8%aa%d8%b1%d8%a7%d8%b3%d8%a8%d9%88%d8%b1%d8%ac-%d9%88-%d8%b3%d8%aa%d8%a7%d8%af-%d8%b1%d9%8a%d9%85%d8%b3-%d8%a8%d8%ab/",
+      "title": "ستراسبورج vs ستاد ريمس",
+      "team1": {
+        "name": "ستراسبورج",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/03/479.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "ستاد ريمس",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/03/499.png",
+        "score": "0"
+      },
+      "score": "0-0",
+      "time": "غير معروف",
+      "status": "جارية الآن",
+      "channels": [],
+      "tournament": "كأس فرنسا - ربع النهائي",
+      "page": 1,
+      "position": 1,
+      "scrapedAt": "2026-03-03T20:01:07.968Z",
+      "watchServers": [
+        {
+          "type": "iframe",
+          "url": "https://4.wwwkoora.com/albaplayer/bein-sports-hd-5/",
+          "quality": "HD",
+          "server": "AlbaPlayer",
+          "id": "player_1"
+        }
+      ]
+    },
+    {
+      "id": "match_1772568067969_1",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%83%d9%88%d9%85%d9%88-%d9%88-%d8%a5%d9%86%d8%aa%d8%b1-%d9%85%d9%8a%d9%84%d8%a7%d9%86-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4/",
+      "title": "كومو vs إنتر ميلان",
+      "team1": {
+        "name": "كومو",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/6117-5.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "إنتر ميلان",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/224-5.png",
+        "score": "0"
+      },
+      "score": "0-0",
+      "time": "غير معروف",
+      "status": "جارية الآن",
+      "channels": [
+        "شاهد - Shahid VIP"
+      ],
+      "tournament": "كأس إيطاليا - نصف النهائي",
+      "page": 1,
+      "position": 2,
+      "scrapedAt": "2026-03-03T20:01:07.969Z",
+      "watchServers": [
+        {
+          "type": "iframe",
+          "url": "https://4.wwwkoora.com/albaplayer/bein-sports-hd-7/",
+          "quality": "HD",
+          "server": "AlbaPlayer",
+          "id": "player_1"
+        }
+      ]
+    },
+    {
+      "id": "match_1772568067970_2",
+      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d9%88-%d8%a3%d8%aa%d9%84%d8%aa%d9%8a%d9%83%d9%88-%d9%85%d8%af%d8%b1%d9%8a%d8%af/",
+      "title": "برشلونة vs أتلتيكو مدريد",
+      "team1": {
+        "name": "برشلونة",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/132-5.png",
+        "score": "0"
+      },
+      "team2": {
+        "name": "أتلتيكو مدريد",
+        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/134-6.png",
+        "score": "0"
+      },
+      "score": "0-0",
+      "time": "غير معروف",
+      "status": "جارية الآن",
+      "channels": [
+        "شاهد - Shahid VIP"
+      ],
+      "tournament": "كأس ملك إسبانيا - نصف النهائي",
+      "page": 1,
+      "position": 3,
+      "scrapedAt": "2026-03-03T20:01:07.970Z",
+      "watchServers": [
+        {
+          "type": "iframe",
+          "url": "https://4.wwwkoora.com/albaplayer/bein-sports-hd-6/",
+          "quality": "HD",
+          "server": "AlbaPlayer",
+          "id": "player_1"
+        }
+      ]
+    },
+    {
+      "id": "match_1772568067971_3",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%84%d9%8a%d8%af%d8%b2-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d9%88-%d8%b3%d9%86%d8%af%d8%b1%d9%84%d8%a7%d9%86%d8%af/",
       "title": "ليدز يونايتد vs سندرلاند",
       "team1": {
@@ -25,8 +125,8 @@
       ],
       "tournament": "الدوري الإنجليزي",
       "page": 1,
-      "position": 1,
-      "scrapedAt": "2026-03-03T19:37:21.499Z",
+      "position": 4,
+      "scrapedAt": "2026-03-03T20:01:07.971Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -38,7 +138,7 @@
       ]
     },
     {
-      "id": "match_1772566641500_1",
+      "id": "match_1772568067972_4",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab-%d9%88-%d8%a8%d8%b1%d9%8a%d9%86%d8%aa%d9%81%d9%88%d8%b1%d8%af-%d8%a8%d8%ab-%d9%85/",
       "title": "بورنموث vs برينتفورد",
       "team1": {
@@ -59,8 +159,8 @@
       ],
       "tournament": "الدوري الإنجليزي",
       "page": 1,
-      "position": 2,
-      "scrapedAt": "2026-03-03T19:37:21.500Z",
+      "position": 5,
+      "scrapedAt": "2026-03-03T20:01:07.972Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -72,7 +172,7 @@
       ]
     },
     {
-      "id": "match_1772566641501_2",
+      "id": "match_1772568067973_5",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a5%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86-%d9%88-%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4/",
       "title": "إيفرتون vs بيرنلي",
       "team1": {
@@ -93,8 +193,8 @@
       ],
       "tournament": "الدوري الإنجليزي",
       "page": 1,
-      "position": 3,
-      "scrapedAt": "2026-03-03T19:37:21.501Z",
+      "position": 6,
+      "scrapedAt": "2026-03-03T20:01:07.973Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -106,83 +206,7 @@
       ]
     },
     {
-      "id": "match_1772566641502_3",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d8%aa%d8%b1%d8%a7%d8%b3%d8%a8%d9%88%d8%b1%d8%ac-%d9%88-%d8%b3%d8%aa%d8%a7%d8%af-%d8%b1%d9%8a%d9%85%d8%b3-%d8%a8%d8%ab/",
-      "title": "ستراسبورج vs ستاد ريمس",
-      "team1": {
-        "name": "ستراسبورج",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/03/479.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "ستاد ريمس",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/03/499.png",
-        "score": "0"
-      },
-      "score": "0 - 0",
-      "time": "10 PM",
-      "status": "بعد قليل",
-      "channels": [],
-      "tournament": "كأس فرنسا - ربع النهائي",
-      "page": 1,
-      "position": 4,
-      "scrapedAt": "2026-03-03T19:37:21.502Z",
-      "watchServers": null
-    },
-    {
-      "id": "match_1772566641503_4",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%83%d9%88%d9%85%d9%88-%d9%88-%d8%a5%d9%86%d8%aa%d8%b1-%d9%85%d9%8a%d9%84%d8%a7%d9%86-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4/",
-      "title": "كومو vs إنتر ميلان",
-      "team1": {
-        "name": "كومو",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/6117-5.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "إنتر ميلان",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/224-5.png",
-        "score": "0"
-      },
-      "score": "0 - 0",
-      "time": "10 PM",
-      "status": "بعد قليل",
-      "channels": [
-        "شاهد - Shahid VIP"
-      ],
-      "tournament": "كأس إيطاليا - نصف النهائي",
-      "page": 1,
-      "position": 5,
-      "scrapedAt": "2026-03-03T19:37:21.503Z",
-      "watchServers": null
-    },
-    {
-      "id": "match_1772566641504_5",
-      "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d9%88-%d8%a3%d8%aa%d9%84%d8%aa%d9%8a%d9%83%d9%88-%d9%85%d8%af%d8%b1%d9%8a%d8%af/",
-      "title": "برشلونة vs أتلتيكو مدريد",
-      "team1": {
-        "name": "برشلونة",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/132-5.png",
-        "score": "0"
-      },
-      "team2": {
-        "name": "أتلتيكو مدريد",
-        "logo": "https://koraplus.blog/wp-content/uploads/2026/02/134-6.png",
-        "score": "0"
-      },
-      "score": "0 - 0",
-      "time": "10 PM",
-      "status": "بعد قليل",
-      "channels": [
-        "شاهد - Shahid VIP"
-      ],
-      "tournament": "كأس ملك إسبانيا - نصف النهائي",
-      "page": 1,
-      "position": 6,
-      "scrapedAt": "2026-03-03T19:37:21.504Z",
-      "watchServers": null
-    },
-    {
-      "id": "match_1772566641505_6",
+      "id": "match_1772568067974_6",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%88%d9%88%d9%84%d9%81%d8%b1%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86-%d9%88-%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84/",
       "title": "وولفرهامبتون vs ليفربول",
       "team1": {
@@ -197,26 +221,18 @@
       },
       "score": "0 - 0",
       "time": "10:15 PM",
-      "status": "لم تبدأ بعد",
+      "status": "بعد قليل",
       "channels": [
         "beIN SPORTS HD 1"
       ],
       "tournament": "الدوري الإنجليزي",
       "page": 1,
       "position": 7,
-      "scrapedAt": "2026-03-03T19:37:21.505Z",
-      "watchServers": [
-        {
-          "type": "iframe",
-          "url": "https://4.wwwkoora.com/albaplayer/bein-sports-hd-1/",
-          "quality": "HD",
-          "server": "AlbaPlayer",
-          "id": "player_1"
-        }
-      ]
+      "scrapedAt": "2026-03-03T20:01:07.974Z",
+      "watchServers": null
     },
     {
-      "id": "match_1772566641505_7",
+      "id": "match_1772568067975_7",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%86%d8%ac-%d9%84%d8%b4%d8%a8%d9%88%d9%86%d8%a9-%d9%88-%d8%a8%d9%88%d8%b1%d8%aa%d9%88-%d8%a8/",
       "title": "سبورتنج لشبونة vs بورتو",
       "team1": {
@@ -236,7 +252,7 @@
       "tournament": "كأس البرتغال - نصف النهائي",
       "page": 1,
       "position": 8,
-      "scrapedAt": "2026-03-03T19:37:21.505Z",
+      "scrapedAt": "2026-03-03T20:01:07.975Z",
       "watchServers": [
         {
           "type": "iframe",
