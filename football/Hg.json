@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-03-03T22:25:56.048Z",
+  "scrapedAt": "2026-03-03T23:24:43.445Z",
   "source": "https://koraplus.blog/",
   "totalMatches": 8,
   "matches": [
     {
-      "id": "match_1772576744377_0",
+      "id": "match_1772580271454_0",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%84%d9%8a%d8%af%d8%b2-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d9%88-%d8%b3%d9%86%d8%af%d8%b1%d9%84%d8%a7%d9%86%d8%af/",
       "title": "ليدز يونايتد vs سندرلاند",
       "team1": {
@@ -26,7 +26,7 @@
       "tournament": "الدوري الإنجليزي",
       "page": 1,
       "position": 1,
-      "scrapedAt": "2026-03-03T22:25:44.377Z",
+      "scrapedAt": "2026-03-03T23:24:31.454Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "id": "match_1772576744383_1",
+      "id": "match_1772580271456_1",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab-%d9%88-%d8%a8%d8%b1%d9%8a%d9%86%d8%aa%d9%81%d9%88%d8%b1%d8%af-%d8%a8%d8%ab-%d9%85/",
       "title": "بورنموث vs برينتفورد",
       "team1": {
@@ -60,7 +60,7 @@
       "tournament": "الدوري الإنجليزي",
       "page": 1,
       "position": 2,
-      "scrapedAt": "2026-03-03T22:25:44.383Z",
+      "scrapedAt": "2026-03-03T23:24:31.456Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "id": "match_1772576744384_2",
+      "id": "match_1772580271458_2",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a5%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86-%d9%88-%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4/",
       "title": "إيفرتون vs بيرنلي",
       "team1": {
@@ -94,7 +94,7 @@
       "tournament": "الدوري الإنجليزي",
       "page": 1,
       "position": 3,
-      "scrapedAt": "2026-03-03T22:25:44.384Z",
+      "scrapedAt": "2026-03-03T23:24:31.458Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "id": "match_1772576744385_3",
+      "id": "match_1772580271459_3",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d8%aa%d8%b1%d8%a7%d8%b3%d8%a8%d9%88%d8%b1%d8%ac-%d9%88-%d8%b3%d8%aa%d8%a7%d8%af-%d8%b1%d9%8a%d9%85%d8%b3-%d8%a8%d8%ab/",
       "title": "ستراسبورج vs ستاد ريمس",
       "team1": {
@@ -126,7 +126,7 @@
       "tournament": "كأس فرنسا - ربع النهائي",
       "page": 1,
       "position": 4,
-      "scrapedAt": "2026-03-03T22:25:44.385Z",
+      "scrapedAt": "2026-03-03T23:24:31.459Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "id": "match_1772576744386_4",
+      "id": "match_1772580271461_4",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%83%d9%88%d9%85%d9%88-%d9%88-%d8%a5%d9%86%d8%aa%d8%b1-%d9%85%d9%8a%d9%84%d8%a7%d9%86-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4/",
       "title": "كومو vs إنتر ميلان",
       "team1": {
@@ -160,7 +160,7 @@
       "tournament": "كأس إيطاليا - نصف النهائي",
       "page": 1,
       "position": 5,
-      "scrapedAt": "2026-03-03T22:25:44.386Z",
+      "scrapedAt": "2026-03-03T23:24:31.461Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "id": "match_1772576744388_5",
+      "id": "match_1772580271462_5",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9-%d9%88-%d8%a3%d8%aa%d9%84%d8%aa%d9%8a%d9%83%d9%88-%d9%85%d8%af%d8%b1%d9%8a%d8%af/",
       "title": "برشلونة vs أتلتيكو مدريد",
       "team1": {
@@ -194,7 +194,7 @@
       "tournament": "كأس ملك إسبانيا - نصف النهائي",
       "page": 1,
       "position": 6,
-      "scrapedAt": "2026-03-03T22:25:44.388Z",
+      "scrapedAt": "2026-03-03T23:24:31.462Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "id": "match_1772576744389_6",
+      "id": "match_1772580271465_6",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d9%88%d9%88%d9%84%d9%81%d8%b1%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86-%d9%88-%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84/",
       "title": "وولفرهامبتون vs ليفربول",
       "team1": {
@@ -228,7 +228,7 @@
       "tournament": "الدوري الإنجليزي",
       "page": 1,
       "position": 7,
-      "scrapedAt": "2026-03-03T22:25:44.389Z",
+      "scrapedAt": "2026-03-03T23:24:31.465Z",
       "watchServers": [
         {
           "type": "iframe",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "id": "match_1772576744390_7",
+      "id": "match_1772580271467_7",
       "url": "https://koraplus.blog/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%86%d8%ac-%d9%84%d8%b4%d8%a8%d9%88%d9%86%d8%a9-%d9%88-%d8%a8%d9%88%d8%b1%d8%aa%d9%88-%d8%a8/",
       "title": "سبورتنج لشبونة vs بورتو",
       "team1": {
@@ -260,7 +260,7 @@
       "tournament": "كأس البرتغال - نصف النهائي",
       "page": 1,
       "position": 8,
-      "scrapedAt": "2026-03-03T22:25:44.390Z",
+      "scrapedAt": "2026-03-03T23:24:31.467Z",
       "watchServers": [
         {
           "type": "iframe",
