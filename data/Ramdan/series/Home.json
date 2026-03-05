@@ -1,10 +1,18 @@
 {
-  "last_update": "2026-03-05T13:09:48.901Z",
-  "total_series": 94,
+  "last_update": "2026-03-05T19:22:29.782Z",
+  "total_series": 95,
   "series": [
     {
       "id": "c",
       "title": "النص 2",
+      "image": "",
+      "seasons": 1,
+      "last_season": 1,
+      "episodes_count": 0
+    },
+    {
+      "id": "d358",
+      "title": "النص التاني",
       "image": "",
       "seasons": 1,
       "last_season": 1,
@@ -61,7 +69,7 @@
     {
       "id": "587d197ca",
       "title": "مسلسل  السوريون الأعداء",
-      "image": "https://larozza.quest/uploads/thumbs/aed758ac5-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/aed758ac5-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 1
@@ -69,23 +77,23 @@
     {
       "id": "12e28cd0b",
       "title": "مسلسل آخر الشهر",
-      "image": "https://larozza.quest/uploads/thumbs/06fa08a7b-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/06fa08a7b-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 17
+      "episodes_count": 18
     },
     {
       "id": "e9866cdb0",
       "title": "مسلسل أب ولكن",
-      "image": "https://larozza.quest/uploads/thumbs/2441da687-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/2441da687-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 1
+      "episodes_count": 2
     },
     {
       "id": "2c5882c9e",
       "title": "مسلسل أبطال الرمال",
-      "image": "https://larozza.quest/uploads/thumbs/a88b03cac-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/a88b03cac-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -93,7 +101,7 @@
     {
       "id": "f4ca918d3",
       "title": "مسلسل اتنين غيرنا",
-      "image": "https://larozza.quest/uploads/thumbs/7ba24b61e-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/7ba24b61e-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -101,7 +109,7 @@
     {
       "id": "7a2065a1c",
       "title": "مسلسل إثبات نسب",
-      "image": "https://larozza.quest/uploads/thumbs/cb03bf74f-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/cb03bf74f-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -109,15 +117,15 @@
     {
       "id": "11e59e09d",
       "title": "مسلسل أخر كلام",
-      "image": "https://larozza.quest/uploads/thumbs/95998f98f-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/95998f98f-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "fd8b9e5e9",
       "title": "مسلسل اسأل روحك",
-      "image": "https://larozza.quest/uploads/thumbs/f1f951efc-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/f1f951efc-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -125,7 +133,7 @@
     {
       "id": "e92322c5b",
       "title": "مسلسل اسمي حسن",
-      "image": "https://larozza.quest/uploads/thumbs/b3eee322f-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/b3eee322f-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 14
@@ -133,18 +141,18 @@
     {
       "id": "1cf22b484",
       "title": "مسلسل افراج",
-      "image": "https://larozza.quest/uploads/thumbs/372599929-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/372599929-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 11
+      "episodes_count": 12
     },
     {
       "id": "a7532ecf1",
       "title": "مسلسل البخت",
-      "image": "https://larozza.quest/uploads/thumbs/55aaaa8b8-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/55aaaa8b8-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "94d42abbd",
@@ -165,7 +173,7 @@
     {
       "id": "ed65be9eb",
       "title": "مسلسل السرايا الصفرا",
-      "image": "https://larozza.quest/uploads/thumbs/6410d85b1-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/6410d85b1-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 1
@@ -173,15 +181,15 @@
     {
       "id": "7bfb7e4b0",
       "title": "مسلسل السوق الحرة",
-      "image": "https://larozza.quest/uploads/thumbs/172e17385-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/172e17385-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "4272ec7e2",
       "title": "مسلسل الضربة",
-      "image": "https://larozza.quest/uploads/thumbs/ae570d8ad-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/ae570d8ad-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -197,58 +205,58 @@
     {
       "id": "9f5220386",
       "title": "مسلسل الغميضة",
-      "image": "https://larozza.quest/uploads/thumbs/abd442d4a-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/abd442d4a-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 17
+      "episodes_count": 18
     },
     {
       "id": "a0bee9f69",
       "title": "مسلسل ألف ليله مع فيفي عبده",
-      "image": "https://larozza.quest/uploads/thumbs/edfa691a8-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/edfa691a8-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 29
+      "episodes_count": 30
     },
     {
       "id": "6967625d1",
       "title": "مسلسل الكاميرا الخفية",
-      "image": "https://larozza.quest/uploads/thumbs/90d11cda1-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/90d11cda1-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 14
+      "episodes_count": 15
     },
     {
       "id": "d8cb9c11b",
       "title": "مسلسل الكينج",
-      "image": "https://larozza.quest/uploads/thumbs/92ae9f039-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/92ae9f039-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 17
+      "episodes_count": 18
     },
     {
       "id": "d3edb5382",
       "title": "مسلسل اللون الأزرق",
-      "image": "https://larozza.quest/uploads/thumbs/2bb9ee8de-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/2bb9ee8de-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 1
+      "episodes_count": 2
     },
     {
       "id": "95564673d",
       "title": "مسلسل المتر سمير",
-      "image": "https://larozza.quest/uploads/thumbs/f19bf99cd-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/f19bf99cd-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 1
+      "episodes_count": 3
     },
     {
       "id": "70efa0e07",
       "title": "مسلسل المحافظة 15",
-      "image": "https://larozza.quest/uploads/thumbs/52fca8afd-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/52fca8afd-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "9",
@@ -261,7 +269,7 @@
     {
       "id": "b99cc5c64",
       "title": "مسلسل المصيدة",
-      "image": "https://larozza.quest/uploads/thumbs/a6b75c4d5-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/a6b75c4d5-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 14
@@ -269,15 +277,15 @@
     {
       "id": "0cab7b5ce",
       "title": "مسلسل النويلاتي",
-      "image": "https://larozza.quest/uploads/thumbs/4efa48074-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/4efa48074-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "85aa7b7ee",
       "title": "مسلسل الهيبة: رأس الجبل",
-      "image": "https://larozza.quest/uploads/thumbs/6b94c076f-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/6b94c076f-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -285,7 +293,7 @@
     {
       "id": "f84c14da4",
       "title": "مسلسل اليتيم",
-      "image": "https://larozza.quest/uploads/thumbs/bf287f6da-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/bf287f6da-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 17
@@ -293,15 +301,15 @@
     {
       "id": "6e9a2838c",
       "title": "مسلسل أنا وهي وهيا",
-      "image": "https://larozza.quest/uploads/thumbs/dbd8428e5-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/dbd8428e5-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "d80348558",
       "title": "مسلسل بابا وماما جيران",
-      "image": "https://larozza.quest/uploads/thumbs/1f1c05945-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/d3b4f6200-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 3
@@ -309,7 +317,7 @@
     {
       "id": "cd537c4e8",
       "title": "مسلسل بالحرام",
-      "image": "https://larozza.quest/uploads/thumbs/692e3e19d-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/692e3e19d-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 12
@@ -317,7 +325,7 @@
     {
       "id": "a4225b39e",
       "title": "مسلسل بخمس أرواح",
-      "image": "https://larozza.quest/uploads/thumbs/514ed510c-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/514ed510c-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 17
@@ -325,7 +333,7 @@
     {
       "id": "E325739F8",
       "title": "مسلسل بنات العم",
-      "image": "https://larozza.quest/uploads/thumbs/fb50e99fd-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/fb50e99fd-1.jpg",
       "seasons": 2,
       "last_season": 2,
       "episodes_count": 10
@@ -333,31 +341,31 @@
     {
       "id": "64387fca3",
       "title": "مسلسل بنات عبدالغني",
-      "image": "https://larozza.quest/uploads/thumbs/2344c2855-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/2344c2855-1.jpg",
+      "seasons": 1,
+      "last_season": 1,
+      "episodes_count": 18
+    },
+    {
+      "id": "d4b0669ce",
+      "title": "مسلسل بنت النعمان",
+      "image": "https://larozza.bond/uploads/thumbs/9424dd412-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 17
     },
     {
-      "id": "d4b0669ce",
-      "title": "مسلسل بنت النعمان",
-      "image": "https://larozza.quest/uploads/thumbs/9424dd412-1.jpg",
-      "seasons": 1,
-      "last_season": 1,
-      "episodes_count": 16
-    },
-    {
       "id": "564f35a35",
       "title": "مسلسل بيبو",
-      "image": "https://larozza.quest/uploads/thumbs/66fbeb993-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/66fbeb993-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 1
+      "episodes_count": 2
     },
     {
       "id": "a5fd4a91c",
       "title": "مسلسل بيت أم ليلة",
-      "image": "https://larozza.quest/uploads/thumbs/d38cee407-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/d38cee407-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 13
@@ -365,7 +373,7 @@
     {
       "id": "e3e372273",
       "title": "مسلسل توابع",
-      "image": "https://larozza.quest/uploads/thumbs/9319cebf2-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/9319cebf2-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -373,7 +381,7 @@
     {
       "id": "36abc5d87",
       "title": "مسلسل جزيرة الضباب",
-      "image": "https://larozza.quest/uploads/thumbs/7c412c567-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/7c412c567-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 1
@@ -381,23 +389,23 @@
     {
       "id": "8664232f9",
       "title": "مسلسل حامض حلو ج7",
-      "image": "https://larozza.quest/uploads/thumbs/c9b313dbc-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/c9b313dbc-1.jpg",
       "seasons": 1,
       "last_season": 7,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "2e0b75162",
       "title": "مسلسل حكاية نرجس",
-      "image": "https://larozza.quest/uploads/thumbs/0d592a5a9-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/0d592a5a9-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 1
+      "episodes_count": 2
     },
     {
       "id": "3d171dc50",
       "title": "مسلسل حمدية",
-      "image": "https://larozza.quest/uploads/thumbs/1d0241458-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/1d0241458-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 16
@@ -405,7 +413,7 @@
     {
       "id": "e6926d8ca",
       "title": "مسلسل حي الجرادية",
-      "image": "https://larozza.quest/uploads/thumbs/aeddcc6b7-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/aeddcc6b7-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 18
@@ -413,7 +421,7 @@
     {
       "id": "24198170e",
       "title": "مسلسل درب الذهب",
-      "image": "https://larozza.quest/uploads/thumbs/ed3685732-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/ed3685732-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 17
@@ -421,7 +429,7 @@
     {
       "id": "3f613e778",
       "title": "مسلسل دكان سليمان",
-      "image": "https://larozza.quest/uploads/thumbs/ee62ede1e-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/ee62ede1e-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 10
@@ -429,23 +437,23 @@
     {
       "id": "1c76263d2",
       "title": "مسلسل رأس الأفعى",
-      "image": "https://larozza.quest/uploads/thumbs/22ac311df-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/22ac311df-1.jpg",
+      "seasons": 1,
+      "last_season": 1,
+      "episodes_count": 17
+    },
+    {
+      "id": "fd55e6ca6",
+      "title": "مسلسل رامز ليفل الوحش",
+      "image": "https://larozza.bond/uploads/thumbs/5a8ef2596-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 16
     },
     {
-      "id": "fd55e6ca6",
-      "title": "مسلسل رامز ليفل الوحش",
-      "image": "https://larozza.quest/uploads/thumbs/5a8ef2596-1.jpg",
-      "seasons": 1,
-      "last_season": 1,
-      "episodes_count": 15
-    },
-    {
       "id": "A05659DA8",
       "title": "مسلسل رحمة ج2",
-      "image": "https://larozza.quest/uploads/thumbs/41c1c3138-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/41c1c3138-1.jpg",
       "seasons": 2,
       "last_season": 2,
       "episodes_count": 15
@@ -453,15 +461,15 @@
     {
       "id": "65a164752",
       "title": "مسلسل روج أسود",
-      "image": "https://larozza.quest/uploads/thumbs/8dca13489-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/8dca13489-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 15
+      "episodes_count": 17
     },
     {
       "id": "c8fccf9ca",
       "title": "مسلسل سجون الشيطان",
-      "image": "https://larozza.quest/uploads/thumbs/c3b7d4f1d-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/c3b7d4f1d-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 6
@@ -469,15 +477,15 @@
     {
       "id": "84adc7f83",
       "title": "مسلسل سعادة المجنون",
-      "image": "https://larozza.quest/uploads/thumbs/f99d3caaf-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/f99d3caaf-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "193369381",
       "title": "مسلسل سكنهم مساكنهم",
-      "image": "https://larozza.quest/uploads/thumbs/c5c18decf-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/c5c18decf-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 1
@@ -485,15 +493,15 @@
     {
       "id": "f6ba66438",
       "title": "مسلسل سموم القيظ",
-      "image": "https://larozza.quest/uploads/thumbs/8a5e68a1d-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/8a5e68a1d-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "2a78b780a",
       "title": "مسلسل سوا سوا",
-      "image": "https://larozza.quest/uploads/thumbs/d9e5cd10d-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/d9e5cd10d-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -501,10 +509,10 @@
     {
       "id": "C43F8E231",
       "title": "مسلسل شارع الأعشى 2",
-      "image": "https://larozza.quest/uploads/thumbs/a8cb67177-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/a8cb67177-1.jpg",
       "seasons": 2,
       "last_season": 2,
-      "episodes_count": 9
+      "episodes_count": 10
     },
     {
       "id": "f84dc0645",
@@ -517,7 +525,7 @@
     {
       "id": "5307002ab",
       "title": "مسلسل شاي خانة",
-      "image": "https://larozza.quest/uploads/thumbs/b9f790fd0-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/b9f790fd0-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 1
@@ -525,15 +533,15 @@
     {
       "id": "b98fa9dd5",
       "title": "مسلسل شرارة",
-      "image": "https://larozza.quest/uploads/thumbs/a1910a240-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/a1910a240-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 15
+      "episodes_count": 16
     },
     {
       "id": "c8023b120",
       "title": "مسلسل صبر أم أيوب",
-      "image": "https://larozza.quest/uploads/thumbs/81e550563-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/81e550563-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 1
@@ -557,18 +565,18 @@
     {
       "id": "198f04f5b",
       "title": "مسلسل عرض وطلب",
-      "image": "https://larozza.quest/uploads/thumbs/9af1822e2-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/9af1822e2-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 1
+      "episodes_count": 2
     },
     {
       "id": "81ce0a5d7",
       "title": "مسلسل علي كلاي",
-      "image": "https://larozza.quest/uploads/thumbs/0ec1512a8-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/0ec1512a8-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 5
+      "episodes_count": 6
     },
     {
       "id": "249d68f38",
@@ -576,20 +584,20 @@
       "image": "https://larozza.bond/uploads/thumbs/408ac47a6-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 15
+      "episodes_count": 16
     },
     {
       "id": "1bcbf8b34",
       "title": "مسلسل عيلة الملك",
-      "image": "https://larozza.quest/uploads/thumbs/ed1acc21a-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/ed1acc21a-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "19cfcf973",
       "title": "مسلسل غلط بنات",
-      "image": "https://larozza.quest/uploads/thumbs/f779d7936-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/f779d7936-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 18
@@ -597,7 +605,7 @@
     {
       "id": "0988d811f",
       "title": "مسلسل غناوي شوق",
-      "image": "https://larozza.quest/uploads/thumbs/a3ae53868-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/a3ae53868-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -605,31 +613,31 @@
     {
       "id": "97faca994",
       "title": "مسلسل فخر الدلتا",
-      "image": "https://larozza.quest/uploads/thumbs/Y5QgE4IPD-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/Y5QgE4IPD-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     },
     {
       "id": "96f285f56",
       "title": "مسلسل فرصة أخيرة",
-      "image": "https://larozza.quest/uploads/thumbs/8b489cf51-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/8b489cf51-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 1
+      "episodes_count": 2
     },
     {
       "id": "5d5295f57",
       "title": "مسلسل قطر صغنطوط",
-      "image": "https://larozza.quest/uploads/thumbs/2dcdec911-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/2dcdec911-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 1
+      "episodes_count": 2
     },
     {
       "id": "4b0288b20",
       "title": "مسلسل كحيلان",
-      "image": "https://larozza.quest/uploads/thumbs/e5a15404f-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/e5a15404f-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 17
@@ -637,7 +645,7 @@
     {
       "id": "c26287637",
       "title": "مسلسل كسرة",
-      "image": "https://larozza.quest/uploads/thumbs/1d64ec750-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/1d64ec750-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 18
@@ -645,15 +653,15 @@
     {
       "id": "7564760ba",
       "title": "مسلسل لحظات مسروقة",
-      "image": "https://larozza.quest/uploads/thumbs/7230a4f14-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/7230a4f14-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 18
+      "episodes_count": 19
     },
     {
       "id": "a6e8205e8",
       "title": "مسلسل لوبي الغرام",
-      "image": "https://larozza.quest/uploads/thumbs/b0833bd3f-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/b0833bd3f-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 17
@@ -661,7 +669,7 @@
     {
       "id": "a63f460a8",
       "title": "مسلسل ليل البنفسج",
-      "image": "https://larozza.quest/uploads/thumbs/b9fe44bf2-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/b9fe44bf2-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 10
@@ -669,7 +677,7 @@
     {
       "id": "df84ca7f0",
       "title": "مسلسل متاهة",
-      "image": "https://larozza.quest/uploads/thumbs/6c3a8bdfe-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/6c3a8bdfe-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 16
@@ -677,7 +685,7 @@
     {
       "id": "c232bee64",
       "title": "مسلسل مستقبل زاهر 2: الغربان",
-      "image": "https://larozza.quest/uploads/thumbs/756427d51-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/756427d51-1.jpg",
       "seasons": 1,
       "last_season": 2,
       "episodes_count": 1
@@ -685,10 +693,10 @@
     {
       "id": "812858e07",
       "title": "مسلسل مطبخ المدينة",
-      "image": "https://larozza.quest/uploads/thumbs/2b93888d9-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/2b93888d9-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 17
+      "episodes_count": 18
     },
     {
       "id": "fad1e07bc",
@@ -701,7 +709,7 @@
     {
       "id": "0a38bbdf6",
       "title": "مسلسل ن النسوة",
-      "image": "https://larozza.quest/uploads/thumbs/715a3abbf-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/715a3abbf-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 1
@@ -709,7 +717,7 @@
     {
       "id": "7417b359a",
       "title": "مسلسل نوبة وتوبة",
-      "image": "https://larozza.quest/uploads/thumbs/fa28ee052-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/fa28ee052-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 8
@@ -725,7 +733,7 @@
     {
       "id": "b382bebdb",
       "title": "مسلسل هي كيميا",
-      "image": "https://larozza.quest/uploads/thumbs/78d4216bf-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/78d4216bf-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 15
@@ -733,15 +741,15 @@
     {
       "id": "4BA59C052",
       "title": "مسلسل وديمة وحليمة",
-      "image": "https://larozza.quest/uploads/thumbs/bca9002a4-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/bca9002a4-1.jpg",
       "seasons": 3,
       "last_season": 5,
-      "episodes_count": 17
+      "episodes_count": 18
     },
     {
       "id": "516dbb3e7",
       "title": "مسلسل وننسى اللي كان",
-      "image": "https://larozza.quest/uploads/thumbs/715c38ccc-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/715c38ccc-1.jpg",
       "seasons": 1,
       "last_season": 1,
       "episodes_count": 16
@@ -749,10 +757,10 @@
     {
       "id": "d6514ff49",
       "title": "مسلسل يوميات رجل متزوج",
-      "image": "https://larozza.quest/uploads/thumbs/afa2a0bfc-1.jpg",
+      "image": "https://larozza.bond/uploads/thumbs/afa2a0bfc-1.jpg",
       "seasons": 1,
       "last_season": 1,
-      "episodes_count": 16
+      "episodes_count": 17
     }
   ]
 }
