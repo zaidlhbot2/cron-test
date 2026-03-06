@@ -1,5 +1,5 @@
 {
-  "last_scan": "2026-03-05T19:22:14.946Z",
+  "last_scan": "2026-03-06T02:15:09.592Z",
   "series": {
     "193369381": {
       "last_episode": "c5c18decf",
@@ -584,7 +584,7 @@
       }
     },
     "516dbb3e7": {
-      "last_episode": "c4a018909",
+      "last_episode": "fc78ecc54",
       "last_season": 1,
       "episodes": {
         "715c38ccc": {
@@ -670,11 +670,17 @@
           "title": "مسلسل وننسى اللي كان الحلقة 16 السادسة عشر",
           "number": 16,
           "season": 1
+        },
+        "fc78ecc54": {
+          "extracted_at": "2026-03-06T02:11:18.087Z",
+          "title": "مسلسل وننسى اللي كان الحلقة 17 السابعة عشر",
+          "number": 17,
+          "season": 1
         }
       }
     },
     "d80348558": {
-      "last_episode": "d3b4f6200",
+      "last_episode": "91b7413f7",
       "last_season": 1,
       "episodes": {
         "1f1c05945": {
@@ -693,6 +699,12 @@
           "extracted_at": "2026-03-05T02:12:32.231Z",
           "title": "مسلسل بابا وماما جيران الحلقة 3 الثالثة",
           "number": 3,
+          "season": 1
+        },
+        "91b7413f7": {
+          "extracted_at": "2026-03-06T02:11:21.563Z",
+          "title": "مسلسل بابا وماما جيران الحلقة 4 الرابعة",
+          "number": 4,
           "season": 1
         }
       }
@@ -1106,13 +1118,25 @@
       }
     },
     "0a38bbdf6": {
-      "last_episode": "715a3abbf",
+      "last_episode": "784b741ab",
       "last_season": 1,
       "episodes": {
         "715a3abbf": {
           "extracted_at": "2026-02-28T00:30:37.175Z",
           "title": "مسلسل ن النسوة الحلقة 1 الاولي",
           "number": 1,
+          "season": 1
+        },
+        "4a957b79e": {
+          "extracted_at": "2026-03-06T02:11:53.391Z",
+          "title": "مسلسل ن النسوة الحلقة 2 الثانية",
+          "number": 2,
+          "season": 1
+        },
+        "784b741ab": {
+          "extracted_at": "2026-03-06T02:11:54.598Z",
+          "title": "مسلسل ن النسوة الحلقة 3 الثالثة",
+          "number": 3,
           "season": 1
         }
       }
@@ -1418,7 +1442,7 @@
       }
     },
     "fd8b9e5e9": {
-      "last_episode": "551d2616c",
+      "last_episode": "dad7428c1",
       "last_season": 1,
       "episodes": {
         "f1f951efc": {
@@ -1509,6 +1533,18 @@
           "extracted_at": "2026-03-04T02:10:40.863Z",
           "title": "مسلسل اسال روحك الحلقة 15 الخامسة عشر",
           "number": 15,
+          "season": 1
+        },
+        "85faaacde": {
+          "extracted_at": "2026-03-06T02:12:07.030Z",
+          "title": "مسلسل اسال روحك الحلقة 16 السادسة عشر",
+          "number": 16,
+          "season": 1
+        },
+        "dad7428c1": {
+          "extracted_at": "2026-03-06T02:12:08.129Z",
+          "title": "مسلسل اسال روحك الحلقة 17 السابعة عشر",
+          "number": 17,
           "season": 1
         }
       }
@@ -2228,7 +2264,7 @@
       }
     },
     "cd537c4e8": {
-      "last_episode": "20397c510",
+      "last_episode": "a0d0f85b8",
       "last_season": 1,
       "episodes": {
         "a9b93d2c4": {
@@ -2301,6 +2337,12 @@
           "extracted_at": "2026-03-05T02:13:34.506Z",
           "title": "مسلسل بالحرام الحلقة 17 السابعة عشر",
           "number": 17,
+          "season": 1
+        },
+        "a0d0f85b8": {
+          "extracted_at": "2026-03-06T02:12:27.338Z",
+          "title": "مسلسل بالحرام الحلقة 18 الثامنة عشر",
+          "number": 18,
           "season": 1
         }
       }
@@ -2516,7 +2558,7 @@
       }
     },
     "85aa7b7ee": {
-      "last_episode": "c529e2416",
+      "last_episode": "ed6a5ecbe",
       "last_season": 1,
       "episodes": {
         "6b94c076f": {
@@ -2607,6 +2649,12 @@
           "extracted_at": "2026-03-05T02:13:45.199Z",
           "title": "مسلسل الهيبة راس الجبل الحلقة 15 الخامسة عشر",
           "number": 15,
+          "season": 1
+        },
+        "ed6a5ecbe": {
+          "extracted_at": "2026-03-06T02:12:37.574Z",
+          "title": "مسلسل الهيبة راس الجبل الحلقة 16 السادسة عشر",
+          "number": 16,
           "season": 1
         }
       }
@@ -3872,7 +3920,7 @@
       }
     },
     "a6e8205e8": {
-      "last_episode": "d2b1e9f6e",
+      "last_episode": "1440b4c24",
       "last_season": 1,
       "episodes": {
         "b0833bd3f": {
@@ -3976,11 +4024,17 @@
           "title": "مسلسل لوبي الغرام الحلقة 17 السابعة عشر",
           "number": 17,
           "season": 1
+        },
+        "1440b4c24": {
+          "extracted_at": "2026-03-06T02:13:02.139Z",
+          "title": "مسلسل لوبي الغرام الحلقة 18 الثامنة عشر",
+          "number": 18,
+          "season": 1
         }
       }
     },
     "df84ca7f0": {
-      "last_episode": "38b0d0a4d",
+      "last_episode": "2e637c796",
       "last_season": 1,
       "episodes": {
         "6c3a8bdfe": {
@@ -4077,6 +4131,12 @@
           "extracted_at": "2026-03-05T02:14:21.505Z",
           "title": "مسلسل متاهة الحلقة 16 السادسة عشر",
           "number": 16,
+          "season": 1
+        },
+        "2e637c796": {
+          "extracted_at": "2026-03-06T02:13:12.793Z",
+          "title": "مسلسل متاهة الحلقة 17 السابعة عشر",
+          "number": 17,
           "season": 1
         }
       }
@@ -4418,7 +4478,7 @@
       }
     },
     "4b0288b20": {
-      "last_episode": "bf8101dc3",
+      "last_episode": "f5be796a1",
       "last_season": 1,
       "episodes": {
         "e5a15404f": {
@@ -4522,11 +4582,17 @@
           "title": "مسلسل كحيلان الحلقة 17 السابعة عشر",
           "number": 17,
           "season": 1
+        },
+        "f5be796a1": {
+          "extracted_at": "2026-03-06T02:13:23.103Z",
+          "title": "مسلسل كحيلان الحلقة 18 الثامنة عشر",
+          "number": 18,
+          "season": 1
         }
       }
     },
     "3d171dc50": {
-      "last_episode": "74ab3df94",
+      "last_episode": "984a1fa39",
       "last_season": 1,
       "episodes": {
         "1d0241458": {
@@ -4623,6 +4689,12 @@
           "extracted_at": "2026-03-05T02:14:35.787Z",
           "title": "مسلسل حمدية الحلقة 16 السادسة عشر",
           "number": 16,
+          "season": 1
+        },
+        "984a1fa39": {
+          "extracted_at": "2026-03-06T02:13:26.669Z",
+          "title": "مسلسل حمدية الحلقة 17 السابعة عشر",
+          "number": 17,
           "season": 1
         }
       }
@@ -5084,7 +5156,7 @@
       }
     },
     "e92322c5b": {
-      "last_episode": "4ac02b1fd",
+      "last_episode": "aa37e682a",
       "last_season": 1,
       "episodes": {
         "b3eee322f": {
@@ -5170,6 +5242,12 @@
           "title": "مسلسل اسمي حسن الحلقة 14 الرابعة عشر",
           "number": 14,
           "season": 1
+        },
+        "aa37e682a": {
+          "extracted_at": "2026-03-06T02:13:46.715Z",
+          "title": "مسلسل اسمي حسن الحلقة 15 الخامسة عشر",
+          "number": 15,
+          "season": 1
         }
       }
     },
@@ -5186,7 +5264,7 @@
       }
     },
     "a5fd4a91c": {
-      "last_episode": "e0e0fb1bc",
+      "last_episode": "c98bd8c44",
       "last_season": 1,
       "episodes": {
         "d38cee407": {
@@ -5265,6 +5343,12 @@
           "extracted_at": "2026-03-05T02:14:59.880Z",
           "title": "مسلسل بيت ام ليلة الحلقة 13 الثالثة عشر",
           "number": 13,
+          "season": 1
+        },
+        "c98bd8c44": {
+          "extracted_at": "2026-03-06T02:13:55.249Z",
+          "title": "مسلسل بيت ام ليلة الحلقة 14 الرابعة عشر",
+          "number": 14,
           "season": 1
         }
       }
@@ -6998,7 +7082,7 @@
       }
     },
     "94d42abbd": {
-      "last_episode": "9faa25a83",
+      "last_episode": "51e89d9c9",
       "last_season": 1,
       "episodes": {
         "7a29b3c8b": {
@@ -7090,11 +7174,17 @@
           "title": "مسلسل الخطيفة الحلقة 15 الخامسة عشر",
           "number": 15,
           "season": 1
+        },
+        "51e89d9c9": {
+          "extracted_at": "2026-03-06T02:14:51.246Z",
+          "title": "مسلسل الخطيفة الحلقة 16 السادسة عشر",
+          "number": 16,
+          "season": 1
         }
       }
     },
     "157b245c0": {
-      "last_episode": "3f899c248",
+      "last_episode": "91c9f3dbf",
       "last_season": 1,
       "episodes": {
         "4542cf943": {
@@ -7185,6 +7275,12 @@
           "extracted_at": "2026-03-04T18:58:49.319Z",
           "title": "مسلسل عرش الشيطان الحلقة 15 الخامسة عشر",
           "number": 15,
+          "season": 1
+        },
+        "91c9f3dbf": {
+          "extracted_at": "2026-03-06T02:14:57.314Z",
+          "title": "مسلسل عرش الشيطان الحلقة 16 السادسة عشر",
+          "number": 16,
           "season": 1
         }
       }
@@ -7442,7 +7538,7 @@
       }
     },
     "0ed21e78f": {
-      "last_episode": "33f9ce30f",
+      "last_episode": "5ffbde50a",
       "last_season": 1,
       "episodes": {
         "d1c4e8a1c": {
@@ -7545,6 +7641,12 @@
           "extracted_at": "2026-03-05T02:16:04.697Z",
           "title": "مسلسل عايلة مايلة الحلقة 17 السابعة عشر",
           "number": 17,
+          "season": 1
+        },
+        "5ffbde50a": {
+          "extracted_at": "2026-03-06T02:15:09.592Z",
+          "title": "مسلسل عايلة مايلة الحلقة 18 الثامنة عشر",
+          "number": 18,
           "season": 1
         }
       }
@@ -15754,115 +15856,234 @@
       "title": "مسلسل عمارة السعادة الحلقة 16 السادسة عشر",
       "number": 16,
       "season": 1
+    },
+    "fc78ecc54": {
+      "series_id": "516dbb3e7",
+      "extracted_at": "2026-03-06T02:11:18.087Z",
+      "title": "مسلسل وننسى اللي كان الحلقة 17 السابعة عشر",
+      "number": 17,
+      "season": 1
+    },
+    "91b7413f7": {
+      "series_id": "d80348558",
+      "extracted_at": "2026-03-06T02:11:21.563Z",
+      "title": "مسلسل بابا وماما جيران الحلقة 4 الرابعة",
+      "number": 4,
+      "season": 1
+    },
+    "4a957b79e": {
+      "series_id": "0a38bbdf6",
+      "extracted_at": "2026-03-06T02:11:53.391Z",
+      "title": "مسلسل ن النسوة الحلقة 2 الثانية",
+      "number": 2,
+      "season": 1
+    },
+    "784b741ab": {
+      "series_id": "0a38bbdf6",
+      "extracted_at": "2026-03-06T02:11:54.598Z",
+      "title": "مسلسل ن النسوة الحلقة 3 الثالثة",
+      "number": 3,
+      "season": 1
+    },
+    "85faaacde": {
+      "series_id": "fd8b9e5e9",
+      "extracted_at": "2026-03-06T02:12:07.030Z",
+      "title": "مسلسل اسال روحك الحلقة 16 السادسة عشر",
+      "number": 16,
+      "season": 1
+    },
+    "dad7428c1": {
+      "series_id": "fd8b9e5e9",
+      "extracted_at": "2026-03-06T02:12:08.129Z",
+      "title": "مسلسل اسال روحك الحلقة 17 السابعة عشر",
+      "number": 17,
+      "season": 1
+    },
+    "a0d0f85b8": {
+      "series_id": "cd537c4e8",
+      "extracted_at": "2026-03-06T02:12:27.338Z",
+      "title": "مسلسل بالحرام الحلقة 18 الثامنة عشر",
+      "number": 18,
+      "season": 1
+    },
+    "ed6a5ecbe": {
+      "series_id": "85aa7b7ee",
+      "extracted_at": "2026-03-06T02:12:37.574Z",
+      "title": "مسلسل الهيبة راس الجبل الحلقة 16 السادسة عشر",
+      "number": 16,
+      "season": 1
+    },
+    "1440b4c24": {
+      "series_id": "a6e8205e8",
+      "extracted_at": "2026-03-06T02:13:02.139Z",
+      "title": "مسلسل لوبي الغرام الحلقة 18 الثامنة عشر",
+      "number": 18,
+      "season": 1
+    },
+    "2e637c796": {
+      "series_id": "df84ca7f0",
+      "extracted_at": "2026-03-06T02:13:12.793Z",
+      "title": "مسلسل متاهة الحلقة 17 السابعة عشر",
+      "number": 17,
+      "season": 1
+    },
+    "f5be796a1": {
+      "series_id": "4b0288b20",
+      "extracted_at": "2026-03-06T02:13:23.103Z",
+      "title": "مسلسل كحيلان الحلقة 18 الثامنة عشر",
+      "number": 18,
+      "season": 1
+    },
+    "984a1fa39": {
+      "series_id": "3d171dc50",
+      "extracted_at": "2026-03-06T02:13:26.669Z",
+      "title": "مسلسل حمدية الحلقة 17 السابعة عشر",
+      "number": 17,
+      "season": 1
+    },
+    "aa37e682a": {
+      "series_id": "e92322c5b",
+      "extracted_at": "2026-03-06T02:13:46.715Z",
+      "title": "مسلسل اسمي حسن الحلقة 15 الخامسة عشر",
+      "number": 15,
+      "season": 1
+    },
+    "c98bd8c44": {
+      "series_id": "a5fd4a91c",
+      "extracted_at": "2026-03-06T02:13:55.249Z",
+      "title": "مسلسل بيت ام ليلة الحلقة 14 الرابعة عشر",
+      "number": 14,
+      "season": 1
+    },
+    "51e89d9c9": {
+      "series_id": "94d42abbd",
+      "extracted_at": "2026-03-06T02:14:51.246Z",
+      "title": "مسلسل الخطيفة الحلقة 16 السادسة عشر",
+      "number": 16,
+      "season": 1
+    },
+    "91c9f3dbf": {
+      "series_id": "157b245c0",
+      "extracted_at": "2026-03-06T02:14:57.313Z",
+      "title": "مسلسل عرش الشيطان الحلقة 16 السادسة عشر",
+      "number": 16,
+      "season": 1
+    },
+    "5ffbde50a": {
+      "series_id": "0ed21e78f",
+      "extracted_at": "2026-03-06T02:15:09.592Z",
+      "title": "مسلسل عايلة مايلة الحلقة 18 الثامنة عشر",
+      "number": 18,
+      "season": 1
     }
   },
   "statistics": {
     "total_series": 95,
-    "total_episodes": 1172,
-    "new_episodes_today": 38,
-    "last_scan": "2026-03-05T19:22:29.804Z",
+    "total_episodes": 1189,
+    "new_episodes_today": 17,
+    "last_scan": "2026-03-06T02:15:12.333Z",
     "first_scan": false
   },
   "latest_episodes": [
     {
-      "id": "1c8bccc7c",
-      "series_id": "249d68f38",
-      "series_title": "مسلسل عمارة السعادة",
-      "title": "مسلسل عمارة السعادة الحلقة 16 السادسة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/408ac47a6-1.jpg",
+      "id": "5ffbde50a",
+      "series_id": "0ed21e78f",
+      "series_title": "مسلسل عايلة مايلة",
+      "title": "مسلسل عايلة مايلة الحلقة 18 الثامنة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/d1c4e8a1c-1.jpg",
+      "number": 18,
+      "season": 1,
+      "added_at": "2026-03-06T02:15:08.952Z"
+    },
+    {
+      "id": "91c9f3dbf",
+      "series_id": "157b245c0",
+      "series_title": "مسلسل عرش الشيطان",
+      "title": "مسلسل عرش الشيطان الحلقة 16 السادسة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/4542cf943-1.jpg",
       "number": 16,
       "season": 1,
-      "added_at": "2026-03-05T19:22:14.268Z"
+      "added_at": "2026-03-06T02:14:55.694Z"
     },
     {
-      "id": "b32cca341",
-      "series_id": "f6ba66438",
-      "series_title": "مسلسل سموم القيظ",
-      "title": "مسلسل سموم القيظ الحلقة 17 السابعة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/8a5e68a1d-1.jpg",
+      "id": "51e89d9c9",
+      "series_id": "94d42abbd",
+      "series_title": "مسلسل الخطيفة",
+      "title": "مسلسل الخطيفة الحلقة 16 السادسة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/7a29b3c8b-1.jpg",
+      "number": 16,
+      "season": 1,
+      "added_at": "2026-03-06T02:14:50.035Z"
+    },
+    {
+      "id": "c98bd8c44",
+      "series_id": "a5fd4a91c",
+      "series_title": "مسلسل بيت أم ليلة",
+      "title": "مسلسل بيت ام ليلة الحلقة 14 الرابعة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/d38cee407-1.jpg",
+      "number": 14,
+      "season": 1,
+      "added_at": "2026-03-06T02:13:54.547Z"
+    },
+    {
+      "id": "aa37e682a",
+      "series_id": "e92322c5b",
+      "series_title": "مسلسل اسمي حسن",
+      "title": "مسلسل اسمي حسن الحلقة 15 الخامسة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/b3eee322f-1.jpg",
+      "number": 15,
+      "season": 1,
+      "added_at": "2026-03-06T02:13:46.058Z"
+    },
+    {
+      "id": "984a1fa39",
+      "series_id": "3d171dc50",
+      "series_title": "مسلسل حمدية",
+      "title": "مسلسل حمدية الحلقة 17 السابعة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/1d0241458-1.jpg",
       "number": 17,
       "season": 1,
-      "added_at": "2026-03-05T19:21:59.320Z"
+      "added_at": "2026-03-06T02:13:26.028Z"
     },
     {
-      "id": "a27f80f57",
-      "series_id": "70efa0e07",
-      "series_title": "مسلسل المحافظة 15",
-      "title": "مسلسل المحافظة 15 الحلقة 17 السابعة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/52fca8afd-1.jpg",
+      "id": "f5be796a1",
+      "series_id": "4b0288b20",
+      "series_title": "مسلسل كحيلان",
+      "title": "مسلسل كحيلان الحلقة 18 الثامنة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/e5a15404f-1.jpg",
+      "number": 18,
+      "season": 1,
+      "added_at": "2026-03-06T02:13:22.440Z"
+    },
+    {
+      "id": "2e637c796",
+      "series_id": "df84ca7f0",
+      "series_title": "مسلسل متاهة",
+      "title": "مسلسل متاهة الحلقة 17 السابعة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/6c3a8bdfe-1.jpg",
       "number": 17,
       "season": 1,
-      "added_at": "2026-03-05T19:21:55.910Z"
+      "added_at": "2026-03-06T02:13:12.150Z"
     },
     {
-      "id": "5023baf0a",
-      "series_id": "7564760ba",
-      "series_title": "مسلسل لحظات مسروقة",
-      "title": "مسلسل لحظات مسروقة الحلقة 19 التاسعة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/7230a4f14-1.jpg",
-      "number": 19,
+      "id": "1440b4c24",
+      "series_id": "a6e8205e8",
+      "series_title": "مسلسل لوبي الغرام",
+      "title": "مسلسل لوبي الغرام الحلقة 18 الثامنة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/b0833bd3f-1.jpg",
+      "number": 18,
       "season": 1,
-      "added_at": "2026-03-05T19:21:43.928Z"
+      "added_at": "2026-03-06T02:13:01.496Z"
     },
     {
-      "id": "20a6205d7",
-      "series_id": "d4b0669ce",
-      "series_title": "مسلسل بنت النعمان",
-      "title": "مسلسل بنت النعمان الحلقة 17 السابعة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/9424dd412-1.jpg",
-      "number": 17,
+      "id": "ed6a5ecbe",
+      "series_id": "85aa7b7ee",
+      "series_title": "مسلسل الهيبة: رأس الجبل",
+      "title": "مسلسل الهيبة راس الجبل الحلقة 16 السادسة عشر",
+      "image": "https://larozza.bond/uploads/thumbs/6b94c076f-1.jpg",
+      "number": 16,
       "season": 1,
-      "added_at": "2026-03-05T19:21:36.010Z"
-    },
-    {
-      "id": "ed558150c",
-      "series_id": "0cab7b5ce",
-      "series_title": "مسلسل النويلاتي",
-      "title": "مسلسل النويلاتي الحلقة 17 السابعة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/4efa48074-1.jpg",
-      "number": 17,
-      "season": 1,
-      "added_at": "2026-03-05T19:21:30.474Z"
-    },
-    {
-      "id": "3700f7ad6",
-      "series_id": "a7532ecf1",
-      "series_title": "مسلسل البخت",
-      "title": "مسلسل البخت الحلقة 17 السابعة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/55aaaa8b8-1.jpg",
-      "number": 17,
-      "season": 1,
-      "added_at": "2026-03-05T19:21:22.365Z"
-    },
-    {
-      "id": "45d4f0acf",
-      "series_id": "1bcbf8b34",
-      "series_title": "مسلسل عيلة الملك",
-      "title": "مسلسل عيلة الملك الحلقة 17 السابعة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/ed1acc21a-1.jpg",
-      "number": 17,
-      "season": 1,
-      "added_at": "2026-03-05T19:21:19.084Z"
-    },
-    {
-      "id": "39ff93537",
-      "series_id": "84adc7f83",
-      "series_title": "مسلسل سعادة المجنون",
-      "title": "مسلسل سعادة المجنون الحلقة 17 السابعة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/f99d3caaf-1.jpg",
-      "number": 17,
-      "season": 1,
-      "added_at": "2026-03-05T19:21:02.590Z"
-    },
-    {
-      "id": "2c800fcf7",
-      "series_id": "11e59e09d",
-      "series_title": "مسلسل أخر كلام",
-      "title": "مسلسل اخر كلام الحلقة 17 السابعة عشر",
-      "image": "https://larozza.bond/uploads/thumbs/95998f98f-1.jpg",
-      "number": 17,
-      "season": 1,
-      "added_at": "2026-03-05T19:20:59.183Z"
+      "added_at": "2026-03-06T02:12:36.994Z"
     }
   ],
   "latest_series": [
@@ -15870,31 +16091,31 @@
       "id": "81ce0a5d7",
       "title": "مسلسل علي كلاي",
       "image": "https://larozza.bond/uploads/thumbs/0ec1512a8-1.jpg",
-      "added_at": "2026-03-05T19:17:49.335Z"
+      "added_at": "2026-03-06T02:10:51.438Z"
     },
     {
       "id": "d8cb9c11b",
       "title": "مسلسل الكينج",
       "image": "https://larozza.bond/uploads/thumbs/92ae9f039-1.jpg",
-      "added_at": "2026-03-05T19:17:49.335Z"
+      "added_at": "2026-03-06T02:10:51.438Z"
     },
     {
       "id": "9",
       "title": "مسلسل المداح 6",
       "image": "",
-      "added_at": "2026-03-05T19:17:49.335Z"
+      "added_at": "2026-03-06T02:10:51.438Z"
     },
     {
       "id": "1cf22b484",
       "title": "مسلسل افراج",
       "image": "https://larozza.bond/uploads/thumbs/372599929-1.jpg",
-      "added_at": "2026-03-05T19:17:49.335Z"
+      "added_at": "2026-03-06T02:10:51.438Z"
     },
     {
-      "id": "ae583760b",
-      "title": "مسلسل الست موناليزا",
-      "image": "",
-      "added_at": "2026-03-05T19:17:49.335Z"
+      "id": "95564673d",
+      "title": "مسلسل المتر سمير",
+      "image": "https://larozza.bond/uploads/thumbs/f19bf99cd-1.jpg",
+      "added_at": "2026-03-06T02:10:51.438Z"
     }
   ]
 }
