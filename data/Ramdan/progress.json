@@ -15980,8 +15980,8 @@
   "statistics": {
     "total_series": 95,
     "total_episodes": 1189,
-    "new_episodes_today": 17,
-    "last_scan": "2026-03-06T02:15:12.333Z",
+    "new_episodes_today": 0,
+    "last_scan": "2026-03-06T06:58:30.779Z",
     "first_scan": false
   },
   "latest_episodes": [
@@ -16091,31 +16091,31 @@
       "id": "81ce0a5d7",
       "title": "مسلسل علي كلاي",
       "image": "https://larozza.bond/uploads/thumbs/0ec1512a8-1.jpg",
-      "added_at": "2026-03-06T02:10:51.438Z"
+      "added_at": "2026-03-06T06:53:38.299Z"
     },
     {
       "id": "d8cb9c11b",
       "title": "مسلسل الكينج",
       "image": "https://larozza.bond/uploads/thumbs/92ae9f039-1.jpg",
-      "added_at": "2026-03-06T02:10:51.438Z"
+      "added_at": "2026-03-06T06:53:38.299Z"
     },
     {
       "id": "9",
       "title": "مسلسل المداح 6",
       "image": "",
-      "added_at": "2026-03-06T02:10:51.438Z"
+      "added_at": "2026-03-06T06:53:38.299Z"
     },
     {
       "id": "1cf22b484",
       "title": "مسلسل افراج",
       "image": "https://larozza.bond/uploads/thumbs/372599929-1.jpg",
-      "added_at": "2026-03-06T02:10:51.438Z"
+      "added_at": "2026-03-06T06:53:38.299Z"
     },
     {
       "id": "95564673d",
       "title": "مسلسل المتر سمير",
       "image": "https://larozza.bond/uploads/thumbs/f19bf99cd-1.jpg",
-      "added_at": "2026-03-06T02:10:51.438Z"
+      "added_at": "2026-03-06T06:53:38.299Z"
     }
   ]
 }
