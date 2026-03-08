@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-08T09:05:01.257Z",
+  "timestamp": "2026-03-08T09:48:29.176Z",
   "phase": "phase2_home_scraping",
   "systemStats": {
     "totalMovies": 3433,
@@ -19,7 +19,7 @@
       "newMoviesCount": 0,
       "updatedMoviesCount": 60,
       "totalHomeMovies": 60,
-      "executionTime": 130215
+      "executionTime": 129719
     }
   },
   "nextRun": {
