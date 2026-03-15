@@ -2,8 +2,1247 @@
   "fileName": "Home.json",
   "description": "جميع أفلام الصفحة الأولى",
   "totalMovies": 60,
-  "lastUpdated": "2026-03-15T20:02:21.287Z",
+  "lastUpdated": "2026-03-15T20:44:26.781Z",
   "movies": [
+    {
+      "id": "208017",
+      "title": "فيلم The Hermit 2025 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-hermit-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=208017",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BMzMxNzA5YzctMzFmNy00NmI4LWIyMGMtYjI0Y2RjNjUzNmQ4XkEyXkFqcGc@-439x650.jpg",
+      "imdbRating": "4.1",
+      "story": "ينطلق المراهقان (ليزا) و(إريك) إلى عطلة في الغابة، فتتحول الرحلة إلى كابوس حين يضطران للقتال من أجل حياتهما في مواجهة مزارع آكلٍ للحم البشر لا يمكن إيقافه.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "اثارة",
+          "رعب"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "توقيت الفيلم": "86 دقيقة",
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة الفيلم": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Anthony Turpel",
+          "Brian Robert Carr",
+          "Bruce Faulk",
+          "Christopher Collins"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-hermit-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-ebq5r4bj00ti.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-hermit-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/ebq5r4bj00ti.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/1jtgb84911ju",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/dhq252rd9giq",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/152D4903FC4E68C",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/454f6ff41f14fa770e694868c7f48235",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/nfzhv6u6l1av",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2QP46",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-hermit-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 1,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:25.826Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "207997",
+      "title": "فيلم Franz 2025 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-franz-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=207997",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BNGNmYTZiZTEtNjc4YS00M2Y0LWIyNzMtZDU4NGNkZmY5NjRhXkEyXkFqcGc@-460x650.jpg",
+      "imdbRating": "6.2",
+      "story": "يروي الكتاب قصة حياة الكاتب التشيكي فرانز كافكا، من ولادته إلى وفاته.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "تاريخي",
+          "دراما",
+          "سيرة ذاتية"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "توقيت الفيلم": "127 دقيقة",
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة الفيلم": [
+          "جمهورية التشيك"
+        ],
+        "بطولة": [
+          "Aaron Friesz",
+          "Andrew Van Wilpe",
+          "Anna Císarovská",
+          "Carol Schuler"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-franz-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-kzi3v7rwkk1r.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-franz-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/kzi3v7rwkk1r.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/o0n4ktsdkfta",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/a8h8oo3rs1ue",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/797092CF09A315D",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/5b7507d1d1d3ba09f0eaf8414bd4d246",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/wfj0a9v5zphb",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4SHqB",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-franz-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 2,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:27.763Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "208021",
+      "title": "فيلم The Fairfield County Four 2026 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-fairfield-county-four-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=208021",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BZWRjNzU0ZjAtNDRmYS00NTdiLThiNzItNDlkNGZmNWRhNWFhXkEyXkFqcGc@-488x650.jpg",
+      "imdbRating": "2.7",
+      "story": "اختفى أربعة شبان أثناء تحقيقهم في بلاغات عن مخلوق ضخم يشبه الذئب. ورغم عدم العثور على أي أثر لهم، فقد عُثر في النهاية على كاميرتهم. وكانت هذه آخر لقطات معروفة لـ\"مجموعة مقاطعة فيرفيلد الأربعة\".",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "اثارة",
+          "رعب"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "توقيت الفيلم": "76 دقيقة",
+        "موعد الصدور": [
+          "2026"
+        ],
+        "دولة الفيلم": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Andrew Pierson",
+          "Austin Galante",
+          "Bailey Herrington",
+          "Bryden Elliott DiGennaro"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-fairfield-county-four-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-cue1uz647q5b.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-fairfield-county-four-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/cue1uz647q5b.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/c68baadv2fme",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/xrpy4kx5bdg9",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/0F8D27A6AFE1595",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/2e3a26048f4201a5c806077037b37e13",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/pnau1vjk8rgz",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/2QP49",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-fairfield-county-four-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 3,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:29.680Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "208025",
+      "title": "فيلم Worldbreaker 2025 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86-2/",
+      "shortLink": "https://topcinema.fan/?p=208025",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BZmM5MDBiYjUtZDc3ZC00ODc2LTlkMmYtMWIwODhhZTQ0MmY1XkEyXkFqcGc@-scaled-439x650.jpg",
+      "imdbRating": "4.3",
+      "story": "في إطار من الخيال العلمي، يقرر أب إخفاء ابنته على جزيرة للحفاظ على سلامتها، إلى جانب تجهيزها للبقاء على قيد الحياة والتمكن من مواجهة المعارك المنتظرة.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "اكشن",
+          "خيال علمي",
+          "دراما"
+        ],
+        "جودة الفيلم": [
+          "1080p BluRay"
+        ],
+        "توقيت الفيلم": "95 دقيقة",
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة الفيلم": [
+          "الولايات المتحدة الامريكية"
+        ],
+        "بطولة": [
+          "Billie Boullet",
+          "Charis Agbonlahor",
+          "Chris Finlayson",
+          "Kevin Glynn"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86-2/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-dez7of2a8urs.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86-2/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/dez7of2a8urs.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/d5zkl57fvgqs",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/cfl96pfdbiq0",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/503A55A83B0F36E",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a6429b45ebd2db6b8bd4c2714dafb4ba",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/43shifjxjzk7",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3wMwu",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86-2/download/",
+      "page": 1,
+      "position": 4,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:31.570Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "208014",
+      "title": "فيلم Night Creatures 2025 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-night-creatures-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=208014",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BNjhhZjE1OGUtZTM3NS00YTEwLWEyY2UtMTQ5MGJjMTRiNmY3XkEyXkFqcGc@-scaled-455x650.jpg",
+      "imdbRating": "6.3",
+      "story": "بعد خروجه من السجن، يضطر ديلان إلى القيام بعملية سرقة أخيرة في مطعم براسيري بابيون لتسوية دين قديم. وهناك، يلتقي بمارغو، مما يؤدي إلى علاقة غير متوقعة بينهما.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "اثارة",
+          "جريمة"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "توقيت الفيلم": "100 دقيقة",
+        "موعد الصدور": [
+          "2025"
+        ],
+        "بطولة": [
+          "Aimé Claeys",
+          "Carry Goossens",
+          "Fares El Bzioui",
+          "Jonathan Van Dyck"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-night-creatures-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-kj68vs4hpr66.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-night-creatures-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/kj68vs4hpr66.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/v3kiakmi76xl",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/c4d3c6zlts4i",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/F41DAE230A3EF6F",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/14dee0664e8e4c6ad968bac33cb8a78a",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/hg6cpqegpb7k",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3wMwb",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-night-creatures-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 5,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:33.451Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "207998",
+      "title": "فيلم Mexicali 2026 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mexicali-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=207998",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BMjcyNmIwY2UtZTUzNC00Zjk0LWIzNTAtMmNiYWQ1NWIzNzk1XkEyXkFqcGc@-439x650.jpg",
+      "imdbRating": "6.2",
+      "story": "يساعد المقاتل السابق جو في إدارة مزرعة شريكته إستريلا في المكسيك. بعد خوضه نزالات سرية لدعم العمال، يضطر للدفاع عن نفسه وعن ماركو عندما تهاجمهم عصابة تشافيز على الطريق.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "اكشن",
+          "دراما"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2026"
+        ],
+        "بطولة": [
+          "Bren Foster",
+          "Craig Lamothe",
+          "Edgar de Santiago",
+          "Einar Haraldsson"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mexicali-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-a2exnzr2nx3n.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mexicali-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/a2exnzr2nx3n.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/g05mdhsl04z8",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/btgi1kj7znz3",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/DD77E9E2D920240",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/444be5432123898c992cd3165a78e3fe",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/ryftvo1kleei",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3wMw1",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mexicali-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 6,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:35.345Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "207999",
+      "title": "فيلم Mother’s Baby 2025 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mothers-baby-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=207999",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BMjk2M2MzODMtY2Y0Yy00ZDUyLTkyOTItNTBmYjdkZTNkZDdmXkEyXkFqcGc@-scaled-459x650.jpg",
+      "imdbRating": "6.4",
+      "story": "تخوض امرأة رحلة الأمومة المعقدة بينما تواجه أعمق مخاوفها وقلقها.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "اثارة",
+          "غموض"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "توقيت الفيلم": "108 دقيقة",
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة الفيلم": [
+          "النمسا"
+        ],
+        "بطولة": [
+          "Andreas Ortner",
+          "Caroline Frank",
+          "Claes Bang",
+          "Evelyn Ruzicka"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mothers-baby-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-a3infnc0qecn.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mothers-baby-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/a3infnc0qecn.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/im28ovz816f8",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/8cybu317z4yh",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A5A6378AF813AD0",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/d6f0a8486f91554b98f6c4502c34265d",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/7fvw33lh1mlz",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3wMw8",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-mothers-baby-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 7,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:37.242Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "207993",
+      "title": "فيلم Bodycam 2025 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-bodycam-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=207993",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BNmQ3ZmQ3MWQtMzA5Zi00MjUwLTlhOGYtZjU3Y2I2MzJhYTI3XkEyXkFqcGc@-scaled-433x650.jpg",
+      "imdbRating": "5.2",
+      "story": "يتوجّه شرطيان للتحقيق في شجارٍ عائلي، لكن تدخّلهما ينتهي بإطلاق نارٍ غير متوقع، فيحاولان التستّر على الحادث، ويكتشفا لاحقًا أن الكاميرات ليست وحدها من يراقبهما.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "رعب"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "توقيت الفيلم": "75 دقيقة",
+        "موعد الصدور": [
+          "2025"
+        ],
+        "بطولة": [
+          "Angel Prater",
+          "Catherine Lough Haggquist",
+          "Chris Casson",
+          "Colette Nwachi"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-bodycam-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-5seq8levkirq.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-bodycam-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/5seq8levkirq.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/5rno5odtrxxq",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/k7cn4csnguma",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/1A8DD6C857FEA24",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/deac3cc25f62b0d03457c2d22ad4d3ba",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/1c1f8a6z3cv0",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3wMvS",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-bodycam-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 8,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:39.123Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "207989",
+      "title": "فيلم Anna Kiri 2025 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-anna-kiri-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=207989",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BNzI1ZDkzNTItMzEyZi00YjAxLTlhYWItYzgwOWEzY2ZhNDljXkEyXkFqcGc@-scaled-433x650.jpg",
+      "imdbRating": "5.5",
+      "story": "بعد نجاتها من الموت إثر عملية سرقة فاشلة، تتخلى كاتبة متهورة وحالمة عن جنوحها لتسعى وراء تحقيق حلمها بالاعتراف بها.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "دراما"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "توقيت الفيلم": "87 دقيقة",
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة الفيلم": [
+          "كندا"
+        ],
+        "بطولة": [
+          "Caroline Néron",
+          "Catherine Brunet",
+          "Charlotte Aubin",
+          "Émile Ouellette"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-anna-kiri-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-vm4wj61e9rvi.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-anna-kiri-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/vm4wj61e9rvi.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/hpnzxbaep2v2",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/js4elkf3xx3q",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/A802912B763B1CA",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/99a196237b95dc2a1a791c9bc6bf8a19",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/hb3c4ea96dnl",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3wMvO",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-anna-kiri-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 9,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:41.004Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
+    {
+      "id": "207985",
+      "title": "فيلم 7 Steps 2025 مترجم اون لاين",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-7-steps-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+      "shortLink": "https://topcinema.fan/?p=207985",
+      "image": "https://topcinema.fan/wp-content/uploads/2026/03/MV5BMjA5OTZjMDUtMWQ4OS00MGU5LWFlMGItNWYyMDU1OGJhNDdmXkEyXkFqcGc@-455x650.jpg",
+      "imdbRating": "6",
+      "story": "تُحدد الخطوات السبع شروط وجود إيل بأكملها. بعد عامٍ من الوقوع في الحب والسفر والمغامرات الرومانسية، تختفي دون أثر. يتولى جوزيف مهمة البحث عنها.",
+      "details": {
+        "قسم الفيلم": [
+          "افلام اجنبي"
+        ],
+        "نوع الفيلم": [
+          "دراما",
+          "رومانسي"
+        ],
+        "جودة الفيلم": [
+          "1080p WEB-DL"
+        ],
+        "موعد الصدور": [
+          "2025"
+        ],
+        "دولة الفيلم": [
+          "السويد"
+        ],
+        "بطولة": [
+          "Charif Ghattas",
+          "Filip Berg",
+          "Gisela Nilsson",
+          "Joel Spira"
+        ]
+      },
+      "year": null,
+      "quality": null,
+      "runtime": "2026-03-15",
+      "genres": [],
+      "countries": [],
+      "watchServers": [
+        {
+          "name": "مشاهدة مباشرة",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-7-steps-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "quality": "متعدد الجودات",
+          "type": "meta_stream",
+          "source": "og:video:secure_url"
+        },
+        {
+          "name": "مشاهدة Iframe 1",
+          "url": "https://vidtube.one/embed-ccvsed28gioa.html",
+          "quality": "متعدد الجودات",
+          "type": "iframe",
+          "width": "100%",
+          "height": "100%"
+        }
+      ],
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-7-steps-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "downloadServers": [
+        {
+          "name": "VidTube",
+          "url": "https://vidtube.one/d/ccvsed28gioa.html",
+          "quality": "متعدد الجودات",
+          "type": "pro_server",
+          "icon": "fas fa-rocket",
+          "label": "سيرفر سريع"
+        },
+        {
+          "name": "1080p",
+          "url": "https://updown.cam/3pb196yghwkz",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/oisafrv5nkbj",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/542B7C416F5B166",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a040daff7c195138e3e2fed45bee2dcc",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://frdl.io/rxmnaalr5ki1",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        },
+        {
+          "name": "1080p",
+          "url": "https://1cloudfile.com/4SHqn",
+          "quality": "1080p",
+          "type": "download_server",
+          "icon": "fas fa-download",
+          "label": "سيرفر تحميل"
+        }
+      ],
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-7-steps-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 10,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-15T20:42:42.898Z",
+      "stats": {
+        "watchServersCount": 2,
+        "downloadServersCount": 7,
+        "genresCount": 0
+      }
+    },
     {
       "id": "207869",
       "title": "فيلم The Truce 2025 مترجم اون لاين",
@@ -137,9 +1376,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-truce-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 1,
+      "position": 11,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T19:59:57.994Z",
+      "scrapedAt": "2026-03-15T20:42:44.782Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -259,9 +1498,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-this-is-not-a-test-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 2,
+      "position": 12,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:00.476Z",
+      "scrapedAt": "2026-03-15T20:42:46.848Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -385,9 +1624,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-crime-101-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 3,
+      "position": 13,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:02.927Z",
+      "scrapedAt": "2026-03-15T20:42:49.033Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -519,9 +1758,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-demon-squad-tooth-and-claw-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 4,
+      "position": 14,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:05.350Z",
+      "scrapedAt": "2026-03-15T20:42:51.098Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -651,9 +1890,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-midwinter-break-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 5,
+      "position": 15,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:07.765Z",
+      "scrapedAt": "2026-03-15T20:42:53.166Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -780,9 +2019,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-frankensteins-bride-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 6,
+      "position": 16,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:10.174Z",
+      "scrapedAt": "2026-03-15T20:42:55.237Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -921,9 +2160,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-solo-mio-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 7,
+      "position": 17,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:12.590Z",
+      "scrapedAt": "2026-03-15T20:42:57.315Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -1063,9 +2302,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-good-luck-have-fun-dont-die-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 8,
+      "position": 18,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:15.013Z",
+      "scrapedAt": "2026-03-15T20:42:59.383Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -1205,9 +2444,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-testament-of-ann-lee-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 9,
+      "position": 19,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:17.426Z",
+      "scrapedAt": "2026-03-15T20:43:01.453Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -1347,9 +2586,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-anaconda-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 10,
+      "position": 20,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:19.859Z",
+      "scrapedAt": "2026-03-15T20:43:03.524Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -1470,9 +2709,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-melania-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 11,
+      "position": 21,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:22.285Z",
+      "scrapedAt": "2026-03-15T20:43:05.591Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -1609,9 +2848,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-love-unleashed-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 12,
+      "position": 22,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:24.708Z",
+      "scrapedAt": "2026-03-15T20:43:07.653Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -1749,9 +2988,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-deb-is-boss-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 13,
+      "position": 23,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:27.130Z",
+      "scrapedAt": "2026-03-15T20:43:09.710Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -1887,9 +3126,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-kill-will-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 14,
+      "position": 24,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:29.558Z",
+      "scrapedAt": "2026-03-15T20:43:11.783Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -2021,9 +3260,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-heel-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 15,
+      "position": 25,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:31.980Z",
+      "scrapedAt": "2026-03-15T20:43:13.843Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -2153,9 +3392,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-georgia-peach-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 16,
+      "position": 26,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:34.403Z",
+      "scrapedAt": "2026-03-15T20:43:15.933Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -2286,9 +3525,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-strangers-in-the-park-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 17,
+      "position": 27,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:36.834Z",
+      "scrapedAt": "2026-03-15T20:43:18.005Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -2420,9 +3659,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-cold-storage-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 18,
+      "position": 28,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:39.259Z",
+      "scrapedAt": "2026-03-15T20:43:20.080Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -2611,9 +3850,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-war-machine-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 19,
+      "position": 29,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:41.683Z",
+      "scrapedAt": "2026-03-15T20:43:22.163Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 15,
@@ -2800,9 +4039,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-strangers-chapter-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 20,
+      "position": 30,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:44.120Z",
+      "scrapedAt": "2026-03-15T20:43:24.248Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 15,
@@ -2927,9 +4166,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-pushed-off-a-plane-and-survived-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 21,
+      "position": 31,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:46.549Z",
+      "scrapedAt": "2026-03-15T20:43:26.347Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -3055,9 +4294,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-murder-in-the-highland-manor-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 22,
+      "position": 32,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:48.826Z",
+      "scrapedAt": "2026-03-15T20:43:28.411Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -3189,9 +4428,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-moor-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 23,
+      "position": 33,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:51.246Z",
+      "scrapedAt": "2026-03-15T20:43:30.481Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -3320,9 +4559,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-house-on-haunted-grounds-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 24,
+      "position": 34,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:53.671Z",
+      "scrapedAt": "2026-03-15T20:43:32.557Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -3446,9 +4685,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-yadang-the-snitch-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 25,
+      "position": 35,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:56.094Z",
+      "scrapedAt": "2026-03-15T20:43:34.634Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -3581,9 +4820,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-street-flow-3-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 26,
+      "position": 36,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:00:58.527Z",
+      "scrapedAt": "2026-03-15T20:43:36.733Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -3714,9 +4953,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-is-this-thing-on-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 27,
+      "position": 37,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:00.956Z",
+      "scrapedAt": "2026-03-15T20:43:38.807Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -3845,9 +5084,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-a-private-life-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 28,
+      "position": 38,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:03.378Z",
+      "scrapedAt": "2026-03-15T20:43:40.874Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -3970,9 +5209,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-deadly-little-mermaid-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 29,
+      "position": 39,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:05.800Z",
+      "scrapedAt": "2026-03-15T20:43:42.949Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -4103,9 +5342,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-atropia-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 30,
+      "position": 40,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:08.224Z",
+      "scrapedAt": "2026-03-15T20:43:45.032Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -4235,9 +5474,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-whistle-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 31,
+      "position": 41,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:10.656Z",
+      "scrapedAt": "2026-03-15T20:43:47.113Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -4376,9 +5615,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-shrinking-man-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 32,
+      "position": 42,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:13.093Z",
+      "scrapedAt": "2026-03-15T20:43:49.194Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -4496,9 +5735,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-unrequited-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 33,
+      "position": 43,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:15.515Z",
+      "scrapedAt": "2026-03-15T20:43:51.263Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -4623,9 +5862,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-dating-app-killer-the-monica-white-story-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 34,
+      "position": 44,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:17.930Z",
+      "scrapedAt": "2026-03-15T20:43:53.337Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -4749,9 +5988,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-giant-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 35,
+      "position": 45,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:20.347Z",
+      "scrapedAt": "2026-03-15T20:43:55.412Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -4883,9 +6122,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-psycho-killer-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 36,
+      "position": 46,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:22.766Z",
+      "scrapedAt": "2026-03-15T20:43:57.485Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -5016,9 +6255,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-scream-7-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 37,
+      "position": 47,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:25.188Z",
+      "scrapedAt": "2026-03-15T20:43:59.557Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -5141,9 +6380,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-boku-to-roboko-movie-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 38,
+      "position": 48,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:27.462Z",
+      "scrapedAt": "2026-03-15T20:44:01.628Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -5263,9 +6502,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-you-stole-my-heart-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 39,
+      "position": 49,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:29.878Z",
+      "scrapedAt": "2026-03-15T20:44:03.703Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -5388,9 +6627,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-wuthering-heights-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 40,
+      "position": 50,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:32.302Z",
+      "scrapedAt": "2026-03-15T20:44:05.773Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -5509,9 +6748,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-royally-screwed-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 41,
+      "position": 51,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:34.723Z",
+      "scrapedAt": "2026-03-15T20:44:07.848Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -5633,9 +6872,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-i-can-only-imagine-2-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 42,
+      "position": 52,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:37.152Z",
+      "scrapedAt": "2026-03-15T20:44:09.917Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -5759,9 +6998,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-how-to-make-a-killing-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 43,
+      "position": 53,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:39.575Z",
+      "scrapedAt": "2026-03-15T20:44:11.993Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -5888,9 +7127,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-play-dead-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 44,
+      "position": 54,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:41.994Z",
+      "scrapedAt": "2026-03-15T20:44:14.074Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -6021,9 +7260,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-in-the-blink-of-an-eye-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 45,
+      "position": 55,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:44.425Z",
+      "scrapedAt": "2026-03-15T20:44:16.169Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -6154,9 +7393,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-father-mother-sister-brother-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 46,
+      "position": 56,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:46.855Z",
+      "scrapedAt": "2026-03-15T20:44:18.255Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -6284,9 +7523,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-if-i-run-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 47,
+      "position": 57,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:49.283Z",
+      "scrapedAt": "2026-03-15T20:44:20.336Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -6418,9 +7657,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-bring-the-law-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 48,
+      "position": 58,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:51.725Z",
+      "scrapedAt": "2026-03-15T20:44:22.413Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -6544,9 +7783,9 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-in-cold-light-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 49,
+      "position": 59,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:54.401Z",
+      "scrapedAt": "2026-03-15T20:44:24.497Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -6665,1419 +7904,12 @@
       ],
       "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-h-is-for-hawk-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
       "page": 1,
-      "position": 50,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:56.680Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 7,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "205398",
-      "title": "فيلم God’s Soldier 2025 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-gods-soldier-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=205398",
-      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BMjhiMWFjM2QtNTk0Ny00YmQxLTgwODQtZTFlZmU4ODhlZDYwXkEyXkFqcGc@-scaled-439x650.jpg",
-      "imdbRating": "3.8",
-      "story": "طفلة يتيمة مطلوب للعدالة تلجأ إلى كنيسة تديرها راهبة جميلة، لكن الأمور ليست كما تبدو. أحداث مثيرة ومشوقة في انتظارهم للفرار من قبضة عميل مارق لوكالة المخابرات المركزية.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "اكشن"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الفيلم": "125 دقيقة",
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة الفيلم": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Alessio Pescatori",
-          "Bonnie Zellerbach",
-          "Carolina Carlsson",
-          "Chiara Ferrara"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-gods-soldier-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-r837davlpjgp.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-gods-soldier-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/r837davlpjgp.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/4cst23qu1gcn",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/pkzyoxzb64sh",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/y92id0x0xmwu",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/B3BB31DC650EA6C",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/914f40420b1a1ef090a93f9d2ef00500",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/644r7l4q8cst",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1uN2m",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-gods-soldier-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
-      "position": 51,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:01:59.103Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 8,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "205360",
-      "title": "فيلم Blood Barn 2025 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-blood-barn-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=205360",
-      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BMzFmNzE3YjEtNTliNS00MTUyLWIzNjUtOTE5YTk4Y2Q0NmUzXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": "4.5",
-      "story": "احتفالاً بآخر صيف قبل الجامعة، تدعو جوزي ستة من زملائها المشرفين على المخيم إلى حظيرة عائلتها المهجورة. ومع تزايد قوة شريرة خارقة للطبيعة، تواجه جوزي ماضياً غامضاً لإنقاذ أصدقائها.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "رعب"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الفيلم": "76 دقيقة",
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة الفيلم": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Andrea Bambina",
-          "Chloe Cherry",
-          "Felipe Di Poi Tamargo",
-          "Lena Redford"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-blood-barn-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-jbwhdy2l3d2k.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-blood-barn-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/jbwhdy2l3d2k.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ywjtuiqsnal4",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/czj40ohpuaoa",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/C8D23623896F8CB",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/34a636521a602929ed22648d4f22c476",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/6ll5j73eeqpu",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2aKuX",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-blood-barn-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
-      "position": 52,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:02:01.524Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 7,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "205357",
-      "title": "فيلم Anaconda: Blood Coil 2026 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-anaconda-blood-coil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=205357",
-      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BNjQ4ZjExNmMtZDYxZS00NGRhLWEyNTktMGM2YzRmMTIxOTIzXkEyXkFqcGc@._V1_-scaled-433x650.jpg",
-      "imdbRating": "3.3",
-      "story": "تتعرض مجموعة من الأصدقاء للترهيب من قبل أفعى أناكوندا خلال عطلتهم.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "رعب"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "بطولة": [
-          "Ainhoa Mounier",
-          "Belle Taylor",
-          "Faye Tachtara",
-          "Louisa Warren"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-anaconda-blood-coil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-4a7c37c9n4if.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-anaconda-blood-coil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/4a7c37c9n4if.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/zflazz2zo9ay",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/1sdj0ynnoof0",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/bimua0oqid2d",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/2CE6E1E0490592E",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/9e544be416036be83fefa7bea4d1e7cc",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/xj7k5lllzx69",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1uN2s",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-anaconda-blood-coil-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
-      "position": 53,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:02:03.954Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 8,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "188885",
-      "title": "فيلم Zootopia 2 2025 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-zootopia-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=188885",
-      "image": "https://topcinema.fan/wp-content/uploads/2025/12/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@.jpg_V1_SX700-438x650.jpg",
-      "imdbRating": "7.7",
-      "story": "تعود الشرطية الشجاعة (جودي هوبس) للتعاون مرة أخرى مع صديقها الثعلب (نيك وايلد) ليعمل الاثنان معًا على حل قضية جديدة، لكنها ليست قضية عادية، بل تعد القضية الأكثر خطورة وتعقيدًا في حياتهما.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي",
-          "افلام انمي"
-        ],
-        "نوع الفيلم": [
-          "اكشن",
-          "كرتون",
-          "مغامرة"
-        ],
-        "جودة الفيلم": [
-          "1080p BluRay"
-        ],
-        "توقيت الفيلم": "1 ساعة و 48 دقيقة",
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة الفيلم": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Andy Samberg",
-          "Bonnie Hunt",
-          "CM Punk",
-          "Danny Trejo"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-zootopia-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-yu5gc1drvq6l.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-zootopia-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/yu5gc1drvq6l.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/yhfwdcjmfweo",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/4vbg7h3m9a3f",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/7B63C08BC9C2074",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/c91cddfc7d81e80c15f04c31b78b6ba3",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/6agoouir3xuj",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/1uN00",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-zootopia-2-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
-      "position": 54,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:02:06.383Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 7,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "205242",
-      "title": "فيلم Lazarus: The Awakening 2026 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-lazarus-the-awakening-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=205242",
-      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BOWQ3MjYxMjAtMmRhOS00ZTQyLWJjM2ItNGE1ZmRlNjJhNzkxXkEyXkFqcGc@-450x650.jpg",
-      "imdbRating": "6.1",
-      "story": "بطلٌ عاد من الموت يطارد إمبراطورية مخدرات في جاكسون، ويصطدم بزعيم عصابة، ومراسل صحفي، ومدينة غارقة في الفنتانيل. العدالة تتحول إلى حرب.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "اكشن"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "بطولة": [
-          "Brendan M Stevens",
-          "Britton Webb",
-          "Courtney Grace",
-          "David Moncrief"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-lazarus-the-awakening-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-jcpivkpqfyio.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-lazarus-the-awakening-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/jcpivkpqfyio.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/63etlziim13e",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/zbw0jf9b3wlf",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/n9m9l8t4meh6",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/757B8F137822F51",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/e69dafa998d8607d4942afcd9e571a39",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/6q4ybmsypyjm",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/3wF9x",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-lazarus-the-awakening-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
-      "position": 55,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:02:08.809Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 8,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "205220",
-      "title": "فيلم The Bluff 2026 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-bluff-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=205220",
-      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BZDVlYWM2YjAtZTUxMS00OWEwLWI4YWMtNmFhMjU3MDY4OGJkXkEyXkFqcGc@-scaled-433x650.jpg",
-      "imdbRating": null,
-      "story": "في إطار من الأكشن والمغامرات، ينكشف الماضي السري لامرأة كاريبية مع اجتياح قراصنة متوحشين لجزيرتها، وهو ما يضعها في مواجهة مباشرة مع حقيقتها الدفينة ومصير لم تكن تتوقعه.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "اكشن",
-          "دراما",
-          "مغامرة"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL",
-          "720p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة الفيلم": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Ayik Chut",
-          "David Field",
-          "Gary Beadle",
-          "Greg Hatton"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-bluff-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-3oaz4sgztys7.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-bluff-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/3oaz4sgztys7.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/1wr6df0xu45e",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/b4f7xgbtepcu",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/555B1153F8D4112",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/abe360e7f1208a4980c4aa27d181e6f0",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/surnio6vuqq3",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/OPje",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/wfw3s5lwcmyv",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/r01077oxi5in",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/2C0DD2C1263E93E",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/6188d6105513d89e4235c07bedbef1a8",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://frdl.io/cl25zalzeslw",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/2aKe7",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-bluff-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
-      "position": 56,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:02:11.238Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 13,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "204984",
-      "title": "فيلم The Drift 2026 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-drift-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=204984",
-      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BOGU4ZjE0YmQtNmQ4OS00ZjQ4LWFkYmQtNWZiNzlmMmNlNGJmXkEyXkFqcGc@._V1_-scaled-460x650.jpg",
-      "imdbRating": null,
-      "story": "دراما بقاء تدور حول متزلج على الجليد عالق على جرف جليدي في المحيط المتجمد الشمالي. عندما يبدأ الجرف الجليدي بالانجراف جنوبًا والذوبان، يجب على المتزلج استخدام كل الوسائل المتاحة للبقاء على قيد الحياة.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "دراما"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "موعد الصدور": [
-          "2026"
-        ],
-        "بطولة": [
-          "Jasmin Simonen",
-          "Mimi Roivainen",
-          "Nikos Koukas",
-          "Thea Sofie Loch Næss"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-drift-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-i4t6ukrr6l5m.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-drift-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/i4t6ukrr6l5m.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/7v72p9dx88wd",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/rksgsgfzgvod",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://ddownload.com/yex4w9l19cry",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/3E196A81CDAF820",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?48htsdfpdm6qqz07016p",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/ed8dba102841a759aca422c59348fec1",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/ze1atlnnx97u",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4cCez",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-the-drift-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
-      "position": 57,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:02:13.662Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 9,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "199634",
-      "title": "فيلم Return to Silent Hill 2026 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=199634",
-      "image": "https://topcinema.fan/wp-content/uploads/2026/02/_640x_58723cc2bb2d1187b83d2706a4122c9c97da860e79ff7db31004d0ffceb51ff0-483x650.jpg",
-      "imdbRating": "4.2",
-      "story": "يقرر (جيمس) الذهاب إلى منطقة التل الصامت بعد تلقيه خطاب غامض يطلب منه العودة، ويواجه هناك العديد من الأهوال المألوفة والغير مألوفة في مدينة يسكنها الرعب.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "دراما",
-          "رعب",
-          "غموض"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الفيلم": "106 دقيقة",
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة الفيلم": [
-          "المملكة المتحدة"
-        ],
-        "بطولة": [
-          "Emily Carding",
-          "Eve Macklin",
-          "Evie Templeton",
-          "Hannah Emily Anderson"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-gonj7j2z5gsg.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/gonj7j2z5gsg.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/9hhdee71eycl",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/1shle0rjtlw3",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/9A5A3AE0D99127F",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?f5gmv7rrcludgu1b2htl",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/2ea2628fa67dbdf0223fbab5e71fea2b",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/7ktsxw4xkiss",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2QHae",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-return-to-silent-hill-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
-      "position": 58,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:02:16.095Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 8,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "204831",
-      "title": "فيلم Dead Man’s Wire 2026 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-dead-mans-wire-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=204831",
-      "image": "https://topcinema.fan/wp-content/uploads/2026/02/MV5BYzJhZTFjYjQtOGRiYS00ZWZjLWJmYTMtYWY0ZDMzMjM5YmY5XkEyXkFqcGc@-scaled-439x650.jpg",
-      "imdbRating": "6.8",
-      "story": "يحكي الفيلم قصة احتجاز حقيقية عام 1977، حيث يدخل (توني كيريتسيس) مكتب رئيس شركة ميريديان للرهن العقاري (ريتشارد هول) ويحتجزه رهينة باستخدام بندقية مقطوعة وموصولة من الزناد إلى رقبة (توني).",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "جريمة",
-          "دراما",
-          "سيرة ذاتية"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL"
-        ],
-        "توقيت الفيلم": "105 دقيقة",
-        "موعد الصدور": [
-          "2025"
-        ],
-        "دولة الفيلم": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Al Pacino",
-          "Bill Skarsgård",
-          "Cary Elwes",
-          "Casey Feigh"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-dead-mans-wire-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-chccv613cr3u.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-dead-mans-wire-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/chccv613cr3u.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/ggai9gevzwpu",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/oa9ssifctbh5",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/D680721D219D3AD",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?s6htu3owf1u5x0ecvwbe",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/2507122a50792d970c1e95cb93db54e8",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/099du6mywtcs",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/4cC3j",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-dead-mans-wire-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
-      "position": 59,
-      "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:02:18.648Z",
-      "stats": {
-        "watchServersCount": 2,
-        "downloadServersCount": 8,
-        "genresCount": 0
-      }
-    },
-    {
-      "id": "199560",
-      "title": "فيلم Shelter 2026 مترجم اون لاين",
-      "url": "https://topcinema.fan/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.fan/?p=199560",
-      "image": "https://topcinema.fan/wp-content/uploads/2026/01/MV5BMzI2ODY3MzQtYzllNy00YWM1LWExZTgtOGIwNjk2MmE2MmY2XkEyXkFqcGc@-439x650.jpg",
-      "imdbRating": "6.4",
-      "story": "ينقذ رجل منعزل في جزيرة اسكتلندية نائية فتاة من الغرق في البحر، مما يفتح سلسلة من الأحداث الخطيرة، من بينها هجوم على منزله، فيضطر لمواجهة ماضيه غير العادي.",
-      "details": {
-        "قسم الفيلم": [
-          "افلام اجنبي"
-        ],
-        "نوع الفيلم": [
-          "اثارة",
-          "اكشن"
-        ],
-        "جودة الفيلم": [
-          "1080p WEB-DL",
-          "720p WEB-DL"
-        ],
-        "توقيت الفيلم": "107 دقيقة",
-        "موعد الصدور": [
-          "2026"
-        ],
-        "دولة الفيلم": [
-          "الولايات المتحدة الامريكية"
-        ],
-        "بطولة": [
-          "Adam Collins",
-          "Anna Crilly",
-          "Bally Gill",
-          "Bill Nighy"
-        ]
-      },
-      "year": null,
-      "quality": null,
-      "runtime": "2026-03-15",
-      "genres": [],
-      "countries": [],
-      "watchServers": [
-        {
-          "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.fan/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
-          "quality": "متعدد الجودات",
-          "type": "meta_stream",
-          "source": "og:video:secure_url"
-        },
-        {
-          "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-lwe1dduvr68i.html",
-          "quality": "متعدد الجودات",
-          "type": "iframe",
-          "width": "100%",
-          "height": "100%"
-        }
-      ],
-      "watchPage": "https://topcinema.fan/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
-      "downloadServers": [
-        {
-          "name": "VidTube",
-          "url": "https://vidtube.one/d/lwe1dduvr68i.html",
-          "quality": "متعدد الجودات",
-          "type": "pro_server",
-          "icon": "fas fa-rocket",
-          "label": "سيرفر سريع"
-        },
-        {
-          "name": "1080p",
-          "url": "https://updown.cam/kgjjt3x7pnqo",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://down.mdiaload.com/o444htj5lmax",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://nitroflare.com/view/D41F807C2B2E5C9",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1fichier.com/?5zmu2wouvldq67ow3kol",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://rapidgator.net/file/6a1b677285fbd8def5c62e1d23631d61",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://frdl.io/y9buvqm6k11g",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2QH8u",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://updown.cam/etb3iro60ysp",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://down.mdiaload.com/d943m63bil3y",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://nitroflare.com/view/5E9C7B8F6F101F7",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://1fichier.com/?74r8dklyvhdcz7hv1ypw",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://rapidgator.net/file/49340aca52963c26e276637ce12e2ca4",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://frdl.io/sps53vlorveq",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "720p",
-          "url": "https://1cloudfile.com/1uMem",
-          "quality": "720p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        }
-      ],
-      "downloadPage": "https://topcinema.fan/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-shelter-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 1,
       "position": 60,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-15T20:02:21.073Z",
+      "scrapedAt": "2026-03-15T20:44:26.572Z",
       "stats": {
         "watchServersCount": 2,
-        "downloadServersCount": 15,
+        "downloadServersCount": 7,
         "genresCount": 0
       }
     }
