@@ -3,7 +3,7 @@
   "fileNumber": 2,
   "totalMovies": 500,
   "created": "2026-02-09T11:04:59.433Z",
-  "lastUpdated": "2026-03-18T19:55:39.842Z",
+  "lastUpdated": "2026-03-18T20:45:24.523Z",
   "moviesPerFileLimit": 250,
   "movies": [
     {
@@ -5090,7 +5090,7 @@
       "page": 1,
       "position": 25,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:54:57.540Z",
+      "scrapedAt": "2026-03-18T20:44:37.359Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -5416,7 +5416,7 @@
         },
         {
           "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-gonj7j2z5gsg.html",
+          "url": "https://vidtube.one/embed-k9wjjotdqso5.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "width": "100%",
@@ -5486,7 +5486,7 @@
       "page": 1,
       "position": 1,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:54:11.467Z",
+      "scrapedAt": "2026-03-18T20:43:46.366Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 7,
@@ -8994,7 +8994,7 @@
       "page": 1,
       "position": 26,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:54:59.471Z",
+      "scrapedAt": "2026-03-18T20:44:39.629Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -37018,7 +37018,7 @@
       "page": 1,
       "position": 47,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:55:39.824Z",
+      "scrapedAt": "2026-03-18T20:45:24.505Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37341,7 +37341,7 @@
       "page": 1,
       "position": 36,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:55:18.693Z",
+      "scrapedAt": "2026-03-18T20:45:01.017Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 15,
@@ -62200,9 +62200,9 @@
     {
       "id": "181539",
       "title": "فيلم Worldbreaker 2025 مترجم اون لاين",
-      "url": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
-      "shortLink": "https://topcinema.rip/?p=181539",
-      "image": "https://topcinema.rip/wp-content/uploads/2025/11/MV5BMGExNGNhNjQtYzRjMi00MGI3LThlNTgtYzA3OWNkZDU5MmEzXkEyXkFqcGc@.jpg_V1_SX700.jpg",
+      "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86-2/",
+      "shortLink": "https://topcinema.fan/?p=181539",
+      "image": "https://topcinema.fan/wp-content/uploads/2025/11/MV5BMGExNGNhNjQtYzRjMi00MGI3LThlNTgtYzA3OWNkZDU5MmEzXkEyXkFqcGc@.jpg_V1_SX700.jpg",
       "imdbRating": "5",
       "story": "في إطار من الخيال العلمي، يقرر أب إخفاء ابنته على جزيرة للحفاظ على سلامتها، إلى جانب تجهيزها للبقاء على قيد الحياة والتمكن من مواجهة المعارك المنتظرة.",
       "details": {
@@ -62231,109 +62231,93 @@
       },
       "year": null,
       "quality": null,
-      "runtime": "12-11-2025",
+      "runtime": "2026-03-18",
       "genres": [],
       "countries": [],
       "watchServers": [
         {
           "name": "مشاهدة مباشرة",
-          "url": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
+          "url": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/?embedScreen=true",
           "quality": "متعدد الجودات",
           "type": "meta_stream",
           "source": "og:video:secure_url"
         },
         {
           "name": "مشاهدة Iframe 1",
-          "url": "https://vidtube.one/embed-wnf9ek6a86el.html",
+          "url": "https://vidtube.one/embed-dez7of2a8urs.html",
           "quality": "متعدد الجودات",
           "type": "iframe",
           "width": "100%",
           "height": "100%"
         }
       ],
-      "watchPage": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+      "watchPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/wnf9ek6a86el.html",
+          "url": "https://vidtube.one/d/dez7of2a8urs.html",
           "quality": "متعدد الجودات",
           "type": "pro_server",
           "icon": "fas fa-rocket",
           "label": "سيرفر سريع"
         },
         {
-          "name": "UpDown",
-          "url": "https://updown.cam/iqkgq2eocq6g",
+          "name": "1080p",
+          "url": "https://updown.cam/d5zkl57fvgqs",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Mdiaload",
-          "url": "https://down.mdiaload.com/65rdgucqe2pj",
+          "name": "1080p",
+          "url": "https://down.mdiaload.com/cfl96pfdbiq0",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Ddownload",
-          "url": "https://ddownload.com/ghnb2yqzbjca",
+          "name": "1080p",
+          "url": "https://nitroflare.com/view/503A55A83B0F36E",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Nitroflare",
-          "url": "https://nitroflare.com/view/A869D861182A04B",
+          "name": "1080p",
+          "url": "https://rapidgator.net/file/a6429b45ebd2db6b8bd4c2714dafb4ba",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "1Fichier",
-          "url": "https://1fichier.com/?x8inhettwh2yl8v03589",
+          "name": "1080p",
+          "url": "https://frdl.io/43shifjxjzk7",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         },
         {
-          "name": "Rapidgator",
-          "url": "https://rapidgator.net/file/f2c6f428ae9b2cdbc1465d110004916b",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "Freedl",
-          "url": "https://frdl.io/lqf0mdpoee7d",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "CloudFile",
-          "url": "https://1cloudfile.com/2a0v8",
+          "name": "1080p",
+          "url": "https://1cloudfile.com/3wMwu",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
           "label": "سيرفر تحميل"
         }
       ],
-      "downloadPage": "https://topcinema.rip/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
-      "page": 8,
-      "position": 3,
-      "currentFile": "Top1.json",
-      "scrapedAt": "2026-02-15T16:22:29.407Z",
+      "downloadPage": "https://topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-worldbreaker-2025-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/download/",
+      "page": 1,
+      "position": 10,
+      "currentFile": "Top14.json",
+      "scrapedAt": "2026-03-18T20:44:06.135Z",
       "stats": {
         "watchServersCount": 2,
-        "downloadServersCount": 9,
+        "downloadServersCount": 7,
         "genresCount": 0
       }
     },
