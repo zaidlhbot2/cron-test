@@ -3,7 +3,7 @@
   "fileNumber": 2,
   "totalMovies": 500,
   "created": "2026-02-09T11:04:59.433Z",
-  "lastUpdated": "2026-03-18T19:12:58.522Z",
+  "lastUpdated": "2026-03-18T19:53:12.022Z",
   "moviesPerFileLimit": 250,
   "movies": [
     {
@@ -5090,7 +5090,7 @@
       "page": 1,
       "position": 25,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:12:12.283Z",
+      "scrapedAt": "2026-03-18T19:52:30.453Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -5385,7 +5385,7 @@
           "غموض"
         ],
         "جودة الفيلم": [
-          "1080p WEB-DL"
+          "1080p BluRay"
         ],
         "توقيت الفيلم": "106 دقيقة",
         "موعد الصدور": [
@@ -5427,7 +5427,7 @@
       "downloadServers": [
         {
           "name": "VidTube",
-          "url": "https://vidtube.one/d/gonj7j2z5gsg.html",
+          "url": "https://vidtube.one/d/k9wjjotdqso5.html",
           "quality": "متعدد الجودات",
           "type": "pro_server",
           "icon": "fas fa-rocket",
@@ -5435,7 +5435,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://updown.cam/9hhdee71eycl",
+          "url": "https://updown.cam/ra75oznrnicv",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5443,7 +5443,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://down.mdiaload.com/1shle0rjtlw3",
+          "url": "https://down.mdiaload.com/frnypbbpppnl",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5451,7 +5451,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://nitroflare.com/view/9A5A3AE0D99127F",
+          "url": "https://nitroflare.com/view/7951BDA5902E101",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5459,7 +5459,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://1fichier.com/?f5gmv7rrcludgu1b2htl",
+          "url": "https://rapidgator.net/file/f7d8631fe267e8da5f8c6936ae8aebce",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5467,7 +5467,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://rapidgator.net/file/2ea2628fa67dbdf0223fbab5e71fea2b",
+          "url": "https://frdl.io/gwouuyupyrn9",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5475,15 +5475,7 @@
         },
         {
           "name": "1080p",
-          "url": "https://frdl.io/7ktsxw4xkiss",
-          "quality": "1080p",
-          "type": "download_server",
-          "icon": "fas fa-download",
-          "label": "سيرفر تحميل"
-        },
-        {
-          "name": "1080p",
-          "url": "https://1cloudfile.com/2QHae",
+          "url": "https://1cloudfile.com/4cL2m",
           "quality": "1080p",
           "type": "download_server",
           "icon": "fas fa-download",
@@ -5494,10 +5486,10 @@
       "page": 1,
       "position": 1,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:11:21.560Z",
+      "scrapedAt": "2026-03-18T19:51:45.431Z",
       "stats": {
         "watchServersCount": 2,
-        "downloadServersCount": 8,
+        "downloadServersCount": 7,
         "genresCount": 0
       }
     },
@@ -9002,7 +8994,7 @@
       "page": 1,
       "position": 26,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:12:14.361Z",
+      "scrapedAt": "2026-03-18T19:52:32.327Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 9,
@@ -37026,7 +37018,7 @@
       "page": 1,
       "position": 47,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:12:58.504Z",
+      "scrapedAt": "2026-03-18T19:53:12.008Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 8,
@@ -37349,7 +37341,7 @@
       "page": 1,
       "position": 36,
       "currentFile": "Top14.json",
-      "scrapedAt": "2026-03-18T19:12:35.315Z",
+      "scrapedAt": "2026-03-18T19:52:51.360Z",
       "stats": {
         "watchServersCount": 2,
         "downloadServersCount": 15,
